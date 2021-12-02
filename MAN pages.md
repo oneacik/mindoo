@@ -1,0 +1,6 @@
+#cli
+
+## Wording
+
+- invert
+- sort

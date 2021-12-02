@@ -1,0 +1,16 @@
+- Create a nice presentation for conference
+	- Using ANTLR: how to upgrade library in enterprise codebase
+	- 5 sins in your codebase we all will suffer from
+		- Broken DRY
+		- Not important stuff Cluttering The Code
+		- 
+	- Architecture: Simplicity vs Flexibility - You can't have both, can you?
+	- Using ArchUnit to enforce conventions (too early?)
+	- [[Domain Driven Design - Presentation]]
+- Create a nice project
+	- Inventory
+- Pair with somebody
+	- On doing frontend
+- Next Jobs
+	- Become Consultant -> It will allow me to work in different environments
+	- Work on Software House project -> To see how fast can I move
