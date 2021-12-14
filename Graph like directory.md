@@ -1,0 +1,7 @@
+- tree is not optimal for directory structure
+- in scripts some files need to use some other files and know nothing about the rest
+- when we look on files like linked directories then we can measure
+	- how many files it depends on
+	- how many files are depending on it
+	- What is the longest critical chain of all operations
+	- See how many files in a directory are totally unrelated to the file
