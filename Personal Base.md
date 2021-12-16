@@ -1,0 +1,2 @@
+- Rewriting things to my language #stoicism
+- Always try to improve #stoicism 

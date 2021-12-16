@@ -1,0 +1,2 @@
+- What is the weakness in the team
+	- They will tell you

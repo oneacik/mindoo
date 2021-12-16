@@ -1,0 +1,43 @@
+- How to change way we work
+- Introduction
+- Book Description
+	- What means the Lean Startup title
+		- Lean Startup = smukły startup
+		- Why Lean - because it has very little processes which grow only when needed
+		- Startup - Eric Ries defines a *startup* as an organization dedicated to creating something new under conditions of *extreme uncertainty*
+			- Startup is a new type of the business which yet doesn't have a verified business model, therefore its foundation is extremely uncertain.
+			- Startup can be even life as it also is extremely uncertain and we don't know how to live.
+	- Techniques
+		- Doing things in small chunks, Iteratively
+			- Instead of doing an event and marketing it for many monies
+			- You can do many events to try the idea
+		- Measuring Metrics
+			- To see if something we do is good and growing
+			- You can use quality or quantity metrics
+				- quality: do people like our meeting? 
+				- quantity: how many people come to our meeting?
+		- Learning on mistakes
+			- Each cycle should finish with retrospective
+				- In my events I was asking people what could be improved and what was bad
+			- Each retrospective should find the root cause
+				- You can use 5 times Why
+			- Each problem should be addressed
+				- by the way we change the process
+- How it changed the way I live
+	- I am not scared of failing?
+		- By doing things small I am not scared if there will be few ppl
+		- I am happy that I can learn a new thing every time
+	- I tend to learn and improve with everything I do
+		- I started taking notes
+		- I change stuff I don't like
+	- I have more courage to do stuff 
+		- Because it is ok to commit mistakes
+- How it changed our environment
+	- I am organising this show&tell and trying to make it exceptional and better
+	- I created pandemonium project because I was ready to commit mistakes
+	- I work on my life thinking about what is bad and good, trying to be happy #stoicism
+- Summary
+	- Read Lean Startup
+		- If you want to change your life for better
+		- If you want to start organising greater things for others
+		- Eventually, if you want to create your own startup and you are scared to start

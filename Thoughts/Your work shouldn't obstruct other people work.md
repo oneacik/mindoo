@@ -1,0 +1,1 @@
+- If you are writing code that will be an obstacle for others u suck
