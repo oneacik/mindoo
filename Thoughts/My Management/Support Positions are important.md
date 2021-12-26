@@ -1,0 +1,1 @@
+I think that there is a need for people that just supervise things that other people do and try to intervene. I think that it should be a path of a manager.

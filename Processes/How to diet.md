@@ -1,0 +1,10 @@
+- Eat only 3 not-so-big meals a day
+- If I need to have a snack, go for fruit
+	- Create a vision in your community that a fruit is a best snack
+- Things that make ma hungry
+	- Ramen
+	- Pizza
+- Things that make me full
+	- Fruits
+	- Raw Veggies
+	- Avocado Vege Burger

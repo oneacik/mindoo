@@ -3,13 +3,13 @@
 ## Cele
 
 Chcę stworzyć zespół programistów, których nauczę dobrej architektury i czystego kodu.
-Chcę z tym zespołem wykonać przydatny i skomplikowany projekt dla ngo: **potrzebny pomysł**.
+Chcę z tym zespołem wykonać przydatny i skomplikowany projekt dla ngo: **potrzebny pomysł**.  Można wykorzystać [[Gov Tech]].
 Chcemy z tego projektu opublikować otwarte biblioteki kodu do dalszego wykorzystania oraz bycia wzorcem dla innych.
 
 ## Dalsza perspektywa
 
 Chcę z tego zespołu stworzyć software/startup house, który będzie tworzyć wysoko jakościowe oprogramowanie i przeprowadzać badania na temat technik programistycznych.
-Chcę, by Ci ludzie mogli kaskadowo przekazywać swoją wiedzę innym osobom - chcę skompletować zbiór praktyk, które mogą być przekazywane dalej i pozwalać innym osobom nauczać innych.
+Chcę, by uczestnicy projektu mogli kaskadowo przekazywać swoją wiedzę innym osobom - chcę skompletować zbiór praktyk, które mogą być przekazywane dalej i pozwalać innym osobom nauczać innych.
 
 ## Diagnoza
 
@@ -71,12 +71,15 @@ bym mógł być zaangażowany w projekcie i przeznaczyć na niego cały mój cza
 
 ### Metryki Maksimum
 
+Projekt zostanie wykonany.
 Stworzymy software house.
 Software House po projekcie wykona projekt komercyjny, który zakończy się sukcesem.
+Każda osoba będzie mentorować przynajmniej jedną osobę po projekcie.
 
 
 ### Metryki Optimum
 
+Projekt zostanie wykonany.
 Każda z osób biorących udział w projekcie otrzyma pracę, lub awans w swojej bieżącej pracy.
 Co najmniej jedna osoba będzie mentorować inną osobę w trakcie i po projekcie.
 Co najmniej jedna osoba po projekcie poprowadzi swój własny projekt komercyjny, lub niekomercyjny w swoim własnym zespole.

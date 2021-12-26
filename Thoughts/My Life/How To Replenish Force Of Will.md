@@ -1,0 +1,3 @@
+- Giving yourself a break and waiting for boredom to come
+- Meet with people that inspire you and give you a new way
+	- It will help you remove the blockades

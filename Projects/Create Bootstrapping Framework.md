@@ -1,0 +1,2 @@
+Setting up express js application with React js is a fucking pain in the ass.
+Why not create something that just by few lines could configure like fucking nice defaults that can be composited with each other?
