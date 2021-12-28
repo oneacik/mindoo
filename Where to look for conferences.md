@@ -1,0 +1,1 @@
+- Search for conferences when your idols are in (from craftmanship manifesto e.g)

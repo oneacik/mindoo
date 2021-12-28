@@ -1,0 +1,1 @@
+- I should ask people for the ideal vision they have for processes and themselves

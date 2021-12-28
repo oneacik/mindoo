@@ -1,0 +1,1 @@
+- Need for DDD arises when use cases share common mechanisms.
