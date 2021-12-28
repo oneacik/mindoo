@@ -1,0 +1,12 @@
+name: Trigger Digital Garden Repository Update
+on: push
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: myrotvorets/trigger-repository-dispatch-action@1.0.0
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repo: oneacik/digital-garden
+          type: update-mindoo
