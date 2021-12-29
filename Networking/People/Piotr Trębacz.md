@@ -4,7 +4,7 @@ However I think that his approach is also benefiting the others as you can't do 
 
 He also is a good architecture advocate and knowledge advocate.
 
-Recently we met in [[Sultan Club]] for a talk about Consulting, especially in [[Accenture]].
+Recently we met in [[Sultan Club]] for a talk about Consulting, especially about[[Accenture]].
 We talked about different thoughts:
 
 ## Thoughts
@@ -33,3 +33,7 @@ It is a good idea to go for consulting if you are flexible, want to grow and are
 
 Reading books about negotiations may easily make you money and it is measurable.
 Also reading management books may be profitable, but learning how people work and how to communicate with them may be more.
+
+### Meetups
+
+Organising meetups in pandemic times is hard because people totally changed 
