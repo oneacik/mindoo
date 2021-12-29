@@ -1,0 +1,1 @@
+Sprint velocity is number of estimation points that are burned in the sprint.
