@@ -1,2 +1,2 @@
 Dagmara Żuk is a member of [[NZS]].
-I met her at [[Active Students X-MAS Party]].
+I met her at [[(2021-xx-xx) Active Students X-MAS Party]].

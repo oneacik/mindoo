@@ -1,6 +1,6 @@
 ### Kontekst
 
-Książki IT to seria spotkań, którą chcę zoorganizowć, będąc zainspirowany moim innym wydarzeniem: [[Show&Tell5 - Ksiazki zmieniajace rzeczywistosc]]
+Książki IT to seria spotkań, którą chcę zoorganizowć, będąc zainspirowany moim innym wydarzeniem: [[(2021-12-xx) Show&Tell5 - Ksiazki zmieniajace rzeczywistosc]]
 Chcąc stworzyć podobne wydarzenie, lecz na większą skalę.
 Moim celem jest również stworzenie wydarzenia branżowego, gdzie można spotkać osoby z IT, które lubią się rozwijać łącząc teorie z praktyką.
 Książki według mnie są dość mocnym spoiwem takich osób, ponieważ są dowodem na dociekliwość, ciekawość i brak wyboru drogi na skróty.
