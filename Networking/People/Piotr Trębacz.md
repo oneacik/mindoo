@@ -4,3 +4,5 @@ However, I think that his approach is also benefiting the others as you can't do
 
 He also is a good architecture advocate and knowledge advocate.
 
+[[(2021-12-29) Meeting With Piotr Trębacz - about]]
+
