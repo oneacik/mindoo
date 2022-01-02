@@ -6,7 +6,7 @@ Książki IT to seria spotkań, które skupiają się na wiedzy pozyskanej z ksi
 Branżę IT wybrałem jako motyw spotkań, ponieważ jest niesamowicie innowacyjna, tematów związanych jest multum, a jej rozwiązania mają zastosowanie multidyscyplinarne.
 Jest to również branża, która jest mi najbardziej bliska i znana.
 
-Chęć zorganizowania tego wydarzenia pochodzi z sukcesu innego spotkania, które organizowałem: [[(2021-12-xx) Show&Tell5 - Ksiazki zmieniajace rzeczywistosc]].
+Chęć zorganizowania tego wydarzenia pochodzi z sukcesu innego spotkania, które organizowałem: [[(2021-12-xx) ShowAndTell5 - Ksiazki zmieniajace rzeczywistosc]].
 Chcę stworzyć podobne wydarzenie, lecz na większą skalę i z lepiej zdefiniowanym motywem.
 
 ### Cel

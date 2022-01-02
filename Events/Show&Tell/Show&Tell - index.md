@@ -1,4 +1,4 @@
 - It is easiest to gather people by inviting them to an event
-- It is important to pick correct date for an event [[(2021-12-xx) Show&Tell5 - Ksiazki zmieniajace rzeczywistosc]]
+- It is important to pick correct date for an event [[(2021-12-xx) ShowAndTell5 - Ksiazki zmieniajace rzeczywistosc]]
 - It is nice to have a recording of Event, use [[Streaming]]
 - [[Link Shortener]] will allow you to see how many clicks we got from poster

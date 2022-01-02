@@ -2,7 +2,8 @@
 - If I need to have a snack, go for fruit
 	- Create a vision in your community that a fruit is a best snack
 - Things that make ma hungry
-	- Ramen
+	- Gyozilla
+		- Ramen
 	- Pizza
 	- Fat sauces
 	- Fat veggies
@@ -10,4 +11,9 @@
 - Things that make me full
 	- Fruits
 	- Raw Veggies
-	- Avocado Vege Burger
+	- Avocado 
+		- Vege Burger
+	- Beetroot Fermented Juice
+	- Falla
+		- Hemp Wrap
+		- Ayran
