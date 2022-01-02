@@ -4,13 +4,13 @@
 
 - [ ] Find people to mentor/cooperate
 	- [x] Backend (Remi)
-	- [x] Senior bullshit dealer Sadowski 
+	- [x] Senior Embedded Developer (Jakub Sadowski) 
 	- [ ] Frontend (Barzyk?)
 	- [ ] Fullstack (mble?)
 	- [ ] Design
 	- [ ] Quality Assurance
 	- [ ] Devops?
-- [ ] Find 3 companies to cooparate
+- [ ] Find 3 companies to partner with
 	- [ ] KPRM [[Damian Rychlik]] ?
 	- [ ] Company 2
 	- [ ] Company 3
