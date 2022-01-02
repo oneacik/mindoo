@@ -4,6 +4,9 @@
 - Things that make ma hungry
 	- Ramen
 	- Pizza
+	- Fat sauces
+	- Fat veggies
+	- Cheese (yello and white)
 - Things that make me full
 	- Fruits
 	- Raw Veggies

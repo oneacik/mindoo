@@ -3,7 +3,7 @@
 
 ### 7: How to empower teams
 
-120: Managers create motivational debt by being bossy. People don't want to be told what to do, they want to be asked.
+120: Managers create [[Motivational Debt]] by being bossy. People don't want to be told what to do, they want to be asked. **And they may not agree**.
 
 121: It is better to be "one-minute manager" than full time manager
 
