@@ -2,9 +2,10 @@
 
 ### Wprowadzenie
 
-Książki IT to seria spotkań, które skupiają się na wiedzy pozyskanej z książek.
-Branżę IT wybrałem jako motyw spotkań, ponieważ jest niesamowicie innowacyjna, tematów związanych jest multum, a jej rozwiązania mają zastosowanie multidyscyplinarne.
-Jest to również branża, która jest mi najbardziej bliska i znana.
+Książki IT to seria spotkań, która w przystępny sposób przekazuje wiedzę pozyskaną z książek.
+Branżę IT wybrałem jako motyw przewodni, ponieważ wiedza z tej kategorii jest multidyscyplinarna i innowacyjna. 
+Przykładowo umiejętności z zarządzania projektami w IT mogą się przydać osobom niezaznajomionymi z technologią, a inne spojrzenie może być źródłem wielu udoskonaleń na ten temat.
+Branża IT jest mi również najbardziej bliska i znana.
 
 Chęć zorganizowania tego wydarzenia pochodzi z sukcesu innego spotkania, które organizowałem: [[(2021-12-xx) ShowAndTell5 - Ksiazki zmieniajace rzeczywistosc]].
 Chcę stworzyć podobne wydarzenie, lecz na większą skalę i z lepiej zdefiniowanym motywem.
