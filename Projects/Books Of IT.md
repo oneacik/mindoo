@@ -73,3 +73,31 @@ Do zobaczenia.
 	-  [[SSPG]] - [[Kuba Persjanow]]
 -  Biblioteki: Dociekliwe osoby interesujące się książkami
 	-  WMBP
+
+## Czego oczekuję od partnerów
+
+Pierwsze spotkanie będzie dość mocno prototypowe, dlatego chce je wykonać głównie z osobami zafascynowanymi wydarzeniem.
+
+Szukam od was następującego wsparcia: 
+1. Pomoc w definicji struktury spotkania 
+2. Wzięcie od siebie paru osób na spotkanie 
+3. Feedback po zakończeniu spotkania 
+
+**Ad 1)** 
+Z chęcia spotkałbym się i posłuchałbym jaka formuła jest dla was najciekawsza. 
+Na pewno macie w tym większe doświadczenie niż ja. 
+Zauważyłem, że dużo meetupów nie jest wystarczająco integrujących. 
+Chciałbym popracować nad tą stroną. 
+Również ciekawa byłaby opinia dotyczący tematów, które moglibyśmy poruszyć na spotkaniu.
+Jeżeli wynikowy motyw mocno rozjechałby się z tematami, które razem ze znajomymi mógłbym dostarczyć, to z chęcią poprosiłbym również o wsparcie w poszukiwaniu prelegentów.
+
+**Ad 2)**
+Na pierwsze spotkanie chciałbym zaprosić głównie zainteresowane osoby 
+i ograniczyć ilość osób, by poprawić komunikacje na koniec. 
+Dlatego chciałbym, by każda firma zaprosiła parę osób najbardziej zainteresowanych tematem, by mogła potem wpłynąć na wydarzenia kształt. 
+
+**Ad 3)**
+No i własnie feedback, bo chciałbym stworzyć coś niezwykłego. 
+Również chciałbym, by to spotkanie mogło się pokryć z waszymi celam.
+
+Myślę, że na razie nie potrzebuję większej pomocy z organizacją, ale jeżeli bylibyście mi chętni w przyszłości mi pomóc, to byłbym jak najbardziej otwarty :).
