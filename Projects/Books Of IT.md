@@ -63,11 +63,11 @@ Do zobaczenia.
 
 - Firmy: Źródło pasjonatów i sponsorów
 	- Scalac: Katarzyna Królikowska
-	- Epam: Martyna Wyrzykowska
-	- Kainos
-	- Atlassian
-	- Intel: Marcin Jasiukowicz
-	- Dynatrace: Kasia Szulc
+	- Epam: Mirek Pałysiewicz
+	- Kainos: Michalina Kowalik
+	- Atlassian: ?
+	- Intel: ?
+	- Dynatrace: Monika Serafin - Employer Branding
 		- Michal Jakubowski - kluby książkowe
 - Studenci: Początkujący ludzie poszukujący inspiracji
 	-  [[SSPG]] - [[Kuba Persjanow]]
@@ -101,3 +101,55 @@ No i własnie feedback, bo chciałbym stworzyć coś niezwykłego.
 Również chciałbym, by to spotkanie mogło się pokryć z waszymi celam.
 
 Myślę, że na razie nie potrzebuję większej pomocy z organizacją, ale jeżeli bylibyście mi chętni w przyszłości mi pomóc, to byłbym jak najbardziej otwarty :).
+
+## Kreowanie wizji
+
+[Na bazie: purpose to practice](https://www.liberatingstructures.com/33-purpose-to-practice-p2p/)
+
+Wizja z początku dokumentu może się zmieniać wobec oczekiwań osób, z którymi rozmawiam. Tutaj zamieszczam informacje od siebie i innych osób, które będą służyły wykreowaniu idealnego spotkania.
+
+Draft!
+
+### Cele
+- Ja (Piotr Suwała)
+	- Networking
+		- Poznanie dociekliwych osób do zespołu, który chcę w przyszłości założyć
+		- Poznanie osób chcących dzielić się ustrukturyzowaną wiedzą
+	- Miejsce na dyskutowanie idei z przeczytanych książek
+	- Nauka tworzenia lepszych prezentacji i lepszych spotkań
+	- Sprawdzenie, czy organizacja spotkań i warsztatów może być zajęciem, które mogę robić na codzień
+- Monika Serafin (DevONE / Dynatrace)
+	- Rozwój - Nauczenie się czegoś spoza bańki pracowej
+	- Ludzie - Poznać ciekawych ludzi 
+
+### Pryncypałki
+
+- Wspieramy innych w odnalezieniu się w społeczności, poprzez nieinwazyjną facylitację.
+- Każde spotkanie ma zostawić nas zajaranych na kolejne.
+- Sponsoringi nigdy nie mają mieć wpływu na jakość spotkania.
+- Spotkania mają nas rozwijać i inspirować; nie udawać, że to robią.
+- Uczestnicy mają decydować o motywie kolejnego spotkania, nie dostępność prelegentów.
+
+### Uczestnicy
+
+- Eksperci, którzy
+	- chcą dzielić się swoją wiedzą, 
+	- doskonalić się w nauczaniu, 
+	- dyskutować wspólnie złożone problemy.
+- Osoby doświadczone, które
+	- szukają świeżych rozwiązań do starych problemów
+	- doświadczyć ludzi z organizacji, które skupiają się na wiedzy i dobrych praktykach
+	- poszukują ścieżki dalszego rozwoju
+- Studenci/Świeżacy
+	- Szukający szczerego i otwartego kontaktu do branży it
+	- Poszukujący sposobu na dostanie się do pierwszej pracy
+	- Szukający środowiska, które pomoże im się uczyć
+
+### Struktura
+
+### Praktyki
+
+- [Lean Coffee](https://leanchange.org/resources/leancoffee/) — do prowadzenia spontanicznych spotkań, zgodnych z wolą uczestników
+- Praktyczne prezentacje
+- Liberating Structures
+	- [Impromptu Networking](https://www.liberatingstructures.com/2-impromptu-networking/) — Ciekawy sposób na zapoznanie ze sobą ludzi i przekazanie między nimi swoich ideałów
