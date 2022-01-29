@@ -1,0 +1,1 @@
+Agregator dofinansować, zajmują się też konsultacjami i wsparciem 3 sektora.

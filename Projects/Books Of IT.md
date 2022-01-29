@@ -113,37 +113,38 @@ Draft!
 ### Cele
 - Ja (Piotr Suwała)
 	- Networking
-		- Poznanie dociekliwych osób do zespołu, który chcę w przyszłości założyć
-		- Poznanie osób chcących dzielić się ustrukturyzowaną wiedzą
-	- Miejsce na dyskutowanie idei z przeczytanych książek
-	- Nauka tworzenia lepszych prezentacji i lepszych spotkań
-	- Sprawdzenie, czy organizacja spotkań i warsztatów może być zajęciem, które mogę robić na codzień
+		- Poznanie dociekliwych osób do zespołu, który chcę w przyszłości założyć $1
+		- Poznanie osób chcących dzielić się ustrukturyzowaną wiedzą $2
+	- Miejsce na dyskutowanie idei z przeczytanych książek $3
+	- Nauka tworzenia lepszych prezentacji i lepszych spotkań $4
+	- Sprawdzenie, czy organizacja spotkań i warsztatów może być zajęciem, które mogę robić na co dzień $5
 - Monika Serafin (DevONE / Dynatrace)
-	- Rozwój - Nauczenie się czegoś spoza bańki pracowej
-	- Ludzie - Poznać ciekawych ludzi 
+	- Rozwój — Nauczenie się czegoś spoza bańki pracowej $6
+	- Ludzie — Poznać ciekawych ludzi $7
 
 ### Pryncypałki
 
-- Wspieramy innych w odnalezieniu się w społeczności, poprzez nieinwazyjną facylitację.
-- Każde spotkanie ma zostawić nas zajaranych na kolejne.
-- Sponsoringi nigdy nie mają mieć wpływu na jakość spotkania.
-- Spotkania mają nas rozwijać i inspirować; nie udawać, że to robią.
-- Uczestnicy mają decydować o motywie kolejnego spotkania, nie dostępność prelegentów.
+- Wspieramy innych w odnalezieniu się w społeczności, poprzez nieinwazyjną facylitację. $1 $7 &1
+- Każde spotkanie ma zostawić nas zajaranych na kolejne. &2
+- Sponsoringi nigdy nie mają mieć wpływu na jakość spotkania. $5 &3
+- Spotkania mają nas rozwijać i inspirować; nie udawać, że to robią. $2 $3 $6 &4
+- Uczestnicy mają decydować o motywie kolejnego spotkania, nie dostępność prelegentów. $3 $4 $6 &5
+- Książki i doświadczenie są bazą naszych umiejętności, co pozwala nam zachować jakość naszej wiedzy $1 $2 $3 
 
 ### Uczestnicy
 
 - Eksperci, którzy
-	- chcą dzielić się swoją wiedzą, 
-	- doskonalić się w nauczaniu, 
-	- dyskutować wspólnie złożone problemy.
+	- chcą dzielić się swoją wiedzą, $2 &4 
+	- doskonalić się w nauczaniu, $4 &5
+	- dyskutować wspólnie złożone problemy. $3 $6 &4
 - Osoby doświadczone, które
-	- szukają świeżych rozwiązań do starych problemów
-	- doświadczyć ludzi z organizacji, które skupiają się na wiedzy i dobrych praktykach
-	- poszukują ścieżki dalszego rozwoju
+	- szukają świeżych rozwiązań do starych problemów $6 &4
+	- doświadczyć ludzi z organizacji, które skupiają się na wiedzy i dobrych praktykach $6 $7 
+	- poszukują ścieżki dalszego rozwoju $6
 - Studenci/Świeżacy
-	- Szukający szczerego i otwartego kontaktu do branży it
-	- Poszukujący sposobu na dostanie się do pierwszej pracy
-	- Szukający środowiska, które pomoże im się uczyć
+	- Szukający szczerego i otwartego kontaktu do branży it $6
+	- Poszukujący sposobu na dostanie się do pierwszej pracy $1
+	- Szukający środowiska, które pomoże im się uczyć $1 $2
 
 ### Struktura
 
@@ -153,3 +154,12 @@ Draft!
 - Praktyczne prezentacje
 - Liberating Structures
 	- [Impromptu Networking](https://www.liberatingstructures.com/2-impromptu-networking/) — Ciekawy sposób na zapoznanie ze sobą ludzi i przekazanie między nimi swoich ideałów
+
+
+## Brudnopis
+
+### 2022-01-27 Trojqa
+
+- Różnorodne tematy na klubie książkowym mogą zabić grupę docelową
+- Nie każdy temat ma swoją książkę
+- Pomysł: Książki powinny łączyć ludzi, ale nie być wymogiem prowadzonych prelekcji, czy spotkań.
