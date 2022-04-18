@@ -3,7 +3,7 @@
 
 ## My presentations
 
-- [[Lean Startup Book Presentation]]
+- [[RDY Lean Startup Book Presentation]]
 
 ## Retrospective
 

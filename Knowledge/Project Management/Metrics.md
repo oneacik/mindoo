@@ -1,5 +1,5 @@
 Metrics are a way to measure stuff.
-It was mentioned in [[Lean Startup Book Presentation]].
+It was mentioned in [[RDY Lean Startup Book Presentation]].
 
 ### Measuring impact
 
