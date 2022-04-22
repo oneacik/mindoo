@@ -1,16 +1,19 @@
 #software-development 
 
 ## Planning
-- Define if task is highly uncertain
-	- Yes
-		- More: Tests
-		- Preimplementation meetings
-		- Precise: Implementation Plan
-	- No: Go with standard flow
-- 
+- Have a high level plan
 
 ## Implementation
-- Ask yourself question if you shouldn't rethink the approach
-	- Ask other people if unsure
+
+### Preparing
+- See if you can easily test something
+- See if you can easily debug something
+- Plan work you want to achieve today
+
+### doing
+- detect low performance frustration moments
+	- take break then and reevaluate `implementation.preparing`
+- [[Debugging]]
 
 ## Review
+- Don't start new things before tests pass

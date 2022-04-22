@@ -7,3 +7,4 @@
 	- It should contain only things that are needed
 - Is addressed to people
 	- Language and information is tailored correctly
+	- Lots of understandable graphs
