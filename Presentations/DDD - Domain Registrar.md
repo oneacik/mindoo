@@ -7,24 +7,22 @@
 
 ### Abstrakt
 
-Coraz więcej projektów to słabej jakości bomba, które tykamy jedynie za fakt dostawania przysłowiowych 15k na rękę.
-Nie ważne czy dołączasz do nowego projektu prowadzonych przez "doświadczonych programistów", czy do wielkiego molocha legacy.
+Coraz więcej projektów to tykająca bomba wybuchowej złożoności, które dotykamy nie z przyjemności, a bardziej z konieczności.
 Zazwyczaj spotkasz się z setkami serwisów, które w kuriozalny sposób łączą się ze sobą, by na samym końcu cudem dać użytkownikowi tę kluczową wartość biznesową.
 Czy w programowaniu obiektowym nie zapomnieliśmy, że mieliśmy modelować właśnie zasady biznesowe, a nie code debt?
 
 Na tej prezentacji lekko wprowadzę was w świat DDD i przedstawię to, co mnie zafascynowało w tym podejściu:
 - Jak zobrazować sobie cały system razem z ludźmi z biznesu — czyli czym jest "Event Storming"
 - Jak wrócić do modelowania obiektowego zachowania domeny — czyli o "root aggregates" i "design patterns" słów kilka
-- Jak dzielić naszą domenę i walczyć ze złożonością — czyli "bounded contexts" i event "driven architecture".
-
-Jako materiał wspierający:
-- DDD w Kotlinie? -Ugryź to ze Springiem i Hibernate
-- Co dalej? - CQRS i Event Sourcing
+- Jak dzielić naszą domenę i walczyć ze złożonością — czyli "bounded contexts" i "event driven architecture".
 
 Co wyniesiesz z tej prezentacji?:
 - Inspiracje i dalsze kroki co do dalszej nauki DDD
 - Wstępną wiedzę, która pozwoli Ci wstępnie zaimplementować DDD w Kotlinie
 - Wiedzę na temat potrzebnych technologii, by implementować DDD w innych językach
+
+Do kogo kieruję tę prezentację?:
+- Do programistów, którzy potrafią rozrysować zależności między klasami i szukają praktycznych rozwiązań dla swojej architektury.
 
 Do Zobaczenia.
 
