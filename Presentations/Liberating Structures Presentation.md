@@ -1,0 +1,66 @@
+## Principles
+- engagement
+- performance
+
+## conspect
+1. Introduction
+	1. Today I'd like to introduce you to liberating structures
+2. Start the pitch
+	1. Why:
+		1. Meetings in the workplace
+			1. It is very hard to execute good meeting in the workplace
+			2. They take quite long as only one person is talking at the time
+			3. This tends to make people on meetings disengaged and is hiding their true potential and needed information
+			4. The meetings also have pointless agenda's and don't exactly support the purpose
+		2. Meetups and conferences
+			1. Feeling of detachment of what we need from what is done
+			2. Networking is very chaotic and not always fruitful
+		3. In general
+			1. Facilitation can get really cringy
+			2. And the activities may be not bringing much value
+	2. What:
+		1. Solution: Liberating Structures
+		2. Try Out: Impromptu Networking 
+	3. Wnioski
+3. TrojQA storry telling
+	1. Introduction
+		1. We were looking for a new direction for TrojQA
+		2. We invited a good facilitator [[Ewelina Gałęzowska]]
+	2. Agenda
+		1. Impromptu networking
+		2. 25-10 Crowd Sourcing
+			1. ?10
+		3. Design StoryBoards
+	3. Deliverable
+		1. We created many projects that are being executed
+		2. Examples
+			1. Social Integration (already regular meeting)
+			2. Hackathon
+			3. Mentoring Comunity
+		3. Also
+			1. Friendship & Happiness
+			2. Change in organisation
+4. My story - so what I started doing after it
+	1. Used Purpose to Practice for creating idea for book club
+		1. It allowed me to define purpose, people, structure, principles practices for my meeting
+		2. I used it when meeting with "Monika Serafin"
+		3. It allowed me to properly structure the idea on the book club
+5. What I loved about it
+	1. That it gives me structurized tools to solve many problems with the meetings
+6. What can be interesting for you project managers?
+	1. 1-2-4-All - Fundament
+		1. Easily unleash the energy of whole group
+	2. Min Specs - Minimum what is needed to do to achieve purpose
+		1. distill the stories and tasks to achieve the purpose
+	3. Critical Uncertainties
+		1. Talk about real risks in your project
+	4. Of course there is much more
+7. Summary
+	1. This Is Liberating Structures
+	2. It will make your meetings
+		1. Fun
+		2. Performative
+		3. Shorter
+
+
+

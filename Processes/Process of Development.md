@@ -14,6 +14,9 @@
 - detect low performance frustration moments
 	- take break then and reevaluate `implementation.preparing`
 - [[Debugging]]
+- Panicking
+	- Stop and think what we know
 
 ## Review
 - Don't start new things before tests pass
+- Always try out the solution from PR

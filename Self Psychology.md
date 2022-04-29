@@ -12,3 +12,5 @@ Take life slow, nobody will pay you for going fast.
 ## Overstressing
 I can't overwork as it depletes my mental power.
 I always should be hungry to just do something more.
+
+## Scared of unsaid words
