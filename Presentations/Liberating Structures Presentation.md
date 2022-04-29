@@ -1,6 +1,16 @@
-## Principles
-- engagement
-- performance
+# (PL) Jak prowadzić spotkania - Liberating Structures
+
+## Abstract (PL)
+Czym jest dobre spotkanie?
+Jest ono angażujące, spełnia swój cel i wychodzimy z niego zadowoleni.
+Kiedy ostatnio byliśmy na takim spotkaniu? No właśnie...
+...ale nikt nie powiedział, że to nie może się zmienić.
+Opowiem wam o tym, jak praktyki liberating structures pozwoliły
+społeczności TrojQA efektywnie ustalić strategie na następne miesiące.
+Przedstawię też rozwiązania stworzone specjalnie dla zarządzania projektami.
+To spotkanie zainspiruje was jak efektywnie uwolnić potencjał waszej organizacji.
+
+Do zobaczenia.
 
 ## conspect
 1. Introduction
@@ -21,7 +31,9 @@
 	2. What:
 		1. Solution: Liberating Structures
 		2. Try Out: Impromptu Networking 
-	3. Wnioski
+	3. Conclusions
+		1. We did it in isolation not synchronously one by one
+		2. We had a clear purpose and plan for getting to know each other
 3. TrojQA storry telling
 	1. Introduction
 		1. We were looking for a new direction for TrojQA
@@ -40,14 +52,7 @@
 		3. Also
 			1. Friendship & Happiness
 			2. Change in organisation
-4. My story - so what I started doing after it
-	1. Used Purpose to Practice for creating idea for book club
-		1. It allowed me to define purpose, people, structure, principles practices for my meeting
-		2. I used it when meeting with "Monika Serafin"
-		3. It allowed me to properly structure the idea on the book club
-5. What I loved about it
-	1. That it gives me structurized tools to solve many problems with the meetings
-6. What can be interesting for you project managers?
+4. What can be interesting for you project managers?
 	1. 1-2-4-All - Fundament
 		1. Easily unleash the energy of whole group
 	2. Min Specs - Minimum what is needed to do to achieve purpose
@@ -55,12 +60,9 @@
 	3. Critical Uncertainties
 		1. Talk about real risks in your project
 	4. Of course there is much more
-7. Summary
+5. Summary
 	1. This Is Liberating Structures
 	2. It will make your meetings
 		1. Fun
 		2. Performative
 		3. Shorter
-
-
-
