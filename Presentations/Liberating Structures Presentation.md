@@ -1,4 +1,4 @@
-# (PL) Jak prowadzić spotkania - Liberating Structures
+# (PL)  Jak prowadzić spotkania - praktyki Liberating Structures
 
 ## Abstract (PL)
 Czym jest dobre spotkanie?
@@ -11,6 +11,13 @@ Przedstawię też rozwiązania stworzone specjalnie dla zarządzania projektami
 To spotkanie zainspiruje was jak efektywnie uwolnić potencjał waszej organizacji.
 
 Do zobaczenia.
+
+## Bio (PL)
+
+Jestem programistą z wieloletnim doświadczeniem komercyjnym.
+Uczyłem się metodyk zwinnych w Atlassianie, w Goodnotes — pracy w organizacji turkusowej, sam wiele swojego czasu inwestuję w naukę architektury i zarządzania.
+Pracując w samoorganizujących się zespołach, zacząłem doceniać, jak ważna jest ustrukturyzowana komunikacja i jasno zdefiniowane praktyki.
+Definiowanie procesów i facylitacja ostatnio jest moim motywem eksploracyjnym.
 
 ## conspect
 1. Introduction

@@ -21,5 +21,6 @@
 	- Falla
 		- Hemp Wrap
 		- Ayran
+	- Drinking after eating
 - Laws of being hungry
 	- Eating small amount of carbs makes me crave for it
