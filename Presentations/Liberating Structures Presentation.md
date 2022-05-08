@@ -1,5 +1,13 @@
 # (PL)  Jak prowadzić spotkania - praktyki Liberating Structures
 
+## Related Links
+[Liberating Structures Overview](https://www.liberatingstructures.com/ls-menu/)
+
+[Latex Presentation Repository](https://gitlab.com/oneacik/lifecycle/-/tree/master/prezentacje%20i%20warsztaty/presentation/Liberating%20Structures)
+
+[My Homepage](https://ksidelta.com)
+
+
 ## Abstract (PL)
 Czym jest dobre spotkanie?
 Jest ono angażujące, spełnia swój cel i wychodzimy z niego zadowoleni.
