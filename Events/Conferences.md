@@ -1,6 +1,5 @@
 
 ## May - BeIT
-
 Konferencja inżynierii programowania.
 
 [2022 BeIT](https://www.facebook.com/events/341917417759919)
