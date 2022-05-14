@@ -4,6 +4,8 @@ Pisałem ją podczas paromiesięcznej przerwy od pracy jako programista.
 Zamierzałem ją wdrożyć samodzielnie do paru kawiarni.
 Skupiłem się głównie, by architektura tej aplikacji pozwalała na łatwe zmiany i wzrost funkcjonalności.
 
+[Filmik Stamply](https://www.youtube.com/watch?v=uDv7GsaDKgU&t=3s)
+
 W poprzedniej edycji projektu nie miałem jednak motywacji, by wdrożyć ją samodzielnie.
 Ostatnimi czasy jednak poznałem grupę Marketingowców Digital Marketing.
 Razem chcemy rozwijać projekt dalej, lecz ja nie mam tyle samo czasu, by pracować nad tym projektem.
