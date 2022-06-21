@@ -1,0 +1,8 @@
+- Ziomki poznani z More Than Code
+	- Michał Kurzelewski
+	- Mateusz Guziak
+- Hsp
+	- Norbert Szulc
+- Hs3
+	- Grzesiu (Haggis)
+	- Ziomo z hs3 (Yashikuto)

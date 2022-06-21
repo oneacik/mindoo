@@ -8,10 +8,13 @@ Plan For The Future:
 
 # Powód
 Why Have I Left Goodnotes:
-- I love doing architecture and being in supporting position
-- I prefer contact with people on site
-- I love doing presentations and being evangelist
-- I need to have sport and stressless ordered environment
+- Too much Stress -> Insetting burnout
+- Taking care of physical health -> I have a hypertension and my digestive system is fucking ded
+- Want to find a fit for my talents
+	- Not being happy with what I do -> I want to do restorative stuff
+	- Debt & Technologies -> I WANT TO SPRING AND ENTERPRISE
+- I want to take a break
+
 
 # Plany
 ## Wspólne
@@ -68,6 +71,7 @@ Zobaczyć jak czułbym się jako konsultant + zweryfikować jak trudni być taki
 	- [ ] Spotkać się z ziomem i zaproponować
 	- [ ] Przeprowadzić Troika consulting
 	- [ ] Być częścią
+	- [ ] Znaleźć metryki
 - [ ] Przygotować się do bycia konsultantem od managementu
 	- [ ] Przeczytać Blikle
 	- [ ] Zrobić prezkę o patologiach

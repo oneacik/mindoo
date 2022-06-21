@@ -1,0 +1,5 @@
+- Tests
+- Deployment
+- Monitoring
+- Peer Review
+- QA
