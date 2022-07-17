@@ -23,5 +23,11 @@
 ## September - Oper8IT
 [oper8it](https://oper8it.letsmanageit.pl/)
 
+## September - BitConf
+[BitConf](https://bitconf.pl/)
+
+## October - jDD
+[jDD](https://jdd.org.pl/)
+
 ## November - IT Workplace of Tomorrow
 [IT Workplace of Tomorrow](https://itworkplace.letsmanageit.pl/)

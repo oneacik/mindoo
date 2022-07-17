@@ -26,6 +26,19 @@ Do kogo kieruję tę prezentację?:
 
 Do Zobaczenia.
 
+### Abstract
+
+More and more projects are complexity bombs, which we develop not because of pleasure, but because of necessity. State of the art programming is connecting hundreds of services together. This accidentially leads to creating this business value. Haven't we forgotten that we are to develop business not the code debt?
+
+In this presentation I'd like to present you what I love about DDD and what can convince you to love it too:
+- How to visualise your system by using event storming
+- Divide your application into independent parts, by using bounded contexts
+- Remove complexity from your services to by using root aggregates and design patterns
+
+What will you learn:
+- Some basic DDD techniques which may convince you to use DDD
+- Knowledge about bootstrapping DDD in Java
+- How to start your journey with DDD
 
 
 ### Conspect
