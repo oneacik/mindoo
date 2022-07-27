@@ -36,6 +36,9 @@ Canvas:
 				1. Mapping business process
 				2. Creating an optimised version
 2. Impromptu Networking
+	1. Questions
+		1. Why have you come to the meeting
+		2. What do you want to do with the knowledge you gain 
 3. Mapping
 	1. (Experience) Example: Story Telling of organizing meetup - Karo is a storyteller, I'm a mapper.
 		1. Annotate: Duplication of event creation was a pain point
@@ -47,7 +50,8 @@ Canvas:
 			1. nouns are value objects/entities/things
 			2. verbs are actions (see CQRS)
 		3. **Annotations** are given for wider context of the process
-	4. (Doing) Example: Inventory System
+	4. (Questions)
+	5. (Doing) Example: Inventory System
 		1. Setup
 			1. Group per 5 people, 2 devs, 2 experts, 1 mapper
 		2. Map one of the stories
@@ -57,18 +61,19 @@ Canvas:
 			2. **Actors** are not duplicated, but **work items** may
 			3. **Conditions** defining exactly what is the path - define them for happy path e.g. there is enough of items, we start from design and end on assembly
 			4. **Annotate** pain points and other places that may be crucial for understanding the model or optimizing.
-	5. (Reflection -> Actualization) showing together different mappings
+	6. (Reflection -> Actualization) showing together different mappings
 		1. (Doing) Updating their models
 4. Optimizing
 	1. (Experience) Example: Optimizing the process
 		1. We have picked most easily optimisable piece
 		2. We have created syncronium to remove the burden of creating event in two places
 		3. Introduction of the concept of the System
-	2. (Doing)
+	2. (Questions)
+	3. (Doing)
 		1. Focus:
 			1. Pick one/few of the **bounded contexts** and try to optimize it (possibly using the system)
 			2. Try not to go into the implementation details, stay in the domain
-	3. (Reflection -> Actualization) showing together different mappings
+	4. (Reflection -> Actualization) showing together different mappings
 5. Reflection
 	1. Summary
 		1. What was the most impactful for us in this workshop
