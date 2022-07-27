@@ -6,3 +6,4 @@
 `:set spell!` - toggles spell checking
 `[s, ]s` - next previous spell error
 
+`CTRL-I,O`- go to prev/next location
