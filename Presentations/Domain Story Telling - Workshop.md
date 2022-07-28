@@ -91,4 +91,8 @@ Canvas:
 			3. Moving people for the drinks
 
 
-^ Think about Kolbe
+# Feedback
+
+## Observations
+
+- Too long
