@@ -8,5 +8,5 @@ jobs:
         uses: myrotvorets/trigger-repository-dispatch-action@1.0.0
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          repo: oneacik/digital-garden
+          repo: oneacik/gatsby-digital-garden
           type: update-mindoo
