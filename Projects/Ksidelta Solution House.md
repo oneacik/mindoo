@@ -30,24 +30,24 @@ We create & improve Software & Hardware solutions that solve client's explicit &
 
 ## Our process - optional
 
-1. Understanding the client needs
+1.  Understanding the client needs
 
-We don't want to create projects that don't really bring value.
-We prefer to work closely with client and other stakeholders
-to better understand the problem.
+    We don't want to create projects that don't really bring value.
+    We prefer to work closely with client and other stakeholders
+    to better understand the problem.
+    
+    To assist in defining the problem we use different mapping techniques.
+    - Domain Story Telling
+    - Service Blueprint
+    - Mapping By Example
+    - Event Storming
 
-To assist in defining the problem we use different mapping techniques.
-- Domain Story Telling
-- Service Blueprint
-- Mapping By Example
-- Event Storming
+2.  Defining Requirements
 
-2. Defining Requirements
-
-Now is the time to define concrete requirements from each of the stakeholders.
-We do it in the notation of the stories and we define the priorities for them.
-After we gathered all the requirements, we present it to our client 
-and we are ready to begin working on the project.
+    Now is the time to define concrete requirements from each of the stakeholders.
+    We do it in the notation of the stories and we define the priorities for them.
+    After we gathered all the requirements, we present it to our client 
+    and we are ready to begin working on the project.
 
 ...
 
