@@ -24,6 +24,8 @@ We create & improve Software & Hardware solutions that solve client's explicit &
 - Ja
 - Jasica
 
+### How the desriptions should look like
+
 - Who we are
 - Our projects and work experience
 - Our traits
