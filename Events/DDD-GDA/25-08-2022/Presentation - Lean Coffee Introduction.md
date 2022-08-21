@@ -4,6 +4,8 @@
 	1. Welcome
 	2. Agenda
 		1. Lean Coffee 18:30 - 20:00
+			1. Voting for topics
+			2. Discussions
 		2. Retrospective/Pizza&Beers 20:00 - 21:00
 2. Lean Coffee
 	1. Problem
