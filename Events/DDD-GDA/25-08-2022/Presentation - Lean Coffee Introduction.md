@@ -30,7 +30,7 @@
 		4. Lean coffee was answer for my dislikes
 		5. Meeting was very engaging
 		6. We talked about: Impostor Syndrome, Dry Runs, Improvisation
-		7. We had even notes: [https://wiki.hsp.sh/hs-speakers-meetup]
+		7. We had even notes: [link](https://wiki.hsp.sh/hs-speakers-meetup)
 		8. However we had few problems
 			1. Too far digressions
 			2. Not everybody being engaged
