@@ -9,7 +9,6 @@ Human Contact - Person we would like to normally communicate with
 
 ## List
 
-|----------------------|---------|----------------|--------------------------|--------------------------|
 | Name                 | Quality | Company Type   | Official Contact (Email) | Human Contact (Linkedin) |
 |----------------------|---------|----------------|--------------------------|--------------------------|
 | Simployer            | High    | Product        |                          |                          |
@@ -17,14 +16,15 @@ Human Contact - Person we would like to normally communicate with
 | Spartez/Atlassian    | Medium  | Product        |                          |                          |
 | Nordea               | Medium? | Product        |                          |                          |
 | Kainos               | Medium? | Software House |                          |                          |
+| Epam                 | Medium  | Software House |                          |                          |
+| PGS                  | Medium? | Software House |                          |                          |
+| UXPin                | Medium? | Product        |                          |                          |
+| Allegro              | ???     | Product        |                          |                          |
 | SilkyCoders          | ???     | Software House |                          |                          |
 | Neoteric             | Low     | Software House |                          |                          |
-| Allegro              | ???     | Product        |                          |                          |
 | SII                  | Low     | Outsourcing    |                          |                          |
 | Comarch              | Low     | Software House |                          |                          |
 | Intel                | Low     | Product        |                          |                          |
-| Epam                 | Medium  | Software House |                          |                          |
-| PGS                  | Medium? | Software House |                          |                          |
 | Abax                 |         |                |                          |                          |
 | Aplitt               |         |                |                          |                          |
 | Aspire Systems       |         |                |                          |                          |
@@ -81,7 +81,6 @@ Human Contact - Person we would like to normally communicate with
 | Amazon               |         |                |                          |                          |
 | SoftServe            |         |                |                          |                          |
 | Schibsted            |         |                |                          |                          |
-| UXPin                |         |                |                          |                          |
 | Acxiom               |         |                |                          |                          |
 | Adva                 |         |                |                          |                          |
 | Asseco               |         |                |                          |                          |
