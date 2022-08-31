@@ -16,3 +16,5 @@
 - 15:00 - 17:00 Slow down, think how I can quickly finish tasks for today
 - 17:00 - 24:00 Write down everything that's on the mind
 - 23:00 - 24:00 Start sleeping
+
+- [ ] Świstakowanie - priorytyzacja i wykonywanie zadań z listy
