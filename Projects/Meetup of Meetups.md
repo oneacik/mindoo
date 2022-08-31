@@ -1,0 +1,1 @@
+Spotkanie stworzone do organizacji konferencji i meetupów, gdzie wiele oób może się spotkać i podzielić potrzebami.
