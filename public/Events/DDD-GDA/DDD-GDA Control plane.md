@@ -16,23 +16,18 @@
 
 ## Company Relations
 
-### Legend
-
-#### Test
-
 This is source of truth of corporations, use it and update: [[Companies in Tricity]]
 
-| Name                   | Contact                                                                                     | Advertisement | Speakers | Sponsorships |
-| ---------------------- | ------------------------------------------------------------------------------------------- | ------------- | -------- | ------------ |
-| Example                | for.example@en.email                                                                        | Yes           | Yes      | Yes          |
-| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ?             | ?        | ?            |
-| Simployer              |                                                                                             |               |          |              |
-| Dynatrace              |                                                                                             |               |          |              |
-| Spartez/Atlassian      |                                                                                             |               |          |              |
-| Nordea                 |                                                                                             |               |          |              |
-| Kainos                 |                                                                                             |               |          |              |
-| Epam                   |                                                                                             |               |          |              |
-| PGS                    |                                                                                             |               |          |              |
-| UXPin                  |                                                                                             |               |          |              |
-| Allegro                |                                                                                             |               |          |              |
-| SilkyCoders            |                                                                                             |               |          |              |
+| Name                   | Contact                                                                                     | Advertisement | Speakers | Sponsorships | Place  |
+| ---------------------- | ------------------------------------------------------------------------------------------- | ------------- | -------- | ------------ | ------ |
+| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ?             | Yes      | ?            | Maybe  |
+| Simployer              |                                                                                             |               |          |              |        |
+| Dynatrace              |                                                                                             |               |          |              | Yes    |
+| Spartez/Atlassian      |                                                                                             |               |          |              |        |
+| Nordea                 |                                                                                             |               |          |              |        |
+| Kainos                 |                                                                                             |               |          |              |        |
+| Epam                   |                                                                                             |               |          |              |        |
+| PGS                    |                                                                                             |               |          |              |        |
+| UXPin                  |                                                                                             |               |          |              |        |
+| Allegro                |                                                                                             |               |          |              |        |
+| SilkyCoders            |                                                                                             |               |          |              |        |
