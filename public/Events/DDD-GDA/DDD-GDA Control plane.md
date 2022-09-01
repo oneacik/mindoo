@@ -14,6 +14,16 @@
 | Looking for sponsorships |                |                  | Looking for fundings so we can import interesting speakers and have fancy things |
 
 
+## Organising Speakers
+
+| Name             | Techniques                                    | Topics                                    | City    | Payment           |
+| -------------    | ----------                                    | ---------------                           | ----    | ----------------  |
+| Oskar Dudycz     | ???                                           | Event Sourceing                           | ???     | Expense Coverage? |
+| Piotr Suwała     | Liberating Structures/Workshops/Presentations | Domain Story Telling                      | Tricity | None              |
+| Sławomir Falsnau | ???                                           | ???                                       | Tricity | None?             |
+| Radek Maziarka   | Workshops/Presentations                       | Event Storming/Modelling/Bounded Contexts | ???     | Expense Coverage  |
+
+
 ## Company Relations
 
 This is source of truth of corporations, use it and update: [[Companies in Tricity]]
@@ -21,8 +31,8 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 | Name                   | Contact                                                                                     | Advertisement | Speakers | Sponsorships | Place  |
 | ---------------------- | ------------------------------------------------------------------------------------------- | ------------- | -------- | ------------ | ------ |
 | Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ?             | Yes      | ?            | Maybe  |
-| Simployer              |                                                                                             |               |          |              |        |
-| Dynatrace              |                                                                                             |               |          |              | Yes    |
+| Simployer              | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)            |               |          |              |        |
+| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                |               |          |              | Yes    |
 | Spartez/Atlassian      |                                                                                             |               |          |              |        |
 | Nordea                 |                                                                                             |               |          |              |        |
 | Kainos                 |                                                                                             |               |          |              |        |
