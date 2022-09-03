@@ -63,3 +63,6 @@ W spejsie jest bałagan -> Cowork jest zagracony -> Nie mogę się skupić jak j
 Rozmawianie o stworzonych zasadach i pryncypiach
 
 7. Retrospektywa
+
+
+[[Lista pryncypalek hsp]]
