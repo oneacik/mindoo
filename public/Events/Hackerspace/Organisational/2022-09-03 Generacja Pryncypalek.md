@@ -34,8 +34,8 @@ Kartki A3: By każdy miał na czym kleić i przeklejać
 - Pytania zadawaj w parze
 - W czwórkach sprawdź czy jest to czytelne i zrozumiałe
 
-Ktoś mi pomógł ze złożeniem stołów -> Ludzie angażują się w społeczność
-W spejsie jest bałagan -> Cowork jest zagracony -> Nie mogę się skupić jak jest wokół mnie za dużo rzeczy
+	Ktoś mi pomógł ze złożeniem stołów -> Ludzie angażują się w społeczność
+	W spejsie jest bałagan -> Cowork jest zagracony -> Nie mogę się skupić jak jest wokół mnie za dużo rzeczy
 
 - Ktoś mi pomógł ze złożeniem stołów
 - Ludzie angażują się w społeczność

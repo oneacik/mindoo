@@ -1,9 +1,5 @@
 # Pryncypałki HSP
-
-Boże, zrobiliśmy to...
-
 ## Procesy
-
 1. **W każdej inicjatywie warto, by były co najmniej 2 osoby (w sprawie konsultacji)**
 1. **Informacje tyczące się danej rzeczy powinny być blisko tej rzeczy**
 1. **Prośmy o szkolenia i onboardingi członków spejsu**
@@ -13,7 +9,6 @@ Boże, zrobiliśmy to...
 1. Automatyzujmy przypomnienia
 
 ## Komunikacja
-
 1. **Krytykujemy zachowania, a nie ludzi (bez ad personam)**
 1. **Komunikujemy jak sytuacja dotyka nas i jak się z tym czujemy, a nie oceniamy (Non Violent Communication)**
 1. **Nie bójmy się mówić przepraszam**
@@ -21,7 +16,6 @@ Boże, zrobiliśmy to...
 1. Konflikty członków, zwracanie uwagi i dyskusje nad zachowaniami uskuteczniamy na zamkniętych kanałach
 
 ## Kultura
-
 1. **Każdy haker to Twój przyjaciel (póki nie odpierdalasz)**
 1. **Unikajmy genitalii, przekeństw i innych ofensywnych rzeczy w przestrzeni otwartej spejsu (np. ściany)**
 1. Każda osoba może zwrócić komuś uwagę w celu pomocy sobie, lub innym
@@ -34,7 +28,6 @@ Boże, zrobiliśmy to...
 1. Aktywnie wychodź ze swoimi problemami i potrzebami
 
 ## Porządek
-
 1. **Sprzątajmy po sobie i nie wzbraniajmy się sprzątanie po innych**
 1. **Rzeczy powinny być składowane tylko tam, gdzie jest na to przestrzeń na składowanie**
 1. **Nie bójmy się vortexować rzeczy, które nam przeszkadzają**
