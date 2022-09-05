@@ -35,7 +35,7 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 | Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ?             | Yes      | ?            | Maybe  |
 | Simployer              | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)            |               |          |              |        |
 | Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                |               |          |              | Yes    |
-| DAC.DIGITAL            | [Justyna Pelc](Justyna.pelc%dac.digital)                                                    | ?             | ?        | ?            | ?      |
+| DAC.DIGITAL            | [Justyna Pelc](https://www.linkedin.com/in/justynapelc/)                                    | ?             | ?        | ?            | ?      |
 | Spartez/Atlassian      | [Katarzyna Różycka](https://www.linkedin.com/in/katarzyna-r%C3%B3%C5%BCycka-57060b12a/)     | ?             | ?        | ?            | No     |
 | Nordea                 |                                                                                             |               |          |              |        |
 | Kainos                 |                                                                                             |               |          |              |        |
