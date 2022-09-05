@@ -10,7 +10,7 @@
 | Leading Event            | Piotr Suwała   |                  | Leading Event                                                                    |
 | Looking for members      |                |                  | Marketing on Twitter, Linkedin and to our friendly companies for people          |
 | Organising speakers      |                |                  | Organising speakers to fit our current needs                                     |
-| Company Relations        |                |                  | Creating close relationships with companies                                      |
+| Company Relations        |                | Max Pilżys       | Creating close relationships with companies                                      |
 | Looking for sponsorships |                |                  | Looking for fundings so we can import interesting speakers and have fancy things |
 
 
