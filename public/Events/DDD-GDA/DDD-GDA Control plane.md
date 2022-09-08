@@ -2,13 +2,17 @@
 
 ## Responsibilities
 
+**Primary Driver** - Person who is interested in a section and is ready to be responsible for it
+**Secondary Driver** - Supporting person who can replace primary driver if needed
+
 | Name                     | Primary Driver | Secondary Driver | Description                                                                      |
 |--------------------------|----------------|------------------|----------------------------------------------------------------------------------|
+| Meritocratic Strategy    |                |                  | Defining topics and direction for future meetings                                |
 | Event Structure          | Piotr Suwała   |                  | Organising Agenda and speakers for the next event                                |
-| Meetup Organization      | Piotr Suwała   |                  | Creating event and its description to meetup                                     |
-| Place Organization       | Piotr Suwała   |                  | Organising a place, accesories, food                                             |
-| Leading Event            | Piotr Suwała   |                  | Leading Event                                                                    |
-| Looking for members      |                |                  | Marketing on Twitter, Linkedin and to our friendly companies for people          |
+| Meetup Organization      |                | Piotr Suwała     | Creating event and its description on meetup.com                                 |
+| Place Organization       |                | Piotr Suwała     | Organising a place, accesories, food                                             |
+| Leading Event            |                | Piotr Suwała     | Leading Event                                                                    |
+| Looking for members      |                | Piotr Suwała     | Marketing on Twitter, Linkedin and to our friendly companies for people          |
 | Organising speakers      |                |                  | Organising speakers to fit our current needs                                     |
 | Company Relations        |                | Max Pilżys       | Creating close relationships with companies                                      |
 | Looking for sponsorships |                |                  | Looking for fundings so we can import interesting speakers and have fancy things |
