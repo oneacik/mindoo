@@ -37,20 +37,20 @@ See more in [[Company Relations]]
 
 This is source of truth of corporations, use it and update: [[Companies in Tricity]]
 
-| Name                   | Contact                                                                                     | Advertisement           | Speakers                | Sponsorships     | Place  |
-| ---------------------- | ------------------------------------------------------------------------------------------- | -------------           | --------                | ------------     | ------ |
-| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ?                       | Yes                     | ?                | Maybe  |
-| Simployer              | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)            |                         |                         |                  |        |
-| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                |                         |                         |                  | Yes    |
-| DAC.DIGITAL            | [Justyna Pelc](https://www.linkedin.com/in/justynapelc/)                                    | Maybe                   | Not their domain        | Not their domain | Yes    |
-| Spartez/Atlassian      | [Katarzyna Różycka](https://www.linkedin.com/in/katarzyna-r%C3%B3%C5%BCycka-57060b12a/)     | Wrong person to contact | Wrong person to contact | No               | No     |
-| Nordea                 |                                                                                             |                         |                         |                  |        |
-| Kainos                 |                                                                                             |                         |                         |                  |        |
-| Epam                   |                                                                                             |                         |                         |                  |        |
-| PGS                    |                                                                                             |                         |                         |                  |        |
-| UXPin                  |                                                                                             |                         |                         |                  |        |
-| Allegro                |                                                                                             |                         |                         |                  |        |
-| SilkyCoders            |                                                                                             |                         |                         |                  |        |
+| Name                   | Contact                                                                                     | Advertisement                        | Speakers                | Sponsorships              | Place            |
+| ---------------------- | ------------------------------------------------------------------------------------------- | -------------                        | --------                | ------------              | ------           |
+| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ?                                    | ⭐Yes                   | ?                         | Maybe            |
+| Simployer              | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)            |                                      | Prolly Yes              |                           |                  |
+| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                |                                      |                         |                           | ⭐Yes            |
+| DAC.DIGITAL            | [Justyna Pelc](https://www.linkedin.com/in/justynapelc/)                                    | Yes (but limited to Java/Kotlin/IoT) | Prolly Not              | Maybe for Java/Kotlin/IoT | Max 20-30 people |
+| Spartez/Atlassian      | [Katarzyna Różycka](https://www.linkedin.com/in/katarzyna-r%C3%B3%C5%BCycka-57060b12a/)     | Wrong person to contact              | Wrong person to contact | No                        | No               |
+| Nordea                 |                                                                                             |                                      |                         |                           |                  |
+| Kainos                 |                                                                                             |                                      |                         |                           |                  |
+| Epam                   |                                                                                             |                                      |                         |                           |                  |
+| PGS                    |                                                                                             |                                      |                         |                           |                  |
+| UXPin                  |                                                                                             |                                      |                         |                           |                  |
+| Allegro                |                                                                                             |                                      |                         |                           |                  |
+| SilkyCoders            |                                                                                             |                                      |                         |                           |                  |
 
 ### Definition
 
