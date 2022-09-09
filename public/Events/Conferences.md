@@ -26,6 +26,9 @@
 ## September - BitConf
 [BitConf](https://bitconf.pl/)
 
+## September - YavaConf
+[yavaconf](https://yavaconf.com/)
+
 ## October - jDD
 [jDD](https://jdd.org.pl/)
 
