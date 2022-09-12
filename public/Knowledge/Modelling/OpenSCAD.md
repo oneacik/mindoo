@@ -8,7 +8,7 @@ cube([x, y, z], center = true);
 ```
  
 ```
-squere([x, y], center = true);
+square([x, y], center = true);
 ```
  
  ### boolean operations
