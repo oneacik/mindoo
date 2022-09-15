@@ -16,6 +16,7 @@ Human Contact - Person we would like to normally communicate with
 | Xebia                | ???     | High     | Consultance    |                          |                          |
 | Thoughtworks         | ???     | High     | Consultance    |                          |                          |
 | Simployer            | Tricity | High     | Product        |                          |                          |
+| Speednet             | Tricity | High     | Software House |                          |                          |
 | Dynatrace            | Tricity | Medium?  | Product        |                          |                          |
 | Spartez/Atlassian    | Tricity | Medium   | Product        |                          |                          |
 | Nordea               | Tricity | Medium?  | Product        |                          |                          |
@@ -36,7 +37,6 @@ Human Contact - Person we would like to normally communicate with
 | Powel                | Tricity |          |                |                          |                          |
 | GlobalLogic          | Tricity |          |                |                          |                          |
 | Solwit               | Tricity |          |                |                          |                          |
-| Speednet             | Tricity |          |                |                          |                          |
 | Tapptic              | Tricity |          |                |                          |                          |
 | wakacje.pl           | Tricity |          |                |                          |                          |
 | Wipro                | Tricity |          |                |                          |                          |

@@ -19,7 +19,44 @@
 | Supporting presentation design | Piotr Suwała   |                  | Helping speakers in creating their presentation/workshops                        |
 
 
+## Meritocratic Strategy
+
+Purpose: Gather intel how to organise best meetup & make proper DDD more recognizable in Tricity
+Vision: Organise best engaging meetup by using interactive presentation, workshops, facilitations
+
+## Event Structure
+
+1. Sponsor Introduction
+1. Networking
+1. Main part (usually interactive)
+1. Retrospective
+1. Dinner for organisers
+
+## Meetup Organisation
+
+- Definition of Event
+    - What
+    - How
+    - Why
+    - Who
+    - For Whom
+- Small Agenda
+
+## Place Organization
+
+### List of places
+
+| Name    | Size  | Price             | Contact                                           |
+| --      | --    | --                | --                                                |
+| DevOne  | 100   | Free              |                                                   |
+| O4      | 30/50 | 110 - 200zł/h net | [Izabela Paluch](izabela.paluch@oliviacentre.com) |
+| Starter | 100   | 110zł/h net       | rezerwacje@inkubatorstarter.pl                    |
+
+
 ## Organising Speakers
+
+
+### List of speakers
 
 | Name             | Techniques                           | Topics                                    | City     | Payment           |
 | -------------    | ----------                           | ---------------                           | ----     | ----------------  |
@@ -29,6 +66,7 @@
 | Radek Maziarka   | ?/Workshops/Presentations            | Event Storming/Modelling/Bounded Contexts | Wrocław? | Expense Coverage  |
 | Michał Koszałka  | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
 | Grzegorz Kotfis  | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
+| Mariusz Gil      | Workshops/Presentations              | DDD Consultancy/Modelling                 | Wrocław  | ???               |
 
 
 ## Company Relations
@@ -39,9 +77,12 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 
 | Name                   | Contact                                                                                     | Advertisement                        | Speakers                | Sponsorships              | Place            |
 | ---------------------- | ------------------------------------------------------------------------------------------- | -------------                        | --------                | ------------              | ------           |
-| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ?                                    | ⭐Yes                   | ?                         | Maybe            |
+| Bright Inventions      | [Agata Piwko](https://www.linkedin.com/in/agata-piwko-269077b5/)                            | ⭐Yes                                | ⭐Yes                   | ⭐Yes                     | Small            |
+| Allegro                | [Employer Branding](eb@allegro.pl)                                                          | ???                                  | ???                     | In progress               | ???              |
+| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ???                                  | ⭐Yes                   | ?                         | Maybe            |
+| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                | ⭐Yes                                | ???                     | ???                       | ⭐100+ ppl       |
+| Codete                 | ???                                                                                         |                                      |                         |                           |                  |
 | Simployer              | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)            |                                      | Prolly Yes              |                           |                  |
-| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                |                                      |                         |                           | ⭐Yes            |
 | DAC.DIGITAL            | [Justyna Pelc](https://www.linkedin.com/in/justynapelc/)                                    | Yes (but limited to Java/Kotlin/IoT) | Prolly Not              | Maybe for Java/Kotlin/IoT | Max 20-30 people |
 | Spartez/Atlassian      | [Katarzyna Różycka](https://www.linkedin.com/in/katarzyna-r%C3%B3%C5%BCycka-57060b12a/)     | Wrong person to contact              | Wrong person to contact | No                        | No               |
 | Nordea                 |                                                                                             |                                      |                         |                           |                  |
@@ -49,7 +90,6 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 | Epam                   |                                                                                             |                                      |                         |                           |                  |
 | PGS                    |                                                                                             |                                      |                         |                           |                  |
 | UXPin                  |                                                                                             |                                      |                         |                           |                  |
-| Allegro                |                                                                                             |                                      |                         |                           |                  |
 | SilkyCoders            |                                                                                             |                                      |                         |                           |                  |
 
 ### Definition
@@ -59,7 +99,10 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 
 ### Hints
 - On linkedin look for people in a given company - look for **employer branding**, then **hrs**, then **others**
+- Write to few people (for example 2-3 ppl), even if it is not urgent
 - Try to arrange a meeting to seal the deal
 	- When arranging the meeting **be clear with its agenda**
 	- Agenda should cover things needed to cover all the fill in tables
-- It is worth to present what DDD meetup is and what is expected amount of people
+- It is good to start with a note containing information about DDD meetup
+    - What is DDD
+    - For whom it is
