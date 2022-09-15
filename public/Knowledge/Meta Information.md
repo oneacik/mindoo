@@ -6,13 +6,11 @@
 @startuml
 top to bottom direction
 
-([[https://kubernetes.io k8s]]) as k8s 
 
 (rancher) --> (k8s)
 (flux) --> (k8s)
 (k8s) --> (ubuntu) 
 
-url of k8s is [[https://kubernetes.io/]]
 
 @enduml
 ```
