@@ -21,8 +21,36 @@
 
 ## Meritocratic Strategy
 
-Purpose: Gather intel how to organise best meetup & make proper DDD more recognizable in Tricity
-Vision: Organise best engaging meetup by using interactive presentation, workshops, facilitations
+
+### Purpose To Practice
+
+**Purpose:** Gather intel how to organise best meetup & make proper DDD more recognizable in Tricity
+- Create an extensive instruction about organising meetups
+- Make DDD used wider at Tricity Companies
+- Prepare people to use DDD techniques in their work
+- Organise engaging meetups that give more energy than they take
+
+**Principals:**
+- Make meetup company agnostic, so we can easily get people and advertising from different companies 
+- Use engaging techniques, so people will get more energy than they lose
+- Support the community lifecycle
+    - First: Pick topics that can be used even in non DDD environment + build awareness of DDD
+    - Second: Introduce techniques that allow for migrating to DDD environment + build awarenes of the need of change
+    - Third: Introduce techniques for improving DDD environment
+    - Fourth: Facilitate experience sharing
+- Delegate as much of the work on the meetup to other people, so we can share knowledge and bring new perspective into it
+- Always get feedback, to create a better meetup and instruction
+
+**Participants:**
+- Developers - so there is talent that can properly use DDD
+- Managers, Leaders - to build awareness and need of DDD in projects in people who have the power
+- Facilitators - so DDD techniques can be swiftly applied without slashback
+
+**Structures:**
+TBD
+
+**Practices:**
+TBD
 
 ## Event Structure
 
