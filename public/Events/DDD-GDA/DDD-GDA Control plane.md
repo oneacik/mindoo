@@ -62,6 +62,8 @@ TBD
 
 ## Meetup Organisation
 
+### Structure of the meetup event description
+
 - Definition of Event
     - What
     - How
@@ -69,6 +71,13 @@ TBD
     - Who
     - For Whom
 - Small Agenda
+
+### Data on number of people
+
+| Meetup Date | People Declared | People attending | Conversion | Approach                                                                                |
+| 25-08-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
+| 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
+| 21-09-2022  | 35              | ?                | ?          | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
 
 ## Place Organization
 
