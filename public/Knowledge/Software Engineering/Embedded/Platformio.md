@@ -7,3 +7,6 @@ pio platform install espressif8266@2.6.3
 pio run #compilation
 pio run --target upload #upload
 ```
+
+### Selecting board
+

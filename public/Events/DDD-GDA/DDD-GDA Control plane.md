@@ -105,20 +105,19 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 
 | Name                   | Contact                                                                                     | Advertisement                        | Speakers                | Sponsorships              | Place            |
 | ---------------------- | ------------------------------------------------------------------------------------------- | -------------                        | --------                | ------------              | ------           |
-| Bright Inventions      | [Agata Piwko](https://www.linkedin.com/in/agata-piwko-269077b5/)                            | ⭐Yes                                | ⭐Yes                   | ⭐Yes                     | Small            |
-| Allegro                | [Employer Branding](eb@allegro.pl)                                                          | ???                                  | ???                     | In progress               | ???              |
-| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ???                                  | ⭐Yes                   | ?                         | Maybe            |
-| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                | ⭐Yes                                | ???                     | ???                       | ⭐100+ ppl       |
+| Bright Inventions      | [Agata Piwko](https://www.linkedin.com/in/agata-piwko-269077b5/)                            | ⭐Yes                                | ⭐Yes                   | (12-09-22) ⭐Yes          | Small            |
+| Allegro                | [Employer Branding](eb@allegro.pl)                                                          | ???                                  | ???                     | (12-09-22) In progress?   | ???              |
+| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ???                                  | ⭐Yes                   | (12-09-22) ???            | Maybe            |
+| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                | ⭐Yes                                | ???                     | (12-09-22) ???            | ⭐100+ ppl       |
+| SilkyCoders            |                                                                                             | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
+| Kainos                 | [Michalina Kowalik](https://www.linkedin.com/in/michalina-kowalik-336a1030/)                | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
+| Startup House          | Temporary [Ewelina Wilanowska](https://www.linkedin.com/in/ewelina-wilanowska/)             | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
 | Codete                 | ???                                                                                         |                                      |                         |                           |                  |
 | Simployer              | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)            |                                      | Prolly Yes              |                           |                  |
 | DAC.DIGITAL            | [Justyna Pelc](https://www.linkedin.com/in/justynapelc/)                                    | Yes (but limited to Java/Kotlin/IoT) | Prolly Not              | Maybe for Java/Kotlin/IoT | Max 20-30 people |
 | Spartez/Atlassian      | [Katarzyna Różycka](https://www.linkedin.com/in/katarzyna-r%C3%B3%C5%BCycka-57060b12a/)     | Wrong person to contact              | Wrong person to contact | No                        | No               |
-| Nordea                 |                                                                                             |                                      |                         |                           |                  |
-| Kainos                 |                                                                                             |                                      |                         |                           |                  |
-| Epam                   |                                                                                             |                                      |                         |                           |                  |
 | PGS                    |                                                                                             |                                      |                         |                           |                  |
 | UXPin                  |                                                                                             |                                      |                         |                           |                  |
-| SilkyCoders            |                                                                                             |                                      |                         |                           |                  |
 
 ### Definition
 
