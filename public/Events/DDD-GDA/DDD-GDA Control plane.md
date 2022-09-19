@@ -18,6 +18,22 @@
 | Looking for sponsorships       | Piotr Suwała   |                  | Looking for fundings so we can import interesting speakers and have fancy things |
 | Supporting presentation design | Piotr Suwała   |                  | Helping speakers in creating their presentation/workshops                        |
 
+## Lifecycle of the Meetup
+
+1. Preparing Resources
+    - Meritocratic Strategy
+    - Organising speakers
+    - Company Relations
+2. Planning
+    - Event Structure
+    - Supporting presentation design
+    - Looking for sponsorship
+    - Marketing for members
+    - Meetup Organisation
+3. Execution
+    - Place Organisation
+    - Leading Event
+
 
 ## Meritocratic Strategy
 
@@ -25,13 +41,14 @@
 ### Purpose To Practice
 
 **Purpose:** Gather intel how to organise best meetup & make proper DDD more recognizable in Tricity
-- Create an extensive instruction about organising meetups
-- Make DDD used wider at Tricity Companies
-- Prepare people to use DDD techniques in their work
 - Organise engaging meetups that give more energy than they take
+- Create an extensive instruction about organising meetups
+- Prepare people to use DDD techniques in their work
+- Make DDD used wider at Tricity companies
+- Facilitate knowledge sharing between companies
 
 **Principals:**
-- Make meetup company agnostic, so we can easily get people and advertising from different companies 
+- Cooperate with different sponsors, so we can easily get people and advertising from different companies 
 - Use engaging techniques, so people will get more energy than they lose
 - Support the community lifecycle
     - First: Pick topics that can be used even in non DDD environment + build awareness of DDD
@@ -39,7 +56,7 @@
     - Third: Introduce techniques for improving DDD environment
     - Fourth: Facilitate experience sharing
 - Delegate as much of the work on the meetup to other people, so we can share knowledge and bring new perspective into it
-- Always get feedback, to create a better meetup and instruction
+- Always get feedback, to create a better meetup and develop proper instruction for organising it
 
 **Participants:**
 - Developers - so there is talent that can properly use DDD
@@ -75,6 +92,7 @@ TBD
 ### Data on number of people
 
 | Meetup Date | People Declared | People attending | Conversion | Approach                                                                                |
+| --          | --              | --               | --         | --                                                                                      |
 | 25-08-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
 | 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
 | 21-09-2022  | 35              | ?                | ?          | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
