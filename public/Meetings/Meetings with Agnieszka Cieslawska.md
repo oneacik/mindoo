@@ -4,6 +4,9 @@
 
 As a retrospective chilling on [[2022-09-03 Generacja Pryncypalek]].
 
+Purpose: Create principles for Hackerspace Pomorze
+Result: List of the principles in the md document
+
 StoryBoard:
 
 | No. | Technique          | Description                                                                                                   | Cognitive Feedback                                                                                                          |
@@ -14,7 +17,7 @@ StoryBoard:
 | 4   | Min Specs          | Generate principles and reduce them to meet all the situations                                                | Here a friend took over initiative as it would be too much - we came into synchronous way of doing, grouping and generating |
 
 Overally:
- We created quite a big list of principles covering most of our culture - [[Lista pryncypalek hsp]]
+We created quite a big list of principles covering most of our culture - [[Lista pryncypalek hsp]]
 
 ## Idea for workshop
 
