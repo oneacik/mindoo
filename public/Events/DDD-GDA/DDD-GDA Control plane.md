@@ -5,18 +5,31 @@
 **Primary Driver** - Person who is responsible for something and should be bothered at any time 
 **Secondary Driver** - Supporting people that can help with something, but are not fully responsible for something
 
-| Name                           | Primary Driver | Secondary Driver | Description                                                                      |
-| ------------------------       | -------------- | ---------------- | -------------------------------------------------------------------------------- |
-| Meritocratic Strategy          | Piotr Suwała   |                  | Defining topics and direction for future meetings                                |
-| Event Structure                | Piotr Suwała   |                  | Organising Agenda and speakers for the next event                                |
-| Meetup Organization            | Piotr Suwała   |                  | Creating event and its description on meetup.com                                 |
-| Place Organization             | Piotr Suwała   |                  | Organising a place, accesories, food                                             |
-| Leading Event                  | Piotr Suwała   |                  | Leading Event                                                                    |
-| Marketing for members          | Piotr Suwała   | Grzegorz Kotfis  | Marketing on Twitter, Linkedin and to our friendly companies for people          |
-| Organising speakers            | Piotr Suwała   |                  | Organising speakers to fit our current needs                                     |
-| Company Relations              | Piotr Suwała   | Max Pilżys       | Creating close relationships with companies                                      |
-| Looking for sponsorships       | Piotr Suwała   |                  | Looking for fundings so we can import interesting speakers and have fancy things |
-| Supporting presentation design | Piotr Suwała   |                  | Helping speakers in creating their presentation/workshops                        |
+| Name                              | Primary Driver | Secondary Driver | Description                                                                      |
+| ------------------------          | -------------- | ---------------- | -------------------------------------------------------------------------------- |
+| [[DDD-GDA Meritocratic Strategy]] | Piotr Suwała   |                  | Defining topics and direction for future meetings                                |
+| Event Structure                   | Piotr Suwała   |                  | Organising Agenda and speakers for the next event                                |
+| Meetup Organization               | Piotr Suwała   |                  | Creating event and its description on meetup.com                                 |
+| Place Organization                | Piotr Suwała   |                  | Organising a place, food                                                         |
+| Ammunition Organization           | Piotr Suwała   |                  | Organising materials needed for conducting a workshop                            |
+| Leading Event                     | Piotr Suwała   |                  | Leading Event                                                                    |
+| Marketing for members             | Piotr Suwała   | Grzegorz Kotfis  | Marketing on Twitter, Linkedin and to our friendly companies for people          |
+| Organising speakers               | Piotr Suwała   |                  | Organising speakers to fit our current needs                                     |
+| Company Relations                 | Piotr Suwała   | Max Pilżys       | Creating close relationships with companies                                      |
+| Looking for sponsorships          | Piotr Suwała   |                  | Looking for fundings so we can import interesting speakers and have fancy things |
+| Supporting presentation design    | Piotr Suwała   |                  | Helping speakers in creating their presentation/workshops                        |
+| Writer                            | Piotr Suwała   |                  | Making Notes and processes                                                       |
+| Optimizer                         | Piotr Suwała   |                  | Optimizing Processes                                                             |
+
+## Functions
+
+| Name                    | Responsibilities                                                                       | Responsibility Level | Drivers                       |
+| ----                    | -----------                                                                            | ---                  | ---                           |
+| Logistics               | Place Organisation, Ammunition Organization                                            | High                 | Piotr Suwała                  |
+| Marketing               | Marketing for members, Company Relations, Looking for sposorships                      | Low                  | Piotr Suwała, Grzegorz Kotfis |
+| Leadership              | [[DDD-GDA Meritocratic Strategy]], Organising Speakers, Supporting Presentation Design | Medium               | Piotr Suwała, Grzegorz Kotfis, Tomasz Fanslau(?) |
+| Execution               | Event Structure, Meetup Organisation, Leading Event                                    | High                 | Piotr Suwała                  |
+| Support (Platform Team) | Writer, Optimizer                                                                      | Low                  | Piotr Suwała                  |
 
 ## Lifecycle of the Meetup
 
@@ -33,41 +46,6 @@
 3. Execution
     - Place Organisation
     - Leading Event
-
-
-## Meritocratic Strategy
-
-
-### Purpose To Practice
-
-**Purpose:** Gather intel how to organise best meetup & make proper DDD more recognizable in Tricity
-- Organise engaging meetups that give more energy than they take
-- Create an extensive instruction about organising meetups
-- Prepare people to use DDD techniques in their work
-- Make DDD used wider at Tricity companies
-- Facilitate knowledge sharing between companies
-
-**Principals:**
-- Cooperate with different sponsors, so we can easily get people and advertising from different companies 
-- Use engaging techniques, so people will get more energy than they lose
-- Support the community lifecycle
-    - First: Pick topics that can be used even in non DDD environment + build awareness of DDD
-    - Second: Introduce techniques that allow for migrating to DDD environment + build awarenes of the need of change
-    - Third: Introduce techniques for improving DDD environment
-    - Fourth: Facilitate experience sharing
-- Delegate as much of the work on the meetup to other people, so we can share knowledge and bring new perspective into it
-- Always get feedback, to create a better meetup and develop proper instruction for organising it
-
-**Participants:**
-- Developers - so there is talent that can properly use DDD
-- Managers, Leaders - to build awareness and need of DDD in projects in people who have the power
-- Facilitators - so DDD techniques can be swiftly applied without slashback
-
-**Structures:**
-TBD
-
-**Practices:**
-TBD
 
 ## Event Structure
 

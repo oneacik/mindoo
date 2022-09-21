@@ -9,3 +9,4 @@
 | Grzesiu (Haggis)    | ???         | Frontend Dev             | We know each other from Hackerspace Trójmiasto    |                                     |
 | Yashikuto           | ???         | Frontend Dev             | We met on one of the open days                    |                                     |
 | Karolina Krzelowska | TASK        | Junior Dev               | We met on one of my random events (lean startup)  |                                     |
+| Rafał Maciąg        |             |                          | Event Modelling                                   |                                     |
