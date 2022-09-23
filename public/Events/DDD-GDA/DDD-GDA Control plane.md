@@ -70,10 +70,10 @@
 ### Data on number of people
 
 | Meetup Date | People Declared | People attending | Conversion | Approach                                                                                |
-| --          | --              | --               | --         | --                                                                                      |
+|-------------|-----------------|------------------|------------|-----------------------------------------------------------------------------------------|
 | 25-08-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
 | 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
-| 21-09-2022  | 35              | ?                | ?          | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
+| 21-09-2022  | 35              | ~35              | ~100%      | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
 
 ## Place Organization
 
@@ -91,15 +91,16 @@
 
 ### List of speakers
 
-| Name             | Techniques                           | Topics                                    | City     | Payment           |
-| -------------    | ----------                           | ---------------                           | ----     | ----------------  |
-| Oskar Dudycz     | ???                                  | Event Sourcing                            | Wrocław? | Expense Coverage? |
-| Piotr Suwała     | Facilitation/Workshops/Presentations | Domain Story Telling                      | Tricity  | None              |
-| Sławomir Fanslau | ?/Workshops/Presentations            | Analyzing, modelling, strategic design    | Tricity  | None?             |
-| Radek Maziarka   | ?/Workshops/Presentations            | Event Storming/Modelling/Bounded Contexts | Wrocław? | Expense Coverage  |
-| Michał Koszałka  | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
-| Grzegorz Kotfis  | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
-| Mariusz Gil      | Workshops/Presentations              | DDD Consultancy/Modelling                 | Wrocław  | ???               |
+| Name                 | Techniques                           | Topics                                    | City     | Payment           |
+|----------------------|--------------------------------------|-------------------------------------------|----------|-------------------|
+| Oskar Dudycz         | ???                                  | Event Sourcing                            | Wrocław? | Expense Coverage? |
+| Piotr Suwała         | Facilitation/Workshops/Presentations | Domain Story Telling                      | Tricity  | None              |
+| Sławomir Fanslau     | ?/Workshops/Presentations            | Analyzing, modelling, strategic design    | Tricity  | None?             |
+| Radek Maziarka       | ?/Workshops/Presentations            | Event Storming/Modelling/Bounded Contexts | Wrocław? | Expense Coverage  |
+| Michał Koszałka      | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
+| Grzegorz Kotfis      | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
+| Mariusz Gil          | Workshops/Presentations              | DDD Consultancy/Modelling                 | Wrocław  | ???               |
+| Michał Giergielewicz | Workshop/Presentations               | Tactical DDD/ES                           | Gdańsk   | None?             |
 
 
 ## Company Relations

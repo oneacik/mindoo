@@ -17,14 +17,14 @@
 
 ## Kultura
 1. **Każdy haker to Twój przyjaciel (póki nie odpierdalasz)**
-1. **Unikajmy genitalii, przekeństw i innych ofensywnych rzeczy w przestrzeni otwartej spejsu (np. ściany)**
+1. **Unikajmy genitalii, przekeństw i innych ofensywnych rzeczy w przestrzeni otwartej spejsu (np. ściany)** - veto od @shitsailor
 1. Każda osoba może zwrócić komuś uwagę w celu pomocy sobie, lub innym
 1. Rozmawiajmy z nowymi osobami, lub zapoznajmy go z kimś innym
 1. Poproś kogoś innego o pomoc przy swojej inicjatywie
 1. Członkowie mają prawo wyprosić nie-członka z hackerspejsu, jeżeli zachowuje się niestosownie
 1. Myślmy o osobach z zewnątrz, kiedy zmieniamy naszą organizacje
 1. Trzymajmy się naszych deklaracji, lub zakomunikujmy niemożność wykonania
-1. Wspierajmy eksperymentalne zmiany, a nie inhibitujmy ich
+1. Wspierajmy eksperymentalne zmiany, a nie inhibitujmy ich - veto @shitsailor
 1. Aktywnie wychodź ze swoimi problemami i potrzebami
 
 ## Porządek
@@ -34,6 +34,11 @@
 1. Wyrzucamy śmieci o 18:00
 1. Pytam się społeczności, czy rzecz jest potrzebna, zanim przyniosę ją do spejsu
 1. Lepsza jest jedna rzecz, ale dobra
+
+
+# Dodatkowe doświadczenia
+- Ludzie mogą mieć kontrowersyjne opinie
+- Członkowie są ważniejsi od nieczłonków
 
 
 
