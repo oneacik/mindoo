@@ -69,3 +69,6 @@ Practices:
 | 3      | Lean Coffee                                               | Unleash creativity that we can use for planning and have some chillin' time |
 | 4.1    | Creating workshop on Aggregates, Factories, Repositories  | Build in group a workshop covering many languages                           |
 | 4.2    | Executing workshop on Aggregates, Factories, Repositories | Teach group how to finally implement what we have learned                   |
+
+### Knowledge Database
+- [[Domains For Modelling]]

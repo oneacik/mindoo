@@ -7,7 +7,7 @@
 Jesteśmy społecznością składającą się z **120 osób** na meetupie, które zebraliśmy w ciągu 3 spotkań.
 Na 3 ostatnich spotkaniach pojawiło się kolejno **16, 16, 35** osób.
 
-Targetem naszej grupy są wszystkie osoby, które są bliskie **definiowania domeny biznesowej**.
+Targetem naszej grupy są wszystkie osoby, którym jest bliskie **definiowanie domeny biznesowej**.
 Można wśród niej wymieniać **Managerów, Team Leadów, UXów, Testerów, Agile Coachów, programistów** i innych.
 
 Niektóre spotkania będą poruszały
@@ -47,12 +47,11 @@ Jako dowód tych wartości załączam link [do poprzednich warsztatów](https://
 
 ## O sponsorach
 
-
 ### Korzyści dla sponsora
 
 Jako sponsor:
-- Zdobędziesz dostęp do społeczności, która szuka miejsca, gdzie może może pracować w środowisku DDD
-- Twoi pracownicy będą mogli dyskutować na temat DDD ponad podziałami organizacyjnymi
+- Zdobędziesz dostęp marketingowy do społeczności, która szuka miejsca, gdzie może może pracować w środowisku DDD
+- Wesprzesz miejsce, gdzie Twoi pracownicy mogą dyskutować na temat DDD ponad podziałami organizacyjnymi
 - Otrzymasz pierwszeństwo dostępu do wielu darmowych szkoleń, które zazwyczaj są bardzo kosztowne
 
 ### Jakich sponsorów szukamy
@@ -68,7 +67,7 @@ Są to cechy opcjonalne, ale w pełni pozwolą sponsorowi korzystać ze społecz
 
 ### Widełki sponsorskie i benefity
 
-| x                                                   | Sponsor Umiarkowany | Sponsor Hojny | Sponsor Zaangażowany                  |
+|                                                     | Sponsor Umiarkowany | Sponsor Hojny | Sponsor Zaangażowany                  |
 |-----------------------------------------------------|---------------------|---------------|---------------------------------------|
 | Rekompensata                                        | 500 - 2500          | 1500 - 10000  | Przejęcie części obowiązków i kosztów |
 | Wspomnienie na wydarzeniu                           | tak                 | tak           | tak                                   |

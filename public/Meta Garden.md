@@ -2,6 +2,8 @@
 
 ## Process
 
+### of inputting data
+
 ```plantuml
 @startuml
 left to right direction
@@ -25,6 +27,28 @@ C1 --> D2
 @enduml
 
 ```
+
+### of using data
+
+#### stories
+
+- As a meetup organizer, I want to find contacts for my speakers etc
+- As a presenter, I want to gather data for my presentation
+
+##### As a presenter, I want to gather data for my presentation
+
+1. Create a presentation
+2. Browse all Tables for any important informations
+3. Traverse any important informations for related stuff
+4. Write everything in presentation page
+5. Start structurizing presentation
+    1. Choose presentation style
+    1. Compare it using service blueprint layers:(presentation structure, slides, information, text said)
+6. ???
+7. profit
+
+
+
 
 ## Garden Consists of
 - **Large Tables** - Containing all possible information on given entity, usually containing all informations from different contexts 
