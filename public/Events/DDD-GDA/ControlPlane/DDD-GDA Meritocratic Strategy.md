@@ -95,7 +95,7 @@ Tactic DDD looks only in context of one bounded context
 1. Service Blueprint
 1. Change Management - How to implement DDD in your organisation
 
-Why:
+**Why:**
 By doing slow and steady approach we may gather more and more people around DDD which will came for architectural topics.
 Because of it we may get a lot of companies on the hype train of DDD.
 However, people without using DDD in their company may lose their will to learn...
@@ -110,12 +110,12 @@ However, people without using DDD in their company may lose their will to learn.
 1. Change Management - How to implement DDD in your organisation
 1. ...Many to come...
 
-Why:
+**Why:**
 Sometimes it is best not to wait ant iterate our Tricity ecosystem faster.
 If people have some basic tools they may try to change the minds of managers and we can start DDD transition faster.
 However, it may be premature...
 
-#### Strategy C - Strategical DDD should be the key (TBD)
+#### Strategy C - Strategical DDD should be the key
 
 1. Event Storming of library System -> To be used in next workshops
 1. Bounded Contexts - what they are, how to find them
@@ -125,7 +125,7 @@ However, it may be premature...
 1. Team Topologies
 1. Change Management - How to implement DDD in your organisation
 
-Why:
+**Why:**
 Usually people know something on tactical DDD, but they can't change the management yet.
 If we teach them how to use strategical DDD, they may have more tools to convince people from management.
 This approach also targets better people from management and whatnots, because those topics are universal.
