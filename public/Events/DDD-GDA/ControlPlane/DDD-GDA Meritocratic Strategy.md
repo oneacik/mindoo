@@ -59,16 +59,87 @@ Practices:
 
 ### Meeting topics
 
-| Number | Name                                                      | Purpose                                                                     |
-|--------|-----------------------------------------------------------|-----------------------------------------------------------------------------|
-| -2     | Domain Story Telling                                      |                                                                             |
-| -1     | Lean Coffee                                               |                                                                             |
-| 0      | Event Storming                                            | Teach how to explore big picture domain                                     |
-| 1      | Domain Story Telling                                      | Teach how to explore specific paths of our domain                           |
-| 2      | Mapping of easy cases by ES and DST                       | Teach how can we map example to ready to implement blueprint                |
-| 3      | Lean Coffee                                               | Unleash creativity that we can use for planning and have some chillin' time |
-| 4.1    | Creating workshop on Aggregates, Factories, Repositories  | Build in group a workshop covering many languages                           |
-| 4.2    | Executing workshop on Aggregates, Factories, Repositories | Teach group how to finally implement what we have learned                   |
+Tactic DDD looks only in context of one bounded context
+
+- Tactic
+    - (Entities, Value Objects)/(Aggregates/Factories/Repositories/Domain Services)
+    - Event Driven Architecture
+    - CQRS
+    - Event Sourcing
+    - Ubiquotous Language
+- Strategy
+    - Bounded Context
+    - C4
+    - Domain Story Telling
+    - Event Storming
+    - Wardley Mapping
+    - Service Blueprint
+    - Team Topologies
+
+### Possible Strategies
+
+
+"Maybe it is good to just use available katas?" ~ Piotr Suwała
+
+#### Strategy A - Slow and steady growth from Tactical to Strategical DDD
+
+
+1. Event Storming of library System -> To be used in next workshops
+1. Factories, Domain Services, Aggregates, Entities, Value Objects - Hands On Kata
+1. Hexagonal Design - Refactoring Kata?
+1. CQRS - Hands on Kata?
+1. [Event Sourcing](https://github.com/MaibornWolff/aggregate-implementation-patterns-kotlin)
+1. Bounded Contexts - what they are, how to find them
+1. Published Language, Conformist, Open Host - When to use them
+1. Wardley Mappping
+1. Service Blueprint
+1. Change Management - How to implement DDD in your organisation
+
+Why:
+By doing slow and steady approach we may gather more and more people around DDD which will came for architectural topics.
+Because of it we may get a lot of companies on the hype train of DDD.
+However, people without using DDD in their company may lose their will to learn...
+
+#### Strategy B - Fastest Path to implementation of DDD
+
+1. Event Storming of library System -> To be used in next workshops
+1. Factories, Domain Services, Aggregates, Entities, Value Objects - Hands On Kata
+1. Hexagonal Design - Refactoring Kata?
+1. Bounded Contexts - what they are, how to find them
+1. Wardley Mappping
+1. Change Management - How to implement DDD in your organisation
+1. ...Many to come...
+
+Why:
+Sometimes it is best not to wait ant iterate our Tricity ecosystem faster.
+If people have some basic tools they may try to change the minds of managers and we can start DDD transition faster.
+However, it may be premature...
+
+#### Strategy C - Strategical DDD should be the key (TBD)
+
+1. Event Storming of library System -> To be used in next workshops
+1. Bounded Contexts - what they are, how to find them
+1. Published Language, Conformist, Open Host - When to use them
+1. Wardley Mappping
+1. Service Blueprint
+1. Team Topologies
+1. Change Management - How to implement DDD in your organisation
+
+Why:
+Usually people know something on tactical DDD, but they can't change the management yet.
+If we teach them how to use strategical DDD, they may have more tools to convince people from management.
+This approach also targets better people from management and whatnots, because those topics are universal.
+
+### Current Plan
+
+| Number | Name                                                                                 | Purpose                                                                       |
+|--------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 0      | Event Storming                                                                       | Teach how to explore big picture domain                                       |
+| 1      | Event Storming - Library System                                                      | Test if community can into ES and gather domain definition for next workshops |
+| 2      | Creating workshop on Aggregates, Entities, Value Objects, Factories, Domain Services | Build in group a workshop covering many languages                             |
+| 2.2    | Creating workshop on Aggregates, Entities, Value Objects, Factories, Domain Services | Teach group how to finally implement what we have learned                     |
+| 3      | Hexagonal Workshop                                                                   | Teach group how to properly build system around domain                        |
+| ???    | Expert Interview                                                                     | They will be so many questions, we need to have session like this frequently  |
 
 ### Knowledge Database
 - [[Domains For Modelling]]

@@ -22,3 +22,10 @@ Platform Team - Team topologies
 Zrobić preskę o NVC - nawiązać, że milczenie jest złotem, kochać swoich wrogów, warto najpierw zrozumieć. Opowiedzieć swoje historie o właścicielu i ziomku z góry.
 
 Fajnie jest jak jest coś w ramach podziękowań dla prelegenta
+
+Na kolejnym spotkaniu
+Powiedzieć, że będzie retro i pytania
+Ręce do góry i kto potrafi wytłumaczyć poziom kodu ten idzie jako facylitator event stormingu
+3 x sesja (30 minut es + 15 minut refleksji) podczas tego zapisywać pytania
+w czasie refleksji pół grupy idzie w prawo i rozmawia o tym co wyszło, potem druga połowa idzie w lewo
+pytania zostaną użyte pod kolejne warsztaty, czy expert interview

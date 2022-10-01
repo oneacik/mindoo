@@ -5,21 +5,21 @@
 **Primary Driver** - Person who is responsible for something and should be bothered at any time 
 **Secondary Driver** - Supporting people that can help with something, but are not fully responsible for something
 
-| Name                              | Primary Driver | Secondary Driver | Description                                                                      |
-| ------------------------          | -------------- | ---------------- | -------------------------------------------------------------------------------- |
-| [[DDD-GDA Meritocratic Strategy]] | Piotr Suwała   |                  | Defining topics and direction for future meetings                                |
-| Event Structure                   | Piotr Suwała   |                  | Organising Agenda and speakers for the next event                                |
-| Meetup Organization               | Piotr Suwała   |                  | Creating event and its description on meetup.com                                 |
-| Place Organization                | Piotr Suwała   |                  | Organising a place, food                                                         |
-| Ammunition Organization           | Piotr Suwała   |                  | Organising materials needed for conducting a workshop                            |
-| Leading Event                     | Piotr Suwała   |                  | Leading Event                                                                    |
-| Marketing for members             | Piotr Suwała   | Grzegorz Kotfis  | Marketing on Twitter, Linkedin and to our friendly companies for people          |
-| Organising speakers               | Piotr Suwała   |                  | Organising speakers to fit our current needs                                     |
-| Company Relations                 | Piotr Suwała   | Max Pilżys       | Creating close relationships with companies                                      |
-| Looking for sponsorships          | Piotr Suwała   |                  | Looking for fundings so we can import interesting speakers and have fancy things |
-| Supporting presentation design    | Piotr Suwała   |                  | Helping speakers in creating their presentation/workshops                        |
-| Writer                            | Piotr Suwała   |                  | Making Notes and processes                                                       |
-| Optimizer                         | Piotr Suwała   |                  | Optimizing Processes                                                             |
+| Name                              | Primary Driver | Secondary Driver                                                      | Description                                                                      |
+|-----------------------------------|----------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| [[DDD-GDA Meritocratic Strategy]] | Piotr Suwała   | Grzegorz Kotfis, Michał Giergielewicz, Sławomir Fanslau, Wojtek Ptak? | Defining topics and direction for future meetings                                |
+| Event Structure                   | Piotr Suwała   |                                                                       | Organising Agenda and speakers for the next event                                |
+| Meetup Organization               | Piotr Suwała   |                                                                       | Creating event and its description on meetup.com                                 |
+| Place Organization                | Piotr Suwała   |                                                                       | Organising a place, food                                                         |
+| Ammunition Organization           | Piotr Suwała   |                                                                       | Organising materials needed for conducting a workshop                            |
+| Leading Event                     | Piotr Suwała   |                                                                       | Leading Event                                                                    |
+| Marketing for members             | Piotr Suwała   | Grzegorz Kotfis                                                       | Marketing on Twitter, Linkedin and to our friendly companies for people          |
+| Organising speakers               | Piotr Suwała   |                                                                       | Organising speakers to fit our current needs                                     |
+| Company Relations                 | Piotr Suwała   | Max Pilżys                                                            | Creating close relationships with companies                                      |
+| Looking for sponsorships          | Piotr Suwała   |                                                                       | Looking for fundings so we can import interesting speakers and have fancy things |
+| Supporting presentation design    | Piotr Suwała   |                                                                       | Helping speakers in creating their presentation/workshops                        |
+| Writer                            | Piotr Suwała   |                                                                       | Making Notes and processes                                                       |
+| Optimizer                         | Piotr Suwała   |                                                                       | Optimizing Processes                                                             |
 
 ## Functions
 
@@ -101,6 +101,8 @@
 | Grzegorz Kotfis      | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
 | Mariusz Gil          | Workshops/Presentations              | DDD Consultancy/Modelling                 | Wrocław  | ???               |
 | Michał Giergielewicz | Workshop/Presentations               | Tactical DDD/ES                           | Gdańsk   | None?             |
+
+Please adjust the topics to the [[DDD-GDA Meritocratic Strategy|Current Plan]]
 
 
 ## Company Relations

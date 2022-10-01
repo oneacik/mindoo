@@ -54,7 +54,7 @@ C1 --> D2
 - **Large Tables** - Containing all possible information on given entity, usually containing all informations from different contexts 
 - **Tables** - The big aggregators of information which for example point to all books usually in some context
 - **Unrefined Aggregates** - Random information put into given category
-	- **Random Thoughts** - Random information not yet put into given category
+	- **Random Thoughts** - Random information not yet put into given category - they should contain the entry and the date, later the link where the data got put
 - **Topic Pages** - Pages on given topic in given context, usually having a link from the table
 
 ## Glossary
