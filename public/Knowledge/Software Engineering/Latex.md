@@ -73,5 +73,5 @@ numberstyle = \tiny,
 
 ### Create Title Screen
 ```latex
-\frametitle{Some Created Initiatives}
+\maketitle
 ```

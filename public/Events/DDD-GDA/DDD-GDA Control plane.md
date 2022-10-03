@@ -66,6 +66,8 @@
     - Who
     - For Whom
 - Small Agenda
+- SPONSORS!!!
+	- Bright Inventions, Dynatrace
 
 ### Data on number of people
 
@@ -74,6 +76,23 @@
 | 25-08-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
 | 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
 | 21-09-2022  | 35              | ~35              | ~100%      | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
+
+## Leading Event
+
+- [Introduction Presentation](https://gitlab.com/oneacik/lifecycle/-/tree/master/prezentacje%20i%20warsztaty/presentation/Template%20for%20DDD-GDA)
+	1. Title
+	2. Sponsors
+	3. Roadmap (before, after)
+	4. Previous Retrospective
+	5. Current Retrospective
+	6. Agenda
+- Impromptu Networking?
+- Main part
+- Retrospective/Networking
+
+### Principles
+- Pizza may not get cold (go for it in 5 minutes of arrival)
+
 
 ## Place Organization
 

@@ -8,5 +8,18 @@
 
 `CTRL-I,O`  - go to prev/next location
 
+## Sizes
+- tiny
+- scriptsize
+- footnotesize
+- small
+- normalsize
+- large
+- Large
+- LARGE
+- huge
+- HUGE
+
 ## Interesting plugins
 `:TableModeRealign, :TableModeEnable` - format your md table
+`:VimtexCompile` 
