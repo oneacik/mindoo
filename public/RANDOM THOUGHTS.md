@@ -29,3 +29,13 @@ Ręce do góry i kto potrafi wytłumaczyć poziom kodu ten idzie jako facylitato
 3 x sesja (30 minut es + 15 minut refleksji) podczas tego zapisywać pytania
 w czasie refleksji pół grupy idzie w prawo i rozmawia o tym co wyszło, potem druga połowa idzie w lewo
 pytania zostaną użyte pod kolejne warsztaty, czy expert interview
+
+Trzeba pisać o sponsoring do ludzi, którzy pracują w danej firmie, a nie do employer branderów:
+Patrz, volue; czy koszałka
+
+Napisać, krótki agorytm do robienia Kata
+
+Uzupełnić Meta Garden o wyjaśnienie kategorii
+
+Na meetupie od razu organizować zbieranie informacji pod kolejny meetup
+

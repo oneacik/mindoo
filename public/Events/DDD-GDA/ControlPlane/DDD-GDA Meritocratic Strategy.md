@@ -1,6 +1,12 @@
 # Meritocratic Strategy
 
-## Vision - Purpose To Practice 
+## Summary
+
+Mission: Extend proper DDD usage to more and more companies in Pomerania
+Vision: Create the most engaging meetup in Tricity
+Strategy: Execute many workshops that teach DDD and help people change their companies
+
+## Purpose To Practice 
 
 **Purpose:** 
 - Gather intel how to organise best meetup & make proper DDD more recognizable in Tricity

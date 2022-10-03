@@ -1,5 +1,6 @@
 | Name                                                             | Date         | Description                         |
-| --                                                               | --           | --                                  |
+|------------------------------------------------------------------|--------------|-------------------------------------|
+| [Segfault](https://segfault.events/unconference2023wiosna/)      | March/03     | Software Conference                 |
 | [Sektor 3.0](https://sektor3-0.pl/en/)                           | May/05       | Third Sector Conference             |
 | [2022 BeIT](https://www.facebook.com/events/341917417759919)     | May/05       | Student Conference                  |
 | [Geecon](http://www.geecon.org/)                                 | May/05       | Java                                |
@@ -12,6 +13,7 @@
 | [oper8it](https://oper8it.letsmanageit.pl/)                      | September/09 | Operations conference (~management) |
 | [BitConf](https://bitconf.pl/)                                   | September/09 | ???                                 |
 | [yavaconf](https://yavaconf.com/)                                | September/09 | Java Conference                     |
+| [Segfault](https://segfault.events/unconference2022/)            | September/09 | Software Conference                 |
 | [jDD](https://jdd.org.pl/)                                       | October/09   | Java Conference                     |
 | [Geecon](http://www.geecon.org/)                                 | October/09   | Java                                |
 | [IT Workplace of Tomorrow](https://itworkplace.letsmanageit.pl/) | November/11  | Management                          |
