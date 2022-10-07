@@ -1,4 +1,6 @@
+## Link to meetup.com
 
+[meetup.com/ddd-gda](https://www.meetup.com/pl-PL/ddd-gda/)
 
 ## List of meetups
 - [[DDD-GDA 21-09-2022]]

@@ -81,6 +81,7 @@ Tactic DDD looks only in context of one bounded context
     - Wardley Mapping
     - Service Blueprint
     - Team Topologies
+    - Context Mapping
 
 ### Possible Strategies
 
