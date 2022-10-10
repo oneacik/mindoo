@@ -31,7 +31,7 @@
 | Execution               | Event Structure, Meetup Organisation, Leading Event                                    | High                 | Piotr Suwała                  |
 | Support (Platform Team) | Writer, Optimizer                                                                      | Low                  | Piotr Suwała                  |
 
-## Timetable of the Meetup
+## Timetable of a Meetup
 
 | Name                                                                   | Time     | Responsibility |
 |------------------------------------------------------------------------|----------|----------------|
