@@ -87,6 +87,10 @@
 
 ### Survey 
 
+| Survey Date                                                                                             | People On Event | Filled Surveys | Conversion | Approach                              |
+|---------------------------------------------------------------------------------------------------------|-----------------|----------------|------------|---------------------------------------|
+| [03/10/22](https://docs.google.com/forms/d/1ZKvf1LKEEnk6csR4I_VWGDer_QHYz_Dw82JD9MUApJg/edit#responses) | 35              | 6              | 17%        | Email from meetup + Bad email subject |
+
 ## Leading Event
 
 - [Introduction Presentation](https://gitlab.com/oneacik/lifecycle/-/tree/master/prezentacje%20i%20warsztaty/presentation/Template%20for%20DDD-GDA)
@@ -145,21 +149,21 @@ See more in [[Company Relations]]
 
 This is source of truth of corporations, use it and update: [[Companies in Tricity]]
 
-| Name                   | Contact                                                                                     | Advertisement                        | Speakers                | Sponsorships              | Place            |
-| ---------------------- | ------------------------------------------------------------------------------------------- | -------------                        | --------                | ------------              | ------           |
-| Bright Inventions      | [Agata Piwko](https://www.linkedin.com/in/agata-piwko-269077b5/)                            | ⭐Yes                                | ⭐Yes                   | (12-09-22) ⭐Yes          | Small            |
-| Allegro                | [Employer Branding](eb@allegro.pl)                                                          | ???                                  | ???                     | (12-09-22) In progress?   | ???              |
-| Objectivity            | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)               | ???                                  | ⭐Yes                   | (12-09-22) ???            | Maybe            |
-| Dynatrace              | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                                | ⭐Yes                                | ???                     | (12-09-22) ???            | ⭐100+ ppl       |
-| SilkyCoders            |                                                                                             | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
-| Kainos                 | [Michalina Kowalik](https://www.linkedin.com/in/michalina-kowalik-336a1030/)                | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
-| Startup House          | Temporary [Ewelina Wilanowska](https://www.linkedin.com/in/ewelina-wilanowska/)             | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
-| Codete                 | ???                                                                                         |                                      |                         |                           |                  |
-| Simployer              | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)            |                                      | Prolly Yes              |                           |                  |
-| DAC.DIGITAL            | [Justyna Pelc](https://www.linkedin.com/in/justynapelc/)                                    | Yes (but limited to Java/Kotlin/IoT) | Prolly Not              | Maybe for Java/Kotlin/IoT | Max 20-30 people |
-| Spartez/Atlassian      | [Katarzyna Różycka](https://www.linkedin.com/in/katarzyna-r%C3%B3%C5%BCycka-57060b12a/)     | Wrong person to contact              | Wrong person to contact | No                        | No               |
-| PGS                    |                                                                                             |                                      |                         |                           |                  |
-| UXPin                  |                                                                                             |                                      |                         |                           |                  |
+| Name              | Contact                                                                                 | Advertisement                        | Speakers                | Sponsorships              | Place            |
+|-------------------|-----------------------------------------------------------------------------------------|--------------------------------------|-------------------------|---------------------------|------------------|
+| Bright Inventions | [Agata Piwko](https://www.linkedin.com/in/agata-piwko-269077b5/)                        | ⭐Yes                                | ⭐Yes                   | (12-09-22) ⭐Yes          | Small            |
+| Dynatrace         | [Monika Serafin](https://www.linkedin.com/in/monikaserafin/)                            | ⭐Yes                                | ???                     | (12-09-22) ???            | ⭐100+ ppl       |
+| Startup House     | [Ewelina Wilanowska](https://www.linkedin.com/in/ewelina-wilanowska/)                   | ???                                  | ???                     | (10-10-22) Big chances :) | ???              |
+| Objectivity       | [Bartosz Wojtasiak](https://www.linkedin.com/in/bartosz-wojtasiak-61ab72115/)           | ???                                  | ⭐Yes                   | (12-09-22) ???            | Maybe            |
+| SilkyCoders       |                                                                                         | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
+| Allegro           | [Employer Branding](eb@allegro.pl)                                                      | ???                                  | ???                     | (10-10-22) Not this year  | ???              |
+| Kainos            | [Michalina Kowalik](https://www.linkedin.com/in/michalina-kowalik-336a1030/)            | ???                                  | ???                     | (12-09-22) In Progress?   | ???              |
+| Codete            | ???                                                                                     |                                      |                         |                           |                  |
+| Simployer         | [Sebastian Czarnecki](https://www.linkedin.com/in/sebastian-czarnecki-b7b4b782/)        |                                      | Prolly Yes              |                           |                  |
+| DAC.DIGITAL       | [Justyna Pelc](https://www.linkedin.com/in/justynapelc/)                                | Yes (but limited to Java/Kotlin/IoT) | Prolly Not              | Maybe for Java/Kotlin/IoT | Max 20-30 people |
+| Spartez/Atlassian | [Katarzyna Różycka](https://www.linkedin.com/in/katarzyna-r%C3%B3%C5%BCycka-57060b12a/) | Wrong person to contact              | Wrong person to contact | No                        | No               |
+| PGS               |                                                                                         |                                      |                         |                           |                  |
+| UXPin             |                                                                                         |                                      |                         |                           |                  |
 
 ### Definition
 
