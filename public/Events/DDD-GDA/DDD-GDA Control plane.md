@@ -40,35 +40,19 @@
 | Discuss The Strategy for 3 next meetings (2 dinners in Gdańsk + Rumia) | -3 weeks | Leadership     |
 | Find a speaker                                                         | -3 weeks | Leadership     |
 | Update an event on meetup.com                                          | -2 weeks | Execution      |
-| Market the event on linkedin/twitter                                   | -2 weeks | Marketing      |
+| Market the event on linkedin/twitter                                   | -2 weeks | 🍍Marketing    |
 | Help with a presentation                                               | -2 weeks | Leadership     |
-| But needed materials                                                   | -1 week  | Logistics      |
+| Buy needed materials                                                   | -1 week  | Logistics      |
 | Test Run, if needed, then pivot or preserve                            | -1 week  | Execution      |
 | Once a time, a meeting                                                 | 0        | Execution      |
 | Retrospective                                                          | 0        | Execution      |
 | Network for speakers for the next meeting                              | 0        | Leadership     |
-| Taking photos                                                          | 0        | Marketing      |
+| Taking photos                                                          | 0        | 🍍Marketing    |
 | Store findings on the digital garden                                   | 1 week   | Support        |
-| Handle the group on the li/fb                                          | 1 week   | Logistics      |
+| Handle the group on the li/fb                                          | 1 week   | 🍍Marketing    |
+| Add photos to the meetup group                                         | 1 week   | 🍍Marketing    |
 | Look for sponsors                                                      | 2 weeks  | Leadership     |
 
-
-
-## Lifecycle of the Meetup
-
-1. Preparing Resources
-    - Meritocratic Strategy
-    - Organising speakers
-    - Company Relations
-2. Planning
-    - Event Structure
-    - Supporting presentation design
-    - Looking for sponsorship
-    - Marketing for members
-    - Meetup Organisation
-3. Execution
-    - Place Organisation
-    - Leading Event
 
 ## Event Structure
 
