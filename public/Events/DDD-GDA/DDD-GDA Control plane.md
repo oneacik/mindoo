@@ -26,10 +26,33 @@
 | Name                    | Responsibilities                                                                       | Responsibility Level | Drivers                       |
 | ----                    | -----------                                                                            | ---                  | ---                           |
 | Logistics               | Place Organisation, Ammunition Organization                                            | High                 | Piotr Suwała                  |
-| Marketing               | Marketing for members, Company Relations, Looking for sposorships                      | Low                  | Piotr Suwała, Grzegorz Kotfis |
+| Marketing               | Marketing for members, Company Relations, Looking for sposorships                      | Low                  | Companies?, Piotr Suwała, Grzegorz Kotfis |
 | Leadership              | [[DDD-GDA Meritocratic Strategy]], Organising Speakers, Supporting Presentation Design | Medium               | Piotr Suwała, Grzegorz Kotfis, Tomasz Fanslau(?) |
 | Execution               | Event Structure, Meetup Organisation, Leading Event                                    | High                 | Piotr Suwała                  |
 | Support (Platform Team) | Writer, Optimizer                                                                      | Low                  | Piotr Suwała                  |
+
+## Timetable of the Meetup
+
+| Name                                                                   | Time     | Responsibility |
+|------------------------------------------------------------------------|----------|----------------|
+| Reserve a place                                                        | -4 weeks | Logistics      |
+| Create a draft of the event on meetup.com                              | -4 weeks | Execution      |
+| Discuss The Strategy for 3 next meetings (2 dinners in Gdańsk + Rumia) | -3 weeks | Leadership     |
+| Find a speaker                                                         | -3 weeks | Leadership     |
+| Update an event on meetup.com                                          | -2 weeks | Execution      |
+| Market the event on linkedin/twitter                                   | -2 weeks | Marketing      |
+| Help with a presentation                                               | -2 weeks | Leadership     |
+| But needed materials                                                   | -1 week  | Logistics      |
+| Test Run, if needed, then pivot or preserve                            | -1 week  | Execution      |
+| Once a time, a meeting                                                 | 0        | Execution      |
+| Retrospective                                                          | 0        | Execution      |
+| Network for speakers for the next meeting                              | 0        | Leadership     |
+| Taking photos                                                          | 0        | Marketing      |
+| Store findings on the digital garden                                   | 1 week   | Support        |
+| Handle the group on the li/fb                                          | 1 week   | Logistics      |
+| Look for sponsors                                                      | 2 weeks  | Leadership     |
+
+
 
 ## Lifecycle of the Meetup
 
@@ -66,6 +89,7 @@
     - Who
     - For Whom
 - Small Agenda
+- Meetings Before
 - SPONSORS!!!
 	- Bright Inventions, Dynatrace
 
@@ -76,6 +100,8 @@
 | 25-08-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
 | 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
 | 21-09-2022  | 35              | ~35              | ~100%      | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
+
+### Survey 
 
 ## Leading Event
 
@@ -108,6 +134,7 @@
 ## Organising Speakers
 
 
+
 ### List of speakers
 
 | Name                 | Techniques                           | Topics                                    | City     | Payment           |
@@ -122,6 +149,10 @@
 | Michał Giergielewicz | Workshop/Presentations               | Tactical DDD/ES                           | Gdańsk   | None?             |
 
 Please adjust the topics to the [[DDD-GDA Meritocratic Strategy|Current Plan]]
+
+### Tips
+
+- Usually it is good to start from the sponsors
 
 
 ## Company Relations
