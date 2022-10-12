@@ -1,12 +1,16 @@
 # (PL)  Jak prowadzić spotkania - praktyki Liberating Structures
 
 ## Related Links
-[Liberating Structures Overview](https://www.liberatingstructures.com/ls-menu/)
-
 [Latex Presentation Repository](https://gitlab.com/oneacik/lifecycle/-/tree/master/prezentacje%20i%20warsztaty/presentation/Liberating%20Structures)
 
 [My Homepage](https://ksidelta.com)
 
+### Glossary with links
+[Liberating Structures](https://www.liberatingstructures.com/ls-menu/)
+
+[SWOT](https://www.wrike.com/blog/tips-swot-analysis-in-project-management/)
+
+[Decision Matrix](https://asq.org/quality-resources/decision-matrix)
 
 ## Abstract (PL)
 Czym jest dobre spotkanie?
