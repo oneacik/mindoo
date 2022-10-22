@@ -58,33 +58,35 @@
 
 
 ```plantuml
+skinparam defaultFontStyle bold
+
 
 frame "actors" {
-actor "Marketing"  as B #yellow
-actor "Support"    as C #blue
-actor "Leadership" as D #purple
-actor "Execution"  as E #green
+actor "Marketing"  as B #Business
+actor "Support"    as C #Application
+actor "Leadership" as D #Strategy
+actor "Execution"  as E #Implementation
 }
 
 
-rectangle "Market event on the facebook/linkedin/twitter" as B1 #yellow
-rectangle "Send a reminder via meetup.com" as B2 #yellow
-rectangle "Taking Photos" as B3 #yellow
-rectangle "Handle the group on li/fb" as B4 #yellow
-rectangle "Add photos to the meetup group" as B5 #yellow
+rectangle "Market event on the facebook/linkedin/twitter" as B1 #Business
+rectangle "Send a reminder via meetup.com" as B2 #Business
+rectangle "Taking Photos" as B3 #Business
+rectangle "Handle the group on li/fb" as B4 #Business
+rectangle "Add photos to the meetup group" as B5 #Business
 
-rectangle "Discuss Strategy" as D1 #purple
-rectangle "Find a speaker" as D2 #purple
-rectangle "Help with a presentation" as D4 #purple
-rectangle "Network for the new speakers" as D5 #purple
+rectangle "Discuss Strategy" as D1 #Strategy
+rectangle "Find a speaker" as D2 #Strategy
+rectangle "Help with a presentation" as D4 #Strategy
+rectangle "Network for the new speakers" as D5 #Strategy
 
-rectangle "Create a draft of the event on meetup.com" as E1 #green
-rectangle "Create linkedin/twitter post about an event" as A1 #green
-rectangle "Once a time, a meeting" as E2 #green
-rectangle "Retrospective" as E3 #green
-rectangle "Find new sponsors" as D3 #green 
+rectangle "Create a draft of the event on meetup.com" as E1 #Implementation
+rectangle "Create linkedin/twitter post about an event" as A1 #Implementation
+rectangle "Once a time, a meeting" as E2 #Implementation
+rectangle "Retrospective" as E3 #Implementation
+rectangle "Find new sponsors" as D3 #Implementation
 
-rectangle "Store findings on the digital garden" as C1 #blue
+rectangle "Store findings on the digital garden" as C1 #Application
 
 A1 --> B1
 B3 --> B5
