@@ -39,3 +39,9 @@ Uzupełnić Meta Garden o wyjaśnienie kategorii
 
 Na meetupie od razu organizować zbieranie informacji pod kolejny meetup
 
+
+Andrzej Blikle:
+https://moznainaczej.com.pl/denotational-engineering
+Zawsze najważniejszy jest cel, który motywuje wolontariuszy
+Firma w Rodzinie i rodzina w firmie
+Oddzielenia firmy od życia rodzinnego

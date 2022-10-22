@@ -12,7 +12,10 @@
 	- Coffee & Cakes
 	- Falla
 		- Humuss
+    - Beer
 - Things that make me full
+    - Kebab without fat sauces
+    - Meat of kebab with salad only?
 	- Fruits
 	- Raw Veggies
 	- Avocado 
@@ -22,5 +25,8 @@
 		- Hemp Wrap
 		- Ayran
 	- Drinking after eating
+    - Chicken
+- Special Laws
+    - Beer but only before eating and 1-2 only
 - Laws of being hungry
 	- Eating small amount of carbs makes me crave for it

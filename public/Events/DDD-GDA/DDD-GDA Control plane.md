@@ -103,6 +103,8 @@
 - Impromptu Networking?
 - Main part
 - Retrospective/Networking
+    - Ask people for a dinner(?)
+    - Ask people for a strategy(?)
 
 ### Principles
 - Pizza may not get cold (go for it in 5 minutes of arrival)
