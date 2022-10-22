@@ -44,15 +44,76 @@
 | Help with a presentation                                               | -2 weeks | Leadership     |
 | Buy needed materials                                                   | -1 week  | Logistics      |
 | Test Run, if needed, then pivot or preserve                            | -1 week  | Execution      |
+| Send a reminder via meetup.com                                         | -1 day   | 🍍Marketing    |
 | Once a time, a meeting                                                 | 0        | Execution      |
 | Retrospective                                                          | 0        | Execution      |
 | Network for speakers for the next meeting                              | 0        | Leadership     |
 | Taking photos                                                          | 0        | 🍍Marketing    |
-| Store findings on the digital garden                                   | 1 week   | Support        |
 | Handle the group on the li/fb                                          | 1 week   | 🍍Marketing    |
 | Add photos to the meetup group                                         | 1 week   | 🍍Marketing    |
-| Look for sponsors                                                      | 2 weeks  | Leadership     |
+| Store findings on the digital garden                                   | 1 week   | Support        |
+| Look for sponsors                                                      | 2 weeks  | Execution      |
 
+## Processes and dependencies
+
+
+```plantuml
+
+frame "actors" {
+actor "Marketing"  as B #yellow
+actor "Support"    as C #blue
+actor "Leadership" as D #purple
+actor "Execution"  as E #green
+}
+
+
+rectangle "Market event on the facebook/linkedin/twitter" as B1 #yellow
+rectangle "Send a reminder via meetup.com" as B2 #yellow
+rectangle "Taking Photos" as B3 #yellow
+rectangle "Handle the group on li/fb" as B4 #yellow
+rectangle "Add photos to the meetup group" as B5 #yellow
+
+rectangle "Discuss Strategy" as D1 #purple
+rectangle "Find a speaker" as D2 #purple
+rectangle "Help with a presentation" as D4 #purple
+rectangle "Network for the new speakers" as D5 #purple
+
+rectangle "Create a draft of the event on meetup.com" as E1 #green
+rectangle "Create linkedin/twitter post about an event" as A1 #green
+rectangle "Once a time, a meeting" as E2 #green
+rectangle "Retrospective" as E3 #green
+rectangle "Find new sponsors" as D3 #green 
+
+rectangle "Store findings on the digital garden" as C1 #blue
+
+A1 --> B1
+B3 --> B5
+
+A1 --> C1
+B5 --> C1
+
+E1 --> A1
+E2 --> B3
+E1 --> E2
+E2 --> E3
+E3 --> C1
+
+E1 --> B2 
+
+D1 --> D2
+D1 --> C1
+D2 --> C1
+
+C1 --> D3
+B5 --> D3
+
+D2 --> E2 
+
+D2 --> D4
+D1 --> E1
+E2 --> D5
+
+```
 
 ## Event Structure
 
