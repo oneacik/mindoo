@@ -6,6 +6,7 @@
 - [[DDD-GDA 21-09-2022]]
 - [[DDD-GDA 25-08-2022]]
 - [[DDD-GDA 26-10-2022]]
+- [[DDD-GDA 23-11-2022]]
 
 ## Other Links
 - [[DDD-GDA Control plane]]
