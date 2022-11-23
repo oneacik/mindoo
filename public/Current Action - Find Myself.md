@@ -21,6 +21,9 @@
 - I like to create new initiatives and make them really fitting to what people want.
 - I prefer to create an initiative and make it self organized that be the only people that pushes it.
 - I like to organise events and facilitate them
+- Rzeczy, które lubię robić, to krótkie projekty, które nie ciągną się za długo
+- I am scared of being blocked on growth because I am doing things not challenging me
+- I'd love to be an assistant of somebody much higher
 
 # Companies
 - ThoughtWorks

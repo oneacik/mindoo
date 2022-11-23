@@ -1,6 +1,3 @@
-- Eat only 3 not-so-big meals a day
-- If I need to have a snack, go for fruit
-	- Create a vision in your community that a fruit is a best snack
 - Things that make ma hungry
 	- Big Pans
 	- Gyozilla
@@ -14,8 +11,7 @@
 		- Humuss
     - Beer
 - Things that make me full
-    - Kebab without fat sauces
-    - Meat of kebab with salad only?
+	- Poke Bowl
 	- Fruits
 	- Raw Veggies
 	- Avocado 
@@ -25,8 +21,9 @@
 		- Hemp Wrap
 		- Ayran
 	- Drinking after eating
-    - Chicken
+	- Chicken
 - Special Laws
     - Beer but only before eating and 1-2 only
-- Laws of being hungry
+- Laws of being hungry and satied
 	- Eating small amount of carbs makes me crave for it
+	- **Usually we crave for nutrients - good quality vegetable food makes you full**

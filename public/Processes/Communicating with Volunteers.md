@@ -3,3 +3,6 @@
 - when
 - in what topics
 - ...It is not exhaustive list and it would be great to ask people for other questions...
+
+
+[[DDD-GDA Control plane]]

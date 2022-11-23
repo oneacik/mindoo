@@ -34,9 +34,9 @@
 ## Timetable of a Meetup
 
 | Name                                                                   | Time     | Responsibility |
-|------------------------------------------------------------------------|----------|----------------|
+| ---------------------------------------------------------------------- | -------- | -------------- |
 | Reserve a place                                                        | -4 weeks | Logistics      |
-| Create a draft of the event on meetup.com                              | -4 weeks | Execution      |
+| Create a draft of the event on meetup.com                              | -3 weeks | Execution      |
 | Discuss The Strategy for 3 next meetings (2 dinners in Gdańsk + Rumia) | -3 weeks | Leadership     |
 | Find a speaker                                                         | -3 weeks | Leadership     |
 | Update an event on meetup.com                                          | -2 weeks | Execution      |
@@ -140,13 +140,23 @@ E2 --> D5
 - SPONSORS!!!
 	- Bright Inventions, Dynatrace
 
+**PARKING**   
+
+Alchemia Platinum Tower: parking dla gości znajduje się na **poziomie +3.**  
+
+**DOJŚCIE**  
+
+Na ochronie wystarczy powiedzieć, że idziecie do Dynatrace na **8. piętro i okazać dowód osobisty.**  
+
+Po wyjściu z windy na 8. piętrze jedne drzwi będą otwarte – zapraszamy do środka ! 😊Na miejscu będą umieszczone strzałki kierujące Was do DevOne HUB.
+
 ### Data on number of people
 
 | Meetup Date | People Declared | People attending | Conversion | Approach                                                                                |
-|-------------|-----------------|------------------|------------|-----------------------------------------------------------------------------------------|
-| 25-08-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
+| ----------- | --------------- | ---------------- | ---------- | --------------------------------------------------------------------------------------- |
 | 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
 | 21-09-2022  | 35              | ~35              | ~100%      | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
+| ??-10-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
 
 ### Survey 
 
@@ -192,14 +202,15 @@ E2 --> D5
 
 | Name                 | Techniques                           | Topics                                    | City     | Payment           |
 |----------------------|--------------------------------------|-------------------------------------------|----------|-------------------|
-| Oskar Dudycz         | ???                                  | Event Sourcing                            | Wrocław? | Expense Coverage? |
 | Piotr Suwała         | Facilitation/Workshops/Presentations | Domain Story Telling                      | Tricity  | None              |
 | Sławomir Fanslau     | ?/Workshops/Presentations            | Analyzing, modelling, strategic design    | Tricity  | None?             |
-| Radek Maziarka       | ?/Workshops/Presentations            | Event Storming/Modelling/Bounded Contexts | Wrocław? | Expense Coverage  |
 | Michał Koszałka      | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
 | Grzegorz Kotfis      | ?/Presentations                      | Kotlin/DDD                                | Tricity  | None              |
+| Michał Giergielewicz | Workshop/Presentations               | Tactical DDD/ES                           | Tricity  | None?             |
+| Damian Płaza         | Workshop/Presentation                | DDD                                       | Tricity  | None?             |
+| Oskar Dudycz         | ???                                  | Event Sourcing                            | Wrocław? | Expense Coverage? |
 | Mariusz Gil          | Workshops/Presentations              | DDD Consultancy/Modelling                 | Wrocław  | ???               |
-| Michał Giergielewicz | Workshop/Presentations               | Tactical DDD/ES                           | Gdańsk   | None?             |
+| Radek Maziarka       | ?/Workshops/Presentations            | Event Storming/Modelling/Bounded Contexts | Wrocław? | Expense Coverage  |
 
 Please adjust the topics to the [[DDD-GDA Meritocratic Strategy|Current Plan]]
 

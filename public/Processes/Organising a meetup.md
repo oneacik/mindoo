@@ -1,4 +1,4 @@
- # Entities and Value Objects
+[[DDD-GDA Control plane]]
 
 ## Meetup Event
 
