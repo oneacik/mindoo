@@ -1,4 +1,5 @@
 - Things that make ma hungry
+	- **COFFEE FUCKS ME**
 	- Big Pans
 	- Gyozilla
 		- Ramen
@@ -9,8 +10,9 @@
 	- Coffee & Cakes
 	- Falla
 		- Humuss
-    - Beer
+	- Beer
 - Things that make me full
+	- **Drinking after eating**
 	- Poke Bowl
 	- Fruits
 	- Raw Veggies
@@ -20,7 +22,6 @@
 	- Falla
 		- Hemp Wrap
 		- Ayran
-	- Drinking after eating
 	- Chicken
 - Special Laws
     - Beer but only before eating and 1-2 only

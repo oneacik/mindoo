@@ -215,7 +215,6 @@ Po wyjściu z windy na 8. piętrze jedne drzwi będą otwarte – zapraszamy do 
 Please adjust the topics to the [[DDD-GDA Meritocratic Strategy|Current Plan]]
 
 ### Tips
-
 - Usually it is good to start from the sponsors
 
 
@@ -255,3 +254,17 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 - It is good to start with a note containing information about DDD meetup
     - What is DDD
     - For whom it is
+
+## Writer
+
+### Writing Notes on a Meeting
+
+#### Structure
+- Links
+	- Recordings
+	- Materials
+- Retrospective
+- Photos
+- Leader Notes
+	- Idea
+	- Agenda
