@@ -157,6 +157,7 @@ Po wyjściu z windy na 8. piętrze jedne drzwi będą otwarte – zapraszamy do 
 | 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
 | 21-09-2022  | 35              | ~35              | ~100%      | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
 | ??-10-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
+| ??-10-2022  | 50              | 16               | 30%        | Presentation + Interview - post on li not very engaging, no reminder before a meeting?                   |
 
 ### Survey 
 
@@ -263,6 +264,7 @@ This is source of truth of corporations, use it and update: [[Companies in Trici
 - Links
 	- Recordings
 	- Materials
+	- Meetup
 - Retrospective
 - Photos
 - Leader Notes
