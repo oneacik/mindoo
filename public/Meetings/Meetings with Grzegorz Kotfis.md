@@ -11,16 +11,13 @@ mermaid - co to w stosunku do plantumpl
 
 - [[Companies in Tricity|Xebia]]
 - [[Companies in Tricity|Aardling]]
-
 - [[Table of Knowledge|Infoq]]
 	- Susanne Kaiser on DDD
 - [[Table of Knowledge|Real World Serverless]]
 	- Kacper Grunia o Team Topologies
 
 - ADKAR - Change Management
-
 - Fracture CTO - ciekawa rola
-
 - Event Modelling
 
 Senior bez regulara, to jak zwykły regular
