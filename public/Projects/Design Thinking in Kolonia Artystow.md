@@ -1,5 +1,73 @@
 # Agenda
 
+
+1. Empathizing
+    1. Interview with owner of Kolonia Artystów
+    1. Get to know each other
+    1. Get into groups
+    1. Cross interviews in groups
+1. Problem Scope
+    1. Start with one problem
+    1. Root Cause Analysis
+    1. Vote for the easiest and most impactful problem
+1. Solution Scope
+    1. Brainstorming on solution
+    1. Discussion of ideas in groups
+    1. Pick one idea
+1. Prototyping
+    1. Write down the plan for idea
+    1. Present the plan
+1. Wrap up
+    1. Owner Summary
+    1. Quick Retrospective
+    1. Afterparty
+
+## Explanation
+
+### Ad 1.1 Interview with an owner
+
+It is very important to do this part right.
+You need to be exhaustive and to find as many important details as possible.
+It will be a base to forming problems and knowing what to empathise about.
+
+### Ad 1.2 Get to know each other
+
+We will use [Impromptu Networking](https://www.liberatingstructures.com/2-impromptu-networking/).
+
+### Ad 1.4 Cross interviews in groups
+
+People may not have visited Kolonia before this meeting.
+**Ask:** What are things that you are looking for in art cafes.
+**Then you may follow:** what needs is Kolonia fulfilling for you and what is it lacking for you
+
+Each person should be ask by a group and it should take 10-15 minutes per person.
+Treat it as an interview, you want to understand better others and finally yourself.
+One person should be designated to write highlights of other thoughts on sticky notes.
+
+### Ad 2.2 Root Cause Analysis
+
+[Fishbone analysis](https://asq.org/quality-resources/fishbone) is just asking "why" enough times for the problem.
+There may be many answers for one "why" therefore it starts to form tree or fishbone structure.
+It is important to get as deep as possible to find the real cause for a main problem.
+You often may find yourself exploring psychological and sociological problems when going deep into analysis.
+
+### Ad 2.3 Vote for the easiest and most impactful problem
+
+Using dot voting on sticky notes.
+
+
+### Ad 3.1 Brainstorming on solution
+
+Brainstorming using [Brain writing](https://www.mindtools.com/ak3qj17/brainwriting)
+
+### Ad 4.1 Write down the plan for idea
+
+The plan should contain:
+- General steps which should be done to implement solution
+- People who could help with the plan
+
+## Old table
+
 | Step | What                                            | Why | How                                                                                                                                     |
 |------|-------------------------------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Empathizing                                     |     | ---                                                                                                                                     |
@@ -22,23 +90,3 @@
 | 5.1  | Owner Summary                                   |     | Owner should say few words on the next steps of the plans                                                                               |
 | 5.2  | Quick Retrospective                             |     | Everyone should say what they thought about the workshop and what could be improved                                                     |
 | 5.3  | Afterparty                                      |     | and chill                                                                                                                               |
-
-Ad 1.1
-It is very important to do this part right.
-You need to be exhaustive and to find as many important details as possible.
-It will be a base to forming problems and knowing what to empathise about.
-
-Ad 1.4
-People may not have visited Kolonia before this meeting.
-**Ask:** What are things that you are looking for in art cafes.
-**Then you may follow:** what needs is Kolonia fulfilling for you and what is it lacking for you
-
-Each person should be ask by a group and it should take 10-15 minutes per person.
-Treat it as an interview, you want to understand better others and finally yourself.
-One person should be designated to write highlights of other thoughts on sticky notes.
-
-Ad 2.2
-Fishbone analysis is just asking "why" enough times for the problem.
-There may be many answers for one "why" therefore it starts to form tree or fishbone structure.
-It is important to get as deep as possible to find the real cause for a main problem.
-You often may find yourself exploring psychological and sociological problems when going deep into analysis.
