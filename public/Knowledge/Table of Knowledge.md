@@ -13,6 +13,7 @@
 | Piotr           | Book    | Design/Modelling      | [User Story Mappung](https://www.amazon.com/dp/1491904909/)                                                                                                                     |
 | Piotr           | Book    | Life Advice           | Bogaty Ojciec i Biedny Ojciec                                                                                                                                                   |
 | Piotr           | Book    | Life Advice           | Ichigo Ichie                                                                                                                                                                    |
+| Piotr           | Book    | Growth                | [Staff Engineers Path](https://www.amazon.pl/Staff-Engineers-Path-Individual-Contributors/dp/1098118731/)                                                                       |
 | Adam            | Book    | Training              | [Training from the back of the room](https://b-ok.xyz/book/975553/e42ceb)                                                                                                       |
 | Adam            | Book    | Facilitating          | [The Skilled Facilitator](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/0787947237)                                                      |
 | Grzegorz Kotfis | Book    | Management            | Manager's Path                                                                                                                                                                  |
@@ -22,3 +23,16 @@
 | Grzegorz Kotfis | Podcast | Architecture          | [Real World Serverless - Understanding Team Topologies](https://podcasts.apple.com/qa/podcast/66-understanding-team-topologies-with-nick-tune-and/id1499753495?i=1000577150321) |
 
 
+### Books to buy
+
+- Helping me to lead meetup etc
+	- [ ] The Skilled Facilitator
+	- [ ] Manager's Path
+- Things of interest around DDD
+	- [ ] Enterprise Integration Patterns
+- Around my growth
+	- [ ] Staff Engineer Path
+- Others
+	- [ ] Phoenix Project
+	- [ ] Accelerate
+	- [ ] Devops Handbook
