@@ -15,3 +15,9 @@ Topics:
     - Are you releasing responsibilities from yourself? How?
     - What do you delegate
     - What is your ideal leadership structure?
+
+What I want to achieve:
+- Learn how to build a community that I could handover in the future
+- How to not be overwhelmed by responsibilities
+- How to get sponsors to be free in decisions and in future even hold a conference
+- How to plant a good foundation for a meetup that will hold people in it
