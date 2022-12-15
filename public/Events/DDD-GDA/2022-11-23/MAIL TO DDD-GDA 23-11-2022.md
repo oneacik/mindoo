@@ -25,10 +25,10 @@ Dlatego przygotowaliśmy dwie ankiety (na górze emaila), które pozwolą nam le
 Odpowiedzi z ankiety zostaną przedyskutowane na styczniowym spotkaniu.
 Podsumujemy również poprzednie ankiety - one również były dla nas ważne.
 
-Jako, że gwiazdka jest blisko, to przygotowałem również dla was mały prezent.
+Jako, że gwiazdka jest blisko, to przygotowałem również dla was dwa małe prezenty.
+Nagranie z poprzedniego spotkania: https://www.youtube.com/watch?v=y7l_6RlqpQg oraz...
 Zaproszenie do jednej z najpopularniejszych społeczności DDD (EN): https://discord.gg/K8hTsBVT.
 Ponad połowa z was wyraziła potrzebe takiego miejsca.
-Dla tych, którzy głosowali na slacka: niestety stamtąd właśnie się przeprowadzili.
 Na kanale #ddd-poland będziemy wrzucać informacje o nadchodzących meetupach i innych spotkaniach.
 
 Do zobaczenia.

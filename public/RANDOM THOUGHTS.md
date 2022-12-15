@@ -46,3 +46,7 @@ Funky!!!
 Ciemna Traida
 
 Trzeba ustalać granice
+
+Popatrzeć na InfoQ i zobaczyć jakie firmy tam są
+
+Słowa mają wieloznaczności, trzeba używać jak najbardziej precyzyjnych i zrozumiałych.
