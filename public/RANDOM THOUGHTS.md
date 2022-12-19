@@ -50,3 +50,15 @@ Trzeba ustalać granice
 Popatrzeć na InfoQ i zobaczyć jakie firmy tam są
 
 Słowa mają wieloznaczności, trzeba używać jak najbardziej precyzyjnych i zrozumiałych.
+
+Jeść mniejsze porcje
+
+P3.EXPRESS
+
+Volt
+Miinto group
+
+metoda rąk
+kiedy pytasz się jakie osoby mają jakie skille i po koleji po poziomie dobierasz je do grupy
+
+Testy AB są spoko, ale tylko jak mamy określony cel, czy wartości

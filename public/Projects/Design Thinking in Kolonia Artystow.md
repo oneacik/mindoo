@@ -1,16 +1,16 @@
 ## Event
 
-Data: 17-12-2022 Godzina: 16-20
+Data: 07/01/2022 Godzina: 16-20
 Warsztat: Design Thinking - Rekonstrukcja Koloni Artystów
 Prowadzący: Piotr Suwała
 Motywy: Empatia/Przyczyny/Rozwiązania
 Techniki: Root Cause Analysis/Design Thinking/Brainstorming/Liberating Structures
 
-Warsztat ma na celu nauczyć was szukania, rozumienia i rozwiązywania problemów.
-Tym razem na warsztat weźmiemy Kolonie Artystów i spróbujemy odkryć jej prawdziwy potencjał.
+Warsztat ma na celu nauczyć was twórczego rozwiązywania problemów organizacji.
+Tym razem na warsztat weźmiemy Kolonie Artystów i spróbujemy uchronić ją przed upadłością.
 Proces Design Thinking składa się z 3 kroków.
-Empatyzowania - zrozumienia czego potrzebują grupy osób wokół nas.
-Szukania Przyczyn - odkrycia co naprawdę powoduje, że kolonia boryka się teraz z problemami.
+Empatyzowania - odkrycia różnych grup docelowych kolonii i zrozumienia ich potrzeb
+Szukania Przyczyn - odkrycia co naprawdę powoduje, że kolonia boryka się teraz z problemami przez pryzmat niezaspokojonych potrzeb.
 Proponowania Rozwiązań - zaprezentowania kilku rozwiązań, które mogą uratować nasze miejsce.
 Wybrane pomysły zostaną przetestowane na żywym organiźmie.
 
