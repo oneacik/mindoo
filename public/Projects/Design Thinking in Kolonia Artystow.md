@@ -20,7 +20,58 @@ Korzysta z technik Liberating Structures, by wydobyć prawdziwy potencjał uczes
 Wierzy, że najlepsze rozwiązania wynikają z prawdziwego zrozumienia osób, ku którym tworzymy.
 
 
-## Agenda
+
+## Plan Spotkania
+
+1. Przedstawienie idei spotkania <15m>
+	1. Przedstawienie celu
+		1. Wymyślenie pomysłów, które potencjalnie mogą uratować kolonie artystów
+		2. Zebranie potrzeb różnych osób, które pozwolą nam stworzyć grupy docelowe
+	2. Przedstawienie agendy
+2. Wywiad z właścicielem kolonii artystów <15m>
+	1. Pytania od prowadzącego
+		1. Jaki ogólny problem chcemy rozwiązać na dzisiejszych warsztatach
+		2. Jakie przychody przychody kolonia artystów
+		3. Jakie koszty generuje kolonia artystów
+		4. Co się zmieniło, że kolonia się już nie utrzymuje?
+	2. Pytania od publiczności
+3. Impromptu Networking (Liberating Structures) <15m>
+4. Dobranie się w 6 osobowe grupy
+5. Kolonia jako kawiarnia - szukanie potrzeb i grup docelowych <6 * 10m = 60m>
+	1. Generowanie potrzeb 
+		1. Każda osoba musi po koleji odpowiedzieć na pytania
+			1. Kim jesteś i czym się zajmujesz?
+			2. Dlaczego odwiedza kawiarnie?
+			3. Czego oczekuje od kawiarni?
+			4. Czego mu brakuje w koloni artystów?
+		2. Każda osoba zapisuje rzeczy na kartkach samoprzylepnych i przyczepia do swojej kartki A3
+6. Przerwa <15m>
+7. Redukcja do person <15m>
+	1. Jeżeli znajdziemy podobne potrzeby, oczekiwania,i niezaspokojone wymagania u kilku osób; to próbujemy je zredukować do jednej osoby
+	2. Persona powinna zawierać: imię wymyślonej osoby, jednolinijkowy opis i podpięte odpowiedzi do pytań.
+8. Szukanie przyczyn <45m>
+	1. Fishbone analysis
+		1. Zaczynamy od problemu "kolonia artystów nie może się utrzymać"
+		2. Każda osoba może doczepiać swoje własne dlaczego głośno je wypowiadając
+		3. Każda z osób może przyczepić personę z którą się utożsamia do ważnej karteczki z przyczyną
+9. Wybór przyczyny do zaadresowania <15m>
+	1. Grupa prowadzi dyskusje, która ma wyłonić jedną z przyczyn, którą trzeba zaadresować
+	2. W przypadku niezgody należy przprowadzić głosowanie kropkami, gdzie każda osoba może 3 kropki umieścić na różnych kartkach
+10. Przygotowanie rozwiązań <30m>
+	1. Brainwriting - 2 rundy
+	2. Dyskusja nad rozwiązaniami
+	3. Wybór najlepszego
+	4. Ewentualnie głosowanie poprzez kropkowanie (3 kropki na osobe)
+11. Przygotowanie krótkiego podsumowania <15m>
+	1. Przedstawienie jakie osoby wchodziły w skład grupy
+	2. Przedstawienie jakie ważne przyczyny, które podminowują kolonie artystów znaleziono
+	3. Przedstawienie jaką przyczyną chcieliśmy się zająć
+	4. Przedstawienie potencjalnego rozwiązania, bądź motywu do dalszej eksploracji
+12. Przerwa <15min>
+13. Przedstawienie podsumowania <6 \* 5min = 30min>
+
+
+## Old Agenda
 
 1. Empathizing
     1. Interview with owner of Kolonia Artystów
