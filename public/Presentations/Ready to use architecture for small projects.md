@@ -1,5 +1,7 @@
 ## c4paperish
 
+# PL
+
 ### Title
 
 Clean & Hexagonal Architecture - to naprawdę działa!
@@ -28,6 +30,34 @@ Jestem programistą z wieloletnim doświadczeniem w systemach enterprise.
 Obcowanie z code debtem na codzień nauczyło mnie doceniać systemy, które są jasno uporządkowane i łatwe do zmiany.
 Doświadczenie uzupełniam wiedzą z książek, którą próbuje wdrażać komercyjnie, jak również w projektach open source.
 Ostatnio jestem w trakcie rocznej przerwy, podczas której prowadzę meetup Domain Driven Design w Gdańsku.
+```
+
+# EN
+
+## Abstract
+
+```
+In IT industry we have a repeatable problem of code debt, which steals happiness from our work, inducing horrible stress and frustration.
+On the other hand frameworks, architectural approaches, tests cost us supposedly wasted time and they seem not to deliver their promises.
+
+In the presentation I'll show you Clean Architecture and Hexagonal Architecture in practice. You will also experience how those approaches interact with Event Storming, Spring Boot and Kotlin.
+
+Using Open Source Labella application I'll show you:
+- what potential problems I wanted to solve using those techniques
+- what real problems were solved and what challenges arised from them
+- and summarise, what in my opinion, these practices are meant for
+
+Spoiler Alert:
+These techniques deliver their promises, just not in the way we expect.
+```
+
+## Bio
+
+```
+I'm a programmer with several years experience in enterprise systems.
+Tackling code debt made me appreciate well structurised and easy to change systems.
+I augment my experience with knowledge from the books which I apply to commercial projects and open source ones.
+Recently I'm during my year long break leading Domain Driven Design meetup in Gdańsk.
 ```
 
 

@@ -18,3 +18,4 @@
 | [Geecon](http://www.geecon.org/)                                 | October/09   | Java                                |
 | [IT Workplace of Tomorrow](https://itworkplace.letsmanageit.pl/) | November/11  | Management                          |
 
+https://confs.tech/java

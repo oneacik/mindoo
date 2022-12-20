@@ -1,6 +1,6 @@
 ## Event
 
-Data: 07/01/2022 Godzina: 16-20
+Data: 07/01/2022 Godzina: 15-20
 Warsztat: Design Thinking - Rekonstrukcja Koloni Artystów
 Prowadzący: Piotr Suwała
 Motywy: Empatia/Przyczyny/Rozwiązania
