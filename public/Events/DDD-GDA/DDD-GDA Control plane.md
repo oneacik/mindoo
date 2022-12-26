@@ -153,18 +153,18 @@ Po wyjściu z windy na 8. piętrze jedne drzwi będą otwarte – zapraszamy do 
 ### Data on number of people
 
 | Meetup Date | People Declared | People attending | Conversion | Approach                                                                                |
-| ----------- | --------------- | ---------------- | ---------- | --------------------------------------------------------------------------------------- |
+|-------------|-----------------|------------------|------------|-----------------------------------------------------------------------------------------|
 | 25-08-2022  | 26              | 16               | 60%        | Lean Coffee                                                                             |
 | 21-09-2022  | 35              | ~35              | ~100%      | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
-| ??-10-2022  | 24              | 16               | 65%        | Workshop + Accidentially forced invitations not shown on meetup ;-;                     |
-| ??-11-2022  | 50              | 16               | 30%        | Presentation + Interview - post on li not very engaging, no reminder before a meeting?                   |
+| ??-10-2022  | 24              | 16               | 65%        | Workshop (Story Telling) + Accidentially forced invitations not shown on meetup ;-;     |
+| ??-11-2022  | 50              | 16               | 30%        | Presentation + Interview - post on li not very engaging, no reminder before a meeting?  |
 
 ### Survey 
 
-| Survey Date                                                                                             | People On Event | Filled Surveys | Conversion | Approach                              |
-|---------------------------------------------------------------------------------------------------------|-----------------|----------------|------------|---------------------------------------|
-| [03/10/22](https://docs.google.com/forms/d/1ZKvf1LKEEnk6csR4I_VWGDer_QHYz_Dw82JD9MUApJg/edit#responses) | 35              | 6              | 17%        | Email from meetup + Bad email subject |
-| [31/10/22](https://docs.google.com/spreadsheets/d/1RD-HQo8YNEjpj_PSh2fT_rDFDLJv5n8aDk9DOBgAhYo/edit) | 16 |  12 | 75% | Well formed email + lot of QR codes / advertising on meetup |
+| Survey Date                                                                                             | People On Event | Filled Surveys | Conversion | Approach                                                    |
+|---------------------------------------------------------------------------------------------------------|-----------------|----------------|------------|-------------------------------------------------------------|
+| [03/10/22](https://docs.google.com/forms/d/1ZKvf1LKEEnk6csR4I_VWGDer_QHYz_Dw82JD9MUApJg/edit#responses) | 35              | 6              | 17%        | Email from meetup + Bad email subject                       |
+| [31/10/22](https://docs.google.com/spreadsheets/d/1RD-HQo8YNEjpj_PSh2fT_rDFDLJv5n8aDk9DOBgAhYo/edit)    | 16              | 12             | 75%        | Well formed email + lot of QR codes / advertising on meetup |
 
 ## Leading Event
 

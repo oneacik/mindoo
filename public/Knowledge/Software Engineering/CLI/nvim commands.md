@@ -8,6 +8,8 @@
 
 `CTRL-I,O`  - go to prev/next location
 
+`=`` - format code??
+
 ## Sizes
 - tiny
 - scriptsize
