@@ -1,0 +1,1 @@
+getting props of a window
