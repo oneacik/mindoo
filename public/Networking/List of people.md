@@ -15,3 +15,6 @@
 | Agnieszka Cieslawska | ???               | Agile Coach              | We met on Pi3; were talking about [[Liberating Structures]] | [[Meetings with Agnieszka Cieslawska]] |
 | Andrzej Krzywda      |                   |                          | One of Ruby DDD ppl                                         |                                        |
 | Sławomir Sobótka     | Bottega           | Presidento               | We met at YavaConf and together drove to meetup at Sii      |                                        |
+| Bartosz Choiński     | ???               | Psychologist             | Cool mate from Design Thinking. He is also from Polonia     |                                        |
+| KAmil Masztalerz     | PROFITROOM        | Node.js Dev              | Met at Typescript meetup. Cool m8.                          |                                        |
+| Tomasz Dłuski        | Medicover         | C# DEV                   | Met at Typescript Meetup. DDD Enthusiast.                   |                                        |

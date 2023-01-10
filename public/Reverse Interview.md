@@ -80,6 +80,8 @@ Revamped Questions:
     - What are currently technologies on your tech radar?
     - How can I grow to become architect/staff or team leader/manager here?
 
+## Better stuff
+
 Expected Responses:
 Q: Do your people have time to take additional responsibilities out of scope of their daily tasks? What are they?
 A: Yes, they ake responsibilities that help them to growth in given path.
@@ -152,7 +154,13 @@ Score: Impact (3/5) Verifiability (3/5)
 A: If becoming higher in position you need to wait for the opportunities, then you are fucked.
 Score: Impact (5/5) Verifiability (3/5)
 
+## Chill talk questions
 
+Q: I am a person who defines himself as a craftsman, team leader wannabe and I love facilitation. How would you see my role in the company?
+Q: What are your teams, their functions etc? What is the topology of your organisation?
+Q: Do you have some common practices? Like DDD, Team Topologies other interesting approaches?
+Q: What is the tech stack? How open are you to try new technologies? Tech radar? [[Tech Radar]]
+Q: What is the pressure?
 
 
 ## Links

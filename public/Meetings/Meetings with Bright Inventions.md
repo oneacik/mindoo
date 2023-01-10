@@ -1,0 +1,48 @@
+# 2023-01-03
+
+
+- Materiały
+	- Jednorazowo i dużo
+	- **Mogę prosić o grafiki**
+	- Książki
+		- Śmiało!
+		- Budować biblioteczkę
+		- [ ] Pytać ludzi co by chcieli
+- Wydarzenie
+	- Oczekiwani
+		- Mention dla Bright na postach
+		- Chcą być dość przezroczyści
+		- Jakieś mentiony wrzucić na sociale
+		- Na prezce mention zawsze ok
+		- Ich potencjalny zysk
+			- Rekrutacja
+			- Wizerunek
+			- **Knowledge Sharing dla osób wewnątrz**
+		- Spotkania
+			- **2 przypomnienia** - tego dnia i tydzień przed
+			- **Wysłać ludziom link do materiałów po spotkaniu**
+- Proces
+	- **Zmiana Salki do zakomunikowania BI zawsze i szybko**
+		- **W razie jak się coś wywali, to nic nie szkodzi, anuluje się rezerwacje**
+	- Po spotkaniu
+		- **Meetupem mam się zajmować ja**
+		- Komunikacja do Bright
+			- Termin
+			- Czym mają się zająć
+		- **Bright zawsze będzie się zajmować marketingiem**
+		- **Potrzebujesz edycji nagrania? Napisać do Bright**
+		- **Proces: Ja tworzę wydarzenie meetupowe -> Bright tworzy posta na li**
+			- Potem ja mogę się na nim wzorować
+	- Każdą rzecz testować
+- Marketing
+	- Ogródek cyfrowy
+		- Sprawdzać, czy ludzie wchodzą i korzystają
+	- Ankiety
+		- **Bufor na spotkaniu na ankietę**
+		- Jasny komunikat po co jest
+		- Przed pizzą - pattern zakładnika xD
+	- CocoHeads
+		- Prelegeni przyjeżdżają na weekend do Trójmiasta, więc często im styka nawet bez rekompensaty
+	- Linkedin i Twitter
+		- Krótkie wiadomości w punkt
+		- **To jest ok prosić Bright o feedback**

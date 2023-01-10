@@ -1,3 +1,17 @@
+### Current Way
+- Strategic
+	- Hexagonal Architecture
+	- Clean Architecture
+	- Modular Monolith
+- Tactical
+	- All Immutable - Mutable things come from Repositories
+
+
+
+
+
+### Some old thoughts
+
 Questions to find the Problems:
 - What architecture would need to send commands from clients to the services
 
