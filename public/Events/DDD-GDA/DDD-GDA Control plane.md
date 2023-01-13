@@ -127,6 +127,14 @@ E2 --> D5
 
 ## Meetup Organisation
 
+### What Dynatrace wants from me???
+
+1.  Zaznaczyć, podkreślić, pogrubić, cokolwiek – żeby uczestnicy wpisywali imię i nazwisko
+2.  Lista uczestników wysyłana do mnie **w pliku**
+3.  Info na którą godzinę pizza – najpóźniej do 11:00 w dniu wydarzenia, ale super jakbyś dawał znać szybciej, gdy masz już agendę
+4.  W formularzu, który wypełniasz na stronie podawaj godziny wydarzenia(17:30-21:00) , nie czas trwania (3.5h). ja do tego dodaję zawsze 1h przed na przygotowania, 30min po na rozejście się.
+5.  Ustawienie zakładam dla Was stałe – częsć 1 rzędy krzeseł, część 2 workshopy – jeśli cokolwiek miałoby się zmienić ustalmy to najpóźniej na tydzień przed wydarzeniem
+
 ### Structure of the meetup event description
 
 - Definition of Event

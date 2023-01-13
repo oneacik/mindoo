@@ -62,3 +62,5 @@ metoda rąk
 kiedy pytasz się jakie osoby mają jakie skille i po koleji po poziomie dobierasz je do grupy
 
 Testy AB są spoko, ale tylko jak mamy określony cel, czy wartości
+
+CUPID vs SOLID

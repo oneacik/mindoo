@@ -25,6 +25,7 @@
 | [jDD](https://jdd.org.pl/)                                       | October/09   | Java Conference                     |
 | [Geecon](http://www.geecon.org/)                                 | October/09   | Java                                |
 | [IT Workplace of Tomorrow](https://itworkplace.letsmanageit.pl/) | November/11  | Management                          |
+| [Build Stuff](https://www.buildstuff.events/)                    | November/11  | IT                                  |
 | [Aula Polska](https://aulapolska.pl/)                            | December/12  | Startupy Polskie                    |
 
-https://confs.tech/java
+- https://confs.tech/java

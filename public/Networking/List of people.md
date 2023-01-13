@@ -19,3 +19,4 @@
 | KAmil Masztalerz     | PROFITROOM             | Node.js Dev              | Met at Typescript meetup. Cool m8.                          |                                        |
 | Tomasz Dłuski        | Medicover              | C# DEV                   | Met at Typescript Meetup. DDD Enthusiast.                   |                                        |
 | Piotr Wilczewski     | KawePale Palarnia Kawy | CEO                      | Spotkaliśmy się w kawiarni jak brał pożyczkę.               |                                        |
+| Atreya               | WiPro                  | Business Manager         | Lunch Club                                                  | [[Meetings with Antrya]]               |
