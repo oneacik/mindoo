@@ -20,8 +20,9 @@
 1. *(Optional B)* Each team shares topics of their choosings [2min/team]
 1. Talks [60min]
     1. Topic is being conducted for 20 minutes
-    1. *(Optional B)* People can move to other tables (but limit per station should be preserved)
-    1. The next topic gets addressed
+    2. (People may make notes on sticky notes, doodling, etc.)
+    3. *(Optional B)* People can move to other tables (but limit per station should be preserved)
+    4. The next topic gets addressed
 1. *(Optional C)* Summary [15min]
     1. Each person shares what was the most impactful for him during the lean coffee
 
@@ -30,3 +31,10 @@
 Full (A+B+C) = ~2h
 Optimal (B+C) = ~1h45
 Minimum (with shortened talks to 15minutes) = 1h
+
+## Links
+- [[Presentation - Lean Coffee Introduction]]
+- [[Lean Coffee Post]]
+- [[Lean Coffee]]
+- [[DDD-GDA 21-09-2022]]
+- [[DDD-GDA-2 Lean Coffee Notes]]
