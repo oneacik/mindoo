@@ -56,6 +56,7 @@ C1 --> D2
 - **Unrefined Aggregates** - Random information put into given category
 	- **Random Thoughts** - Random information not yet put into given category - they should contain the entry and the date, later the link where the data got put
 - **Topic Pages** - Pages on given topic in given context, usually having a link from the table
+- **Prototypes/Templates** - As in javascript you can use prototypical programming and create trees of templates that inherit with each other.
 
 ## Glossary
 - Context - treat it as a little bounded context. For example list of all companies for one meetup is in different context than for other meetup and should have different fields from the large table

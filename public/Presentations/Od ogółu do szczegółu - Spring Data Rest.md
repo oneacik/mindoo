@@ -1,3 +1,11 @@
+
+## Links
+
+- [My Linkedin](https://www.linkedin.com/in/piotr-suwa%C5%82a-928b1817a/)
+- Presentation [Link](https://oneacik.github.io/presentations/spring-data-rest/)
+- Presentation Repository [Link](https://github.com/oneacik/revils/tree/master/presentations/spring-data-rest)
+- Code Repository [Link](https://github.com/hspsh/labella)
+
 ## Abstract
 
 ```
