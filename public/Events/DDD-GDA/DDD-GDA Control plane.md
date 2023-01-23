@@ -70,9 +70,8 @@ actor "Execution"  as E #Implementation
 
 
 rectangle "Market event on the facebook/linkedin/twitter" as B1 #Business
-rectangle "Send a reminder via meetup.com" as B2 #Business
+rectangle "Send a reminder via meetup.com" as B2 #Implementation
 rectangle "Taking Photos" as B3 #Business
-rectangle "Handle the group on li/fb" as B4 #Business
 rectangle "Add photos to the meetup group" as B5 #Business
 
 rectangle "Discuss Strategy" as D1 #Strategy
@@ -81,7 +80,7 @@ rectangle "Help with a presentation" as D4 #Strategy
 rectangle "Network for the new speakers" as D5 #Strategy
 
 rectangle "Create a draft of the event on meetup.com" as E1 #Implementation
-rectangle "Create linkedin/twitter post about an event" as A1 #Implementation
+rectangle "Create linkedin/twitter post about an event" as A1 #Business
 rectangle "Once a time, a meeting" as E2 #Implementation
 rectangle "Retrospective" as E3 #Implementation
 rectangle "Find new sponsors" as D3 #Implementation
