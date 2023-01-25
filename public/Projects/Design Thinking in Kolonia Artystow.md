@@ -1,3 +1,42 @@
+
+## Event V2
+
+Data: 07/01/2022 Godzina: 18-20:30
+Warsztat: Design Thinking - Crash Course
+
+Czym jest Design Thinking:
+Design Thinking to zbiór praktyk, które pozwalają na projektowanie usług i produktów
+poprzez głębokie zrozumienie potrzeb i problemów użytkowników.
+
+Dla kogo jest przeznaczony ten warsztat:
+- Osób, które znają kolonie i osoby, które nigdy w niej nie byli
+- Osób, które chcą się zainspirować jak zaprojektować swoją własną działalność, produkt, usługę
+- Osób, które chcą po prostu pomóc koloni utrzymać się w trudnych czasach
+
+Czego nauczysz się podczas tego warsztatu?:
+- Prowadzenia wywiadów z użytkownikami
+- Poszukiwania przyczyn problemów
+- Generowania rozwiązań
+
+Agenda:
+1. 👯 Podział na grupy [10min]
+2. 🧑 Wywiady w grupach [40min]
+3. 🔎 Definicja problemu [20min]
+4. 💤 Przerwa [10 min] - Możliwość wcześniejszego wyjścia
+5. ❓ 5 Whys - Poszukiwanie przyczyn [20min]
+6. 🧠 Brainwriting - Poszukiwanie rozwiązań problemów [30min]
+7. 🎁 Zaprezentowanie rezultatów pracy [20min]
+
+Linki:
+- Prezentacja: https://oneacik.github.io/presentations/design-thinking-crash-course
+- Wewnętrzne notatki: https://www.ksidelta.com/design-thinking-in-kolonia-artystow
+
+O prowadzącym:
+Piotr Suwała prowadzi meetup DDD-GDA w Gdańsku.
+Korzysta z technik Liberating Structures, by wydobyć prawdziwy potencjał uczestników spotkań.
+Wierzy, że najlepsze rozwiązania wynikają z prawdziwego zrozumienia osób, dla których tworzymy rozwiązania.
+
+
 ## Event
 
 Data: 07/01/2022 Godzina: 15-20
