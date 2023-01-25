@@ -29,7 +29,10 @@
 	- [ ] The Skilled Facilitator
 	- [ ] Manager's Path
 - Things of interest around DDD
+    - [x] Enterpris Patterns and MDMA
+    - [x] Team Topologies
 	- [ ] **Enterprise Integration Patterns**
+    - [ ] **Patterns Principles and Practices of DDD**
 - Around growth as architect
 	- [ ] **Staff Engineer's Path**
 	- [ ] Accelerate
