@@ -26,7 +26,7 @@ Czego nauczysz się podczas tego warsztatu?:
 Agenda:
 1. 👯 Podział na grupy [10min]
 2. 🧑 Wywiady w grupach [40min]
-3. 🔎 Definicja problemu [20min]
+3. 🔎 Definicja problemu na podstawie wywiadów [20min]
 4. 💤 Przerwa [10 min] - Możliwość wcześniejszego wyjścia
 5. ❓ 5 Whys - Poszukiwanie przyczyn [20min]
 6. 🧠 Brainwriting - Poszukiwanie rozwiązań problemów [30min]
