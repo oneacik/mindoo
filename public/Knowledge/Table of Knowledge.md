@@ -29,10 +29,10 @@
 	- [ ] The Skilled Facilitator
 	- [ ] Manager's Path
 - Things of interest around DDD
-	- [ ] Enterprise Integration Patterns
-- Around my growth
-	- [ ] Staff Engineer Path
+	- [ ] **Enterprise Integration Patterns**
+- Around growth as architect
+	- [ ] **Staff Engineer's Path**
+	- [ ] Accelerate
 - Others
 	- [ ] Phoenix Project
-	- [ ] Accelerate
 	- [ ] Devops Handbook
