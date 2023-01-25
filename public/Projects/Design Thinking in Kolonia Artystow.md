@@ -5,13 +5,18 @@ Data: 07/01/2022 Godzina: 18-20:30
 Warsztat: Design Thinking - Crash Course
 
 Czym jest Design Thinking:
-Design Thinking to zbiór praktyk, które pozwalają na projektowanie usług i produktów
-poprzez głębokie zrozumienie potrzeb i problemów użytkowników.
+Design Thinking to zbiór praktyk, które pozwalają na projektowanie usług i produktów,
+zaczynając od zdefiniowania potrzeb i problemów użytkowników.
+
+Jaką usługę będziemy projektować na tych warsztatach?:
+Kolonia Artystów przechodzi teraz kryzys ze względu na wzrost opłat.
+Na spotkaniu zastanowimy się co zrobić, by to miejsce mogło utrzymać się w tych trudnych czasach.
+Skupimy się na naszych potrzebach i zaproponujemy rozwiązania, które pozwolą je wypełnić.
 
 Dla kogo jest przeznaczony ten warsztat:
-- Osób, które znają kolonie i osoby, które nigdy w niej nie byli
-- Osób, które chcą się zainspirować jak zaprojektować swoją własną działalność, produkt, usługę
-- Osób, które chcą po prostu pomóc koloni utrzymać się w trudnych czasach
+- Osób, które znają Kolonię i osoby, które nigdy w niej nie byli
+- Osób, które chcą się zainspirować jak zaprojektować produkt, usługę
+- Osób, które chcą po prostu pomóc Koloni utrzymać się w trudnych czasach
 
 Czego nauczysz się podczas tego warsztatu?:
 - Prowadzenia wywiadów z użytkownikami
@@ -28,6 +33,7 @@ Agenda:
 7. 🎁 Zaprezentowanie rezultatów pracy [20min]
 
 Linki:
+- Design Thinking: https://www.interaction-design.org/literature/topics/design-thinking
 - Prezentacja: https://oneacik.github.io/presentations/design-thinking-crash-course
 - Wewnętrzne notatki: https://www.ksidelta.com/design-thinking-in-kolonia-artystow
 
