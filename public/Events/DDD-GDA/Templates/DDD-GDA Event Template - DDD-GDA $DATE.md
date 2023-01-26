@@ -13,7 +13,27 @@
 ### Title
 
 ### Description
+
+Co:
 ???
+
+Dla Kogo:
+???
+
+Dlaczego:
+???
+
+Jak:
+???
+
+Sponsoring:
+Dziękuje Dynatrace za udostępnienie przestrzeni DevOne Hub.
+Każdy może coś tam zoorganizować: https://devone.com.pl/.
+
+Dziękuję Software House Bright Inventions
+za sponsorowanie materiałów na event.
+Możecie się z nimi poznać na spotkaniu,
+ponieważ zawsze biorą aktywny udział w evencie.
 
 ### Agenda
 ???
