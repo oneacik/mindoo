@@ -86,7 +86,7 @@ Scoped, Custer, Service Accounts
 
 #### Deployment Yaml
 
-```yaml
+```yml
 kind: For example Deployment
 apiVersion: group/version
 medatada: usually has to be something
@@ -133,7 +133,7 @@ spec:
 
 #### Secrets Yaml
 
-```yaml
+```yml
 kind: Secret
 apiVersion: v1
 metadata: usually has to be something
@@ -145,7 +145,7 @@ stringData:
 
 #### Persistent Volume Claims Yaml
 
-```yaml
+```yml
 kind: PersistentVolumeClaim
 apiVersion: v1
 metadata:

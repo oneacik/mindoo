@@ -1,3 +1,8 @@
+
+## Tutorials
+
+[[Meetings with Michal Jakubowicz]]
+
 ## Generating certificates
 
 https://kubernetes.io/docs/tasks/administer-cluster/certificates/
