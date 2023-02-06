@@ -20,3 +20,4 @@
 | Tomasz Dłuski        | Medicover              | C# DEV                   | Met at Typescript Meetup. DDD Enthusiast.                   |                                        |
 | Piotr Wilczewski     | KawePale Palarnia Kawy | CEO                      | Spotkaliśmy się w kawiarni jak brał pożyczkę.               |                                        |
 | Atreya               | WiPro                  | Business Manager         | Lunch Club                                                  | [[Meetings with Antrya]]               |
+| Tomek Twardowski     | Escola                 | Conferencer              | Na meetupie Typescript                                      |                                        |

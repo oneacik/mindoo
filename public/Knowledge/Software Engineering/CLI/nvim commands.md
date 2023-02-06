@@ -8,7 +8,9 @@
 
 `CTRL-I,O`  - go to prev/next location
 
-`=`` - format code??
+`[d, ]d` - prev, next diagnostic
+
+`=` - format code??
 
 ## Sizes
 - tiny
@@ -25,3 +27,4 @@
 ## Interesting plugins
 `:TableModeRealign, :TableModeEnable` - format your md table
 `:VimtexCompile` 
+\
