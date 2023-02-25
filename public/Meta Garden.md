@@ -1,3 +1,10 @@
+---
+id: "Meta Garden"
+aliases:
+  - "Meta Garden"
+tags: []
+---
+
 # Meta Garden
 
 ## Process
@@ -61,3 +68,9 @@ C1 --> D2
 
 ## Glossary
 - Context - treat it as a little bounded context. For example list of all companies for one meetup is in different context than for other meetup and should have different fields from the large table
+
+## LOG
+
+- Which categories use which categories? Please define
+- Note all possible transformations for digital garden!!!
+    - Extract data to common file and link it

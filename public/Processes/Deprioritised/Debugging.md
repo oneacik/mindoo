@@ -2,7 +2,8 @@
 - quick trying strange options
 - quick debugging
 - look google
-- look issues
+- look github issues (IMPORTANT)
+- look github issues (IMPORTANT)
 
 ### habits
 - take break after 10 minutes of being stuck

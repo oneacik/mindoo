@@ -143,6 +143,9 @@ stringData:
     BOT_TOKEN: XXX
 ```
 
+Adding Secret:
+`echo -n "51K8dxKBW7NdbUsimlojLw7AQqLwB" | base64 -w 0`
+
 #### Persistent Volume Claims Yaml
 
 ```

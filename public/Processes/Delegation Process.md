@@ -1,3 +1,11 @@
+---
+id: "Delegation Process"
+aliases: []
+tags: []
+---
+
+
+
 126: Choose the **right authority** level:
 1. Tell - Tell what to do (no empowerment)
 2. Sell - Tell what to do, but try to sell to coworkers

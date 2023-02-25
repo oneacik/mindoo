@@ -165,6 +165,7 @@ Po wyjściu z windy na 8. piętrze jedne drzwi będą otwarte – zapraszamy do 
 | 21-09-2022  | 35              | ~35              | ~100%      | Workshop + Hot topic and hot person xD + Calling for confirming attendance 2days before |
 | ??-10-2022  | 24              | 16               | 65%        | Workshop (Story Telling) + Accidentially forced invitations not shown on meetup ;-;     |
 | ??-11-2022  | 50              | 16               | 30%        | Presentation + Interview - post on li not very engaging, no reminder before a meeting?  |
+| ??-03-2023  | 55              | 30               | 60%        | Reminded people to come before meetup, very long time with meetup on                    |
 
 ### Survey 
 
