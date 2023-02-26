@@ -3,6 +3,7 @@
 [[C4]]
 
 C4 trzymać w:
+
 | Nazwa      | Miejsce                    |
 |------------|----------------------------|
 | System     | Na głównym README projektu |
