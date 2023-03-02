@@ -100,7 +100,7 @@ slides.com
 
 Architecture Drivers
 
-Conway's Law <-> Team Topologies?
+Conway's Law <-> [[Table of Knowledge|Team Topologies]]?
 
 tools:
 1. Tourne po zespołach i zbieranie informacji - mapping używając parafrazy C4

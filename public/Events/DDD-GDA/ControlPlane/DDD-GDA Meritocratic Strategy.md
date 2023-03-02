@@ -138,12 +138,12 @@ If we teach them how to use strategical DDD, they may have more tools to convinc
 This approach also targets better people from management and whatnots, because those topics are universal.
 
 
-### Current Plan
+## Current Plan
 
 | Date       | Name                                               | Priority     | Possible Speakers?      |
 |------------|----------------------------------------------------|--------------|-------------------------|
 | 22-02-2023 | Modelowanie Agregatów                              | Must Have    | Konrad Jakubiec         |
-| ???        | Event Driven, Domain Event vs public event         | Must Have    | Łukasz Szydło?          |
+| ???        | Event Driven, Domain Event vs public event, Saga   | Must Have    | Łukasz Szydło?          |
 | ???        | Archetypy                                          | Must Have    | Bottega? Jakub Pilimon? |
 | ???        | Granice Bounded Contextów, duplikacja danych       | Must Have    | ???                     |
 | ???        | Context Mapping                                    | Must Have    | Ignacy Szreter?         |
@@ -151,6 +151,17 @@ This approach also targets better people from management and whatnots, because t
 | ???        | Kiedy nie stosować DDD, Cynefin Framerowk          | Nice To Have | ???                     |
 | ???        | Event Sourcing, Event Driven vs Event Sourcing     | Nice To Have | Oskar Dudycz?           |
 | ???        | Living Documentation                               | Nice To Have | Konrad Jakubiec?        |
+
+### Possible Speakers 
+
+| Person               | State                   | Modelowanie Agregatów | Event Driven | Archetypy | Bounded Contexts | Context Mapping | Architecting | No DDD, When? | Event Sourcing | Living Documentation |
+|----------------------|-------------------------|-----------------------|--------------|-----------|------------------|-----------------|--------------|---------------|----------------|----------------------|
+| Konrad Jakubiec      |                         | Yes                   | ?            | ?         | ?                | ?               | ?            | ?             | ?              | **Yes?**             |
+| Łukasz Szydło        | Waiting on Linkedin :(( | ?                     | ?            | ?         | ?                | ?               | ?            | ?             | ?              | ?                    |
+| Jakub Pilimon        |                         | Yes                   | ?            | ?         | ?                | ?               | ?            | ?             | ?              | ?                    |
+| Michał Giergielewicz |                         | ?                     | ?            | ?         | ?                | ?               | **Yes?**     | ?             | ?              | ?                    |
+| Radek Maziarka       | Waiting for Sponsoring  | ?                     | ?            | ?         | ?                | ?               | ?            | ?             | ?              | ?                    |
+
 
 Based On:
 - [[DDD-GDA-LEADERSHIP 23-01-2023]]
