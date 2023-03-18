@@ -4,7 +4,8 @@
 - [My Linkedin](https://www.linkedin.com/in/piotr-suwa%C5%82a-928b1817a/)
 - [@ksidelta](https://twitter.com/ksidelta)
 - My own notes: [[Ready to use architecture for small projects]]
-- Presentation [Link](https://github.com/oneacik/reveal-cleanhex)
+- Presentation [Repository](https://github.com/oneacik/revils/tree/master/presentations/hlexan-architecture)
+    - [Deployed presentation](https://oneacik.github.io/presentations/hlexan-architecture/)
 - Repository [Link](https://github.com/hspsh/labella)
 - **Join Library Project** - [Sign up Form](https://forms.gle/YG3Yy3ZmqeDFzWTP6)
 
