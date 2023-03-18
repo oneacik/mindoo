@@ -158,7 +158,7 @@ This approach also targets better people from management and whatnots, because t
 |----------------------|-------------------------|-----------------------|--------------|-----------|------------------|-----------------|--------------|---------------|----------------|----------------------|
 | Konrad Jakubiec      |                         | Yes                   | ?            | ?         | ?                | ?               | ?            | ?             | ?              | **Yes?**             |
 | Łukasz Szydło        | Waiting on Linkedin :(( | ?                     | ?            | ?         | ?                | ?               | ?            | ?             | ?              | ?                    |
-| Jakub Pilimon        |                         | Yes                   | ?            | ?         | ?                | ?               | ?            | ?             | ?              | ?                    |
+| Jakub Pilimon        | June The Earliest       | Yes                   | ?            | ?         | ?                | ?               | ?            | ?             | ?              | ?                    |
 | Michał Giergielewicz |                         | ?                     | ?            | ?         | ?                | ?               | **Yes?**     | ?             | ?              | ?                    |
 | Radek Maziarka       | Waiting for Sponsoring  | ?                     | ?            | ?         | ?                | ?               | ?            | ?             | ?              | ?                    |
 

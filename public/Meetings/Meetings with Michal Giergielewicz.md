@@ -28,7 +28,7 @@
     - North Style Business
     - ADRs should be in code
 - Maturity
-    - Changes WILL break software
+    - **Changes WILL break software**
     - [[Table of Knowledge|Enterprise Integration Patterns]] - may talk about migrations
         - Migration: Expand & Collapse
         - Strangler Pattern

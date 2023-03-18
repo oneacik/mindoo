@@ -65,4 +65,5 @@ Testy AB są spoko, ale tylko jak mamy określony cel, czy wartości
 
 CUPID vs SOLID
 
-
+HOW TO NOTE IT!?!??!
+ABNF!!! : https://www.rfc-editor.org/rfc/rfc5234
