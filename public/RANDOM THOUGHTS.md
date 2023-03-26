@@ -67,3 +67,20 @@ CUPID vs SOLID
 
 HOW TO NOTE IT!?!??!
 ABNF!!! : https://www.rfc-editor.org/rfc/rfc5234
+
+
+Boiling Frogs:
+
+Radek Maziarka:
+- Outbox
+- IdempotencyKey, Inbox
+- Dead Letter Queue
+    - Procesy wokół
+
+
+Moje Prezki:
+- https://2023.boilingfrogs.pl/schedule/clean-hexagonal-architecture-to-naprawde-dziala/
+- https://crossweb.pl/wydarzenia/meetup-134-light-talks-lean-coffee-styczen-2023/
+- https://www.facebook.com/permalink.php?story_fbid=pfbid02JjSXXzPDhw54SRd8g6eYyUaDwA39vip4TWaR6Ve4YGt9HedMbUV6fGvjiBVcmAzxl&id=104488460979904
+- https://stayhappening.com/e/3qa-52-spotkanie-2601-gpnt-E2ISU6ARMMH
+- https://m.facebook.com/events/380805236133970/?aref=0&refsrc=deprecated

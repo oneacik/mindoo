@@ -6,6 +6,7 @@
 | [Invest Cuffs](https://investcuffs.pl/)                          | March/03     | Rynek Inwestycyjny                  |
 | [Alpha Wolves](https://alpha.wolvessummit.com/)                  | March/03     | Capital With Business               |
 | [Welconomy](https://welconomy.pl/)                               | April/04     | Integracja Różnych Społeczności     |
+| [4developers](https://4developers.org.pl/)                       | April/04     | Konfa IT                            |
 | [Code Europe](codeeurope.pl)                                     | May/05       | Koderska Konfa                      |
 | [Impact CEE](https://impactcee.com/)                             | May/05       | Menedżerzy, naukowcy, wszyscy       |
 | [Sektor 3.0](https://sektor3-0.pl/en/)                           | May/05       | Third Sector Conference             |
@@ -15,6 +16,7 @@
 | [Founder's Mind](foundersmind.pl)                                | June/06      | Startups                            |
 | [It Manager Of Tomorrow](https://www.itmtconf.com/)              | June/06      | Management Conference               |
 | [Confitura](https://2022.confitura.pl/)                          | June/06      | Java Conference                     |
+| [Craft IT](https://craft-it.pl/)                          | June/06      | Software Craftsmanship                     |
 | [DDD Europe](https://2022.dddeurope.com/)                        | June/06      | DDD Conference                      |
 | [Devoxx](https://devoxx.pl/)                                     | June/06      | Tech                                |
 | [Lambda Days](https://www.lambdadays.org/)                       | July/07      | Functional Conference               |
