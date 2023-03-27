@@ -16,7 +16,7 @@
 | [Founder's Mind](foundersmind.pl)                                | June/06      | Startups                            |
 | [It Manager Of Tomorrow](https://www.itmtconf.com/)              | June/06      | Management Conference               |
 | [Confitura](https://2022.confitura.pl/)                          | June/06      | Java Conference                     |
-| [Craft IT](https://craft-it.pl/)                          | June/06      | Software Craftsmanship                     |
+| [Craft IT](https://craft-it.pl/)                                 | June/06      | Software Craftsmanship              |
 | [DDD Europe](https://2022.dddeurope.com/)                        | June/06      | DDD Conference                      |
 | [Devoxx](https://devoxx.pl/)                                     | June/06      | Tech                                |
 | [Lambda Days](https://www.lambdadays.org/)                       | July/07      | Functional Conference               |

@@ -1,12 +1,16 @@
 ## Links
 
-- [DDD-GDA - Domain Driven Design Gdańsk](https://www.meetup.com/pl-PL/ddd-gda/)
-- [My Linkedin](https://www.linkedin.com/in/piotr-suwa%C5%82a-928b1817a/)
-- [@ksidelta](https://twitter.com/ksidelta)
+- Self advertisement
+    - [DDD-GDA - Domain Driven Design Gdańsk](https://www.meetup.com/pl-PL/ddd-gda/)
+    - [My Linkedin](https://www.linkedin.com/in/piotr-suwa%C5%82a-928b1817a/)
+    - [@ksidelta](https://twitter.com/ksidelta)
 - My own notes: [[Ready to use architecture for small projects]]
 - Presentation [Repository](https://github.com/oneacik/revils/tree/master/presentations/hlexan-architecture)
     - [Deployed presentation](https://oneacik.github.io/presentations/hlexan-architecture/)
 - Repository [Link](https://github.com/hspsh/labella)
+- Other Learning Materials
+    - [Hexagonal Architecture Origin](https://alistair.cockburn.us/hexagonal-architecture/)
+    - [This Hex + All Article](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - **Join Library Project** - [Sign up Form](https://forms.gle/YG3Yy3ZmqeDFzWTP6)
 
 ### Title
