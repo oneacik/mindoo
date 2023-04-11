@@ -15,4 +15,4 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           repo: oneacik/svelte-static-digital-garden
-          type: update-mindoo
+          type: update-beta-garden
