@@ -49,7 +49,7 @@ Poszukiwanie prawdy zastępuje się konsensusem naukowym, który jest jedynie ty
 Prosto podważyć konsensus naukowy wykorzystując historie, która pokazywała, że dużo badań zostało zinwalidowanych poprzez czas.
 Przykład: Wstępnie badania na temat nikotyny podważały jej toksyczność, kiedy teraz wiemy, że palenie jest niesamowicie szkodliwe.
 
-## Alternatywa
+## Alternatywny System
 
 Stworzenie homogenicznego społeczeństwa jest drogą do spójności i braku konfliktów, przynajmniej na bazie wartości fundamentalnych.
 Tracimy w ten sposób możliwość bezkonfliktowej dyskusji na ten temat, lecz zyskujemy kohezje i możliwość otwartej debaty na każdy inny temat.
