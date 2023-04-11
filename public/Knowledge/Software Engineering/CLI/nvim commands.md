@@ -11,7 +11,9 @@ tags: []
 
 `set spelllang=en,cjk` - sets language
 `:set spell!` - toggles spell checking
+`z=` - recommends replacement
 `[s, ]s` - next previous spell error
+
 `CTRL-I,O`  - go to prev/next location
 `[d, ]d` - prev, next diagnostic
 `=` - format code??
