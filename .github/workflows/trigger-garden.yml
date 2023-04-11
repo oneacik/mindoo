@@ -9,4 +9,10 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           repo: oneacik/gatsby-digital-garden
+          type: update-mindoo 
+      - name: Beta Repository Dispatch
+        uses: myrotvorets/trigger-repository-dispatch-action@1.0.0
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repo: oneacik/svelte-static-digital-garden
           type: update-mindoo
