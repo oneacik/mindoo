@@ -1,3 +1,5 @@
+# Troika consulting/Lean Coffee na Confi
+
 ## Grupa docelowa
 
 - Midzi i seniorzy, którzy swoje już widzieli i prezentacje mogą nie interesować
@@ -6,6 +8,7 @@
 
 ## Założenia
 
+- Chcemy zoorganizować i troika consulting (rozwiązywanie problemów) i lean coffee (tematyczna dyskusja), by zwiększyć różnorodność i porównać zainteresowanie obiema struturami
 - Będą 4 grupy troika consulting 3/4 osobowe + 2 grupy dyskusyjne lean coffee na 8 osób
 - Maksymalnie może przez strefę przejść (4x4 + 2x8) x 5 = **160 unikalnych osób**
 
