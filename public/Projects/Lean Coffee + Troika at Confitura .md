@@ -17,12 +17,13 @@
 - [ ] Ziomek do ogarniania (mogę załatwić swojego ziomo z DDD-GDA, ale trzeba mu zwrócić za dojazd)
 - [ ] Stoły: 4 dla 4 troika consulting + 4 x 2 dyskusyjne na 8 osób + 2 dla organizatorów = 14
 - [ ] Krzesła: 4x4 na troika + 4x2 dyskusyjne + 2 dla organizatorów = 26
-- [ ] Karteczki: (2 równoległe dyskusje x ( 1 temat + 8 osób) + 4 równoległe konsultacje x (1 temat + 2 osoby)) x 5 slotów czasowych x 200% zapasu = xx300 karteczekxx (mogę załatwić)
+- [ ] Karteczki na proces: (2 równoległe dyskusje x ( 1 temat + 8 osób) + 4 równoległe konsultacje x (1 temat + 2 osoby)) x 5 slotów czasowych x 200% zapasu = **300 karteczek** (załatwię, bo chce odpowiednie kolory)
+- [ ] Karteczki na notatki rozmowowe
 - [ ] Jedno z dwóch
     - [ ] Tablica o wymiarach: 12 karteczek x 25 karteczek
     - [ ] Papier ploterowy: Szerokość 12 karteczek (lub dwie warstwy) + Taśma do przyklejenia do ściany (mogę załatwić)
-- [ ] Miejsce: Najlepiej z możliwością przyklejenia papieru ploterowego
-- [ ] Markery: ok. 50 (mogę załatwić)
+- [ ] Miejsce: Najlepiej z możliwością przyklejenia papieru ploterowego, jeżeli lecimy w tym kierunku
+- [ ] Markery: ok. 50  - 32 w użyciu podczas dyskusji do pisania na karteczkach + 18 zapasowych i na czas wybierania tematów (mogę załatwić)
 
 ## Struktury i Praktyki
 
