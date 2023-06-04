@@ -26,15 +26,16 @@ tags: []
 
 ## Practices
 
-- Cyclic meetings with people
-- Retrospectives with impact/effort/mood matrix
-- [[Feature Dependency Breakdown Process]]
-- Console
-    - rg = grep
-    - 
+- Time Management
+    - [[task warrior]]
+        - For tasks just taskwarrior
+        - Two calendars life/work synced to task warrior - for schedulable tasks which I will forget to do
+- Processes
+    - Retrospectives with impact/effort/mood matrix
+    - [[Feature Dependency Breakdown Process]]
+
 
 ## Problems to solve
-
 
 - Knowlegde not persisted = we often learn something which we don't incorporate into process. Example:
     - We learn how to create a good alert but we don't have templates for it

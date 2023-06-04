@@ -10,35 +10,55 @@ isProcess -> findProcess : yes
 ```
 
 # findProcess
-
-- [place](#findProcessPlace)
-- time
-
 ```plantuml
 
 rectangle findProcess
 
 rectangle place [[#findProcessPlace]]
 rectangle time
+rectangle activity [[#findProcessActivity]]
 rectangle role
+rectangle priority
 
 findProcess -> place 
 findProcess -> time
+findProcess -> activity
 findProcess -> role
+findProcess -> priority
 
 ```
 
-# findProcessPlace
-
+## findProcessPlace
 - [Cafe](#Cafe)
 - [Conference](#Conference)
+- [Dancing](#Dancing)
 - [Home](#Home)
 - [Work](#Work)
 - [Hackerspace](#Hackerspace)
 - [Meetup](#Meetup)
     - [Meetup Organizer](#MeetupOrganizer)
 
-# Hackerspace
+
+### Cafe
+- [[Personal Base]]
+- [[Topics To Talk About]]
+
+### Conference
+- [[Personal Base]]
+- [[Topics To Talk About]]
+
+### Dancing
+- [[Personal Base]]
+- [[Topics To Talk About]]
+
+### Work
+- [[Personal Base]]
+- [[My Working Process]]
+- Time management
+    - [[task warrior]]
+
+### Hackerspace
+- [[Personal Base]]
 - [[Hackerspace]]
 - [[Hackerspace Experiences]]
 - [[Me]]
@@ -46,9 +66,39 @@ findProcess -> role
 - [[People I can invite to Programmer Events]]
 - [[SSPG]]
 - [[Management 3.0]]
+- [[Topics To Talk About]]
 
-# Work
+### Meetup
+- [[Personal Base]]
+- [[Topics To Talk About]]
 
-- [[My Working Process]]
+### Meetup Organizer
+- [[Personal Base]]
+- DDD-GDA
+    - [[DDD-GDA index]]
+    - [[DDD-GDA Control plane]]
+    - [[DDD-GDA Thoughts Aggregate]]
+- Possible Ideas
+    - [[Events Process]]
+    - [[Master Mind On Demand]]
 
+## findProcessActivity
+- [Socialising](#Socialising)
+- [Reflecting](#Reflecting)
+- [Digital Gardening](#Gardening)
+- [Developing](#Development)
 
+### Socialising
+- [[Personal Base]]
+- [[Topics To Talk About]]
+
+### Reflecting
+- [[Personal Base]]
+
+### Gardening
+- [[Meta Garden]]
+
+### Developing
+- [[Personal Base]]
+- [[nvim commands]]
+- [[k8s]]

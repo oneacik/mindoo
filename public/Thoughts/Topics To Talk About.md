@@ -1,0 +1,3 @@
+- Which topics you love to talk about
+- Your ideals and values
+- Is being egoist important?

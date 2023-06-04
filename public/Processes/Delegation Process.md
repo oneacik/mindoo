@@ -1,9 +1,4 @@
----
-id: "Delegation Process"
-aliases: []
-tags: []
----
-
+# Delegation Process
 
 
 126: Choose the **right authority** level:
