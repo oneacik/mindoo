@@ -33,7 +33,6 @@ Sar --> Co
 Vision:
 Team leader with a large amount of time,
 so I can optimize processes and improve organization.
-[[Me as a dream team leader]]
 
 What I can give you:
 - DDD/Event Storming
@@ -67,5 +66,3 @@ My idea for leadership:
 	- **How:** By making notes of my routines and sharing them with people
 - 1 minute manager
 	- Invest only 40% of time for a team
-
-[ ] Prepare presentation on these notes so I can present myself

@@ -21,7 +21,7 @@
 - [ ] Karteczki na notatki rozmowowe
 - [ ] Jedno z dwóch
     - [ ] Tablica o wymiarach: 12 karteczek x 25 karteczek
-    - [ ] Papier ploterowy: Szerokość 12 karteczek (lub dwie warstwy) + Taśma do przyklejenia do ściany (mogę załatwić)
+    - [ ] Papier ploterowy: Szerokość 12 karteczek (lub dwie warstwy) + **Taśma do przyklejenia do ściany** (mogę załatwić)
 - [ ] Miejsce: Najlepiej z możliwością przyklejenia papieru ploterowego, jeżeli lecimy w tym kierunku
 - [ ] Markery: ok. 50  - 32 w użyciu podczas dyskusji do pisania na karteczkach + 18 zapasowych i na czas wybierania tematów (mogę załatwić)
 

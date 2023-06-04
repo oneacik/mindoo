@@ -74,6 +74,7 @@ findProcess -> priority
 
 ### Meetup Organizer
 - [[Personal Base]]
+- [[People I can invite to Programmer Events]]
 - DDD-GDA
     - [[DDD-GDA index]]
     - [[DDD-GDA Control plane]]
@@ -97,6 +98,7 @@ findProcess -> priority
 
 ### Gardening
 - [[Meta Garden]]
+- [[RANDOM THOUGHTS]]
 
 ### Developing
 - [[Personal Base]]
