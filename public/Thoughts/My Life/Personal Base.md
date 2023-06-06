@@ -5,6 +5,13 @@
 Let's base it on my values and [maslov's pyramid of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
 
 
+## Principles
+
+- Wyobrażam sobie najlepszy scenariusz
+- Przezwyciężam moje anxiety, by osiągać moje cele, nie bo tak
+- Mówię to co myślę, by osiągnąć to co chcę
+- Nie boję się porażki
+
 ## My values:
 
 ## What I love to talk about
@@ -16,6 +23,7 @@ Let's base it on my values and [maslov's pyramid of needs](https://en.wikipedia.
 
 ## Other
 
+- [[Personal Reflections]]
 - [[People I am looking for]]
 - [[Topics To Talk About]]
 - [[Ideal Woman]]

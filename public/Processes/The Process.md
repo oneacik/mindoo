@@ -138,6 +138,7 @@ findProcess --> priority
 
 ### Reflecting
 - [[Personal Base]]
+- [[Personal Reflections]]
 
 ### Gardening
 - [[Meta Garden]]
