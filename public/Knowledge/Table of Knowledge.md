@@ -21,6 +21,7 @@
 | Grzegorz Kotfis | Book    | Management            | Devops Handbook                                                                                                                                                                 |
 | Grzegorz Kotfis | Podcast | Architecture          | [InfoQ - Susanne Kaiser on DDD](https://www.infoq.com/podcasts/ddd-wardley-mapping-team-topologies/)                                                                            |
 | Grzegorz Kotfis | Podcast | Architecture          | [Real World Serverless - Understanding Team Topologies](https://podcasts.apple.com/qa/podcast/66-understanding-team-topologies-with-nick-tune-and/id1499753495?i=1000577150321) |
+| Lars Hupel | Book | Functional Programming          | Programming + Proving in Isabella |
 
 
 ### Books to buy

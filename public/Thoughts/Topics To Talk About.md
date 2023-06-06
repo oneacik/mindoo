@@ -1,3 +1,4 @@
 - Which topics you love to talk about
 - Your ideals and values
+- Your plans and dreams
 - Is being egoist important?

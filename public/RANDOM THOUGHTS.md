@@ -84,3 +84,16 @@ Moje Prezki:
 - https://www.facebook.com/permalink.php?story_fbid=pfbid02JjSXXzPDhw54SRd8g6eYyUaDwA39vip4TWaR6Ve4YGt9HedMbUV6fGvjiBVcmAzxl&id=104488460979904
 - https://stayhappening.com/e/3qa-52-spotkanie-2601-gpnt-E2ISU6ARMMH
 - https://m.facebook.com/events/380805236133970/?aref=0&refsrc=deprecated
+
+Lambda Days:
+
+Current Conference Ideas:
+- Get convinced to haskell
+- Have fun
+- Find some frineds
+
+Formal Methods
+TLA+
+Isabelle - Generates haskell code etc
+lars.hupel.info
+Book: Programming + Proving in Isabelle

@@ -1,3 +1,5 @@
+# How great process should look like
+
 - Discoverability
 	- By links - in documents that are related to it
 	- By habits - That we start looking from something

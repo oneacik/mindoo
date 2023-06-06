@@ -1,10 +1,14 @@
 # Process for packing up for a journey
 
-- [ ] Perfum
 - [ ] Small Bag
-- [ ] Toothbrush
+- [ ] Kosmetyczka
+    - [ ] Toothbrush
+    - [ ] Toothaste
+    - [ ] Perfum
 - [ ] Power!
 - [ ] Medicine
 - [ ] Clothes
 - [ ] Books?
 - [ ] Towel?
+- [ ] Purse
+    - [ ] Comb

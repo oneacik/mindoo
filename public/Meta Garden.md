@@ -1,10 +1,3 @@
----
-id: "Meta Garden"
-aliases:
-  - "Meta Garden"
-tags: []
----
-
 # Meta Garden
 
 ## Process

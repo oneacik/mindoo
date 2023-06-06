@@ -3,15 +3,48 @@
 ```plantuml
 rectangle isProcess
 rectangle createProcess
-rectangle findProcess [[#findProcess yes]]
+rectangle next [[#me yes]]
 
-isProcess -> createProcess : no
-isProcess -> findProcess : yes 
+isProcess --> createProcess : no
+isProcess --> next : yes 
+```
+
+# me
+
+```plantuml
+rectangle "Are you feeling ok?" as ok [[#digitalGarden]]
+
+rectangle "What's the problem?" as nook 
+rectangle next [[#digitalGarden]] 
+
+ok --> next : yup
+ok --> nook : nook
+
+rectangle "Fundamental values" as noway [[personal-base]] 
+rectangle "Current Priorities" as goway 
+rectangle "Upgrade Diet" as diet [[how-to-diet]] 
+rectangle "Health" as sick
+
+nook --> noway : "losing my way"
+nook --> goway : "not knowing where now"
+nook --> diet : "Feeling shit"
+nook --> sick : "Feeling sick"
+
+```
+
+# digitalGarden
+
+```plantuml
+rectangle "do you remember digital garden approach?" as approach
+rectangle approach [[/meta-garden]]
+rectangle next [[#findProcess]]
+
+approach --> approach : no
+approach --> next : yes 
 ```
 
 # findProcess
 ```plantuml
-
 rectangle findProcess
 
 rectangle place [[#findProcessPlace]]
@@ -20,12 +53,11 @@ rectangle activity [[#findProcessActivity]]
 rectangle role
 rectangle priority
 
-findProcess -> place 
-findProcess -> time
-findProcess -> activity
-findProcess -> role
-findProcess -> priority
-
+findProcess --> place 
+findProcess --> time
+findProcess --> activity
+findProcess --> role
+findProcess --> priority
 ```
 
 ## findProcessPlace
@@ -59,6 +91,7 @@ findProcess -> priority
 
 ### Hackerspace
 - [[Personal Base]]
+- [[Building Community Process]]
 - [[Hackerspace]]
 - [[Hackerspace Experiences]]
 - [[Me]]
@@ -67,6 +100,9 @@ findProcess -> priority
 - [[SSPG]]
 - [[Management 3.0]]
 - [[Topics To Talk About]]
+- Possible Ideas
+    - [[Events Process]]
+    - [[Master Mind On Demand]]
 
 ### Meetup
 - [[Personal Base]]
@@ -82,16 +118,23 @@ findProcess -> priority
 - Possible Ideas
     - [[Events Process]]
     - [[Master Mind On Demand]]
+- Facilitation
+    - [[Lean Coffee]]
+        - [[Lean Coffee + Troika at Confitura ]]
+    - [[Liberating Structures]]
+    - [[Unconference]]
 
 ## findProcessActivity
 - [Socialising](#Socialising)
 - [Reflecting](#Reflecting)
 - [Digital Gardening](#Gardening)
 - [Developing](#Development)
+- [Building Community](#Building Community)
 
 ### Socialising
 - [[Personal Base]]
 - [[Topics To Talk About]]
+- [[Master Mind On Demand]]
 
 ### Reflecting
 - [[Personal Base]]
@@ -104,3 +147,10 @@ findProcess -> priority
 - [[Personal Base]]
 - [[nvim commands]]
 - [[k8s]]
+- [[Formal Methods]]
+
+
+### Building Community
+
+- [[Building Community Process]]
+- [[Events Process]]
