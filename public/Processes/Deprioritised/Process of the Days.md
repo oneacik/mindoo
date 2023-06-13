@@ -1,3 +1,11 @@
+# week
+
+## monday
+
+Time for the planning/designing work for whole week, so I don't need to think all the time
+
+# recurrence
+
 ## everyweek
  - Write down any things that are on your mind to do on weekdays
 

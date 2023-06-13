@@ -1,0 +1,33 @@
+- Łódki AWF
+- Kawiarnie
+    - Drukarnia
+    - Leń
+    - Kafka
+- Squash
+- Pachołek
+- Krzaki
+- Plaża
+- Sauna Sopot Aquapartk
+- Galerie Sztuki
+    - Łaźnia
+    - Zbrojownia
+    - UL
+    - Gak Plama
+    - WL4
+- Tańce
+    - Swing Revolution
+    - SoSalsa
+- Boks na stoczni
+- Jedzonko
+    - Thali
+    - Słony Młyn
+    - Husak
+    - Pink Ponk
+    - Godzilla
+- Łódki
+    - Żabi Kruk
+    - Wypożyczalnia Motorówek
+- Garaż
+- Społeczności
+    - Hs3
+    - HSP

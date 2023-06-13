@@ -14,7 +14,7 @@
 | [2022 BeIT](https://www.facebook.com/events/341917417759919)     | May/05       | Student Conference                  |
 | [**Geecon**](http://www.geecon.org/)                             | May/05       | Java                                |
 | [New Crafts](https://ncrafts.io/)                                | May/05       | Konfa od ziomka z LambdaDays        |
-| [Founder's Mind](foundersmind.pl)                                | June/06      | Startups                            |
+| [Founder's Mind](https://foundersmind.pl)                        | June/06      | Startups                            |
 | [It Manager Of Tomorrow](https://www.itmtconf.com/)              | June/06      | Management Conference               |
 | [**Confitura**](https://2022.confitura.pl/)                      | June/06      | Java Conference                     |
 | [Craft IT](https://craft-it.pl/)                                 | June/06      | Software Craftsmanship              |

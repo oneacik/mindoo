@@ -21,7 +21,7 @@ ok --> next : yup
 ok --> nook : nook
 
 rectangle "Fundamental values" as noway [[personal-base]] 
-rectangle "Current Priorities" as goway 
+rectangle "Current Priorities" as goway [[Current Objectives]]
 rectangle "Upgrade Diet" as diet [[how-to-diet]] 
 rectangle "Health" as sick
 
@@ -36,10 +36,10 @@ nook --> sick : "Feeling sick"
 
 ```plantuml
 rectangle "do you remember digital garden approach?" as approach
-rectangle approach [[/meta-garden]]
+rectangle garden [[/meta-garden]]
 rectangle next [[#findProcess]]
 
-approach --> approach : no
+approach --> garden : no
 approach --> next : yes 
 ```
 
@@ -83,9 +83,13 @@ findProcess --> priority
 - [[Personal Base]]
 - [[Topics To Talk About]]
 
+### Home
+- [[Process of the Days]]
+
 ### Work
 - [[Personal Base]]
 - [[My Working Process]]
+- [[Process of the Days]]
 - Time management
     - [[task warrior]]
 
@@ -129,16 +133,18 @@ findProcess --> priority
 - [Reflecting](#Reflecting)
 - [Digital Gardening](#Gardening)
 - [Developing](#Development)
-- [Building Community](#Building Community)
+- [Building Community](#Building%20Community)
 
 ### Socialising
 - [[Personal Base]]
 - [[Topics To Talk About]]
 - [[Master Mind On Demand]]
+- [[Places to Visit]]
 
 ### Reflecting
 - [[Personal Base]]
 - [[Personal Reflections]]
+- [[Current Objectives]]
 
 ### Gardening
 - [[Meta Garden]]

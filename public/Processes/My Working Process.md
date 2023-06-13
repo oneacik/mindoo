@@ -1,10 +1,3 @@
----
-id: "My Working Process"
-aliases:
-  - "Links"
-tags: []
----
-
 
 ## Links
 
@@ -23,6 +16,7 @@ tags: []
 - Use juniors
 - Persist Knowledge
 - Understand motivation
+- Monday is for planning 
 
 ## Practices
 
@@ -35,6 +29,8 @@ tags: []
     - [[Feature Dependency Breakdown Process]]
 
 
+
+
 ## Problems to solve
 
 - Knowlegde not persisted = we often learn something which we don't incorporate into process. Example:
@@ -45,3 +41,6 @@ tags: []
 - I need to understand expectations for person I am working with
 - Before I get any deeper into the topic I will be working with I need to understand it first
 - I am not working on code of rock star programmers (it means code that is unreadable and understandable only by person writing it)
+
+
+

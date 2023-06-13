@@ -10,4 +10,5 @@
 - By się nie bać, zawsze trzeba myśleć o **najlepszym scenariuszu**
 
 ## Links
+- [[Current Objectives]]
 - [[Personal Base]]

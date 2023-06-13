@@ -11,6 +11,7 @@ Let's base it on my values and [maslov's pyramid of needs](https://en.wikipedia.
 - Przezwyciężam moje anxiety, by osiągać moje cele, nie bo tak
 - Mówię to co myślę, by osiągnąć to co chcę
 - Nie boję się porażki
+- Zawsze żałuję rzeczy, których nie zrobiłem
 
 ## My values:
 
