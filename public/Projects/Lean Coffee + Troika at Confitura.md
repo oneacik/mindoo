@@ -68,3 +68,16 @@
     - Uniknięcie: Symulacja rozmieszczenia stołów przed konferencją (Wpadam do wawy 12-15 czerwca)
 - Zagrożenie: 
     - Mitigacja: Spotkać się z ekipą organizującą wydarzenie na piwo :)
+
+## Bio
+
+Moją przygodę zacząłem od systemów enterprise i nie wydaje mi się, że chcę robić cokolwiek innego.
+Były one punktem zapalnym, które spowodowały, że zacząłem interesować się DDD, systemami rozproszonymi i czystą architekturą.
+Jednak pomimo wszystkich technicznych umiejętności zawsze problematyczne stawało się podejmowanie decyzji, czy prowadzenie spotkań.
+Niezliczone godziny niekonkluzywnych spotkań i prezentacji niespełniających oczekiwań skierowały mnie w kierunku nauki facylitacji i project managementu.
+Nawet teraz pracując jako Software Architect w Kinguinie czuję, że moja "miękka" droga nie jest nawet bliska końca.
+By rozwijać swoje umiejętności prowadzę meetup DDD-GDA w Gdańsku, gdzie eksplorujemy tajniki Domain Driven Design.
+Chcąc zrobić coś dla ludzi stworzyłem meetup, który jest bardzo interaktywny - skupia się na warsztatach i pracy w grupie.
+Nareszcie po roku od rozpoczęcia inicjatywy czuję się gotowy, by nasze techniki ujrzały światło dzienne
+i poprowadzić dla was serie interaktywnych dyskusji, które mogą odmienić charakter konferencji.
+

@@ -90,6 +90,7 @@ findProcess --> priority
 - [[Personal Base]]
 - [[My Working Process]]
 - [[Process of the Days]]
+- [[Project Review]]
 - Time management
     - [[task warrior]]
 
@@ -132,7 +133,7 @@ findProcess --> priority
 - [Socialising](#Socialising)
 - [Reflecting](#Reflecting)
 - [Digital Gardening](#Gardening)
-- [Developing](#Development)
+- [Developing](#Developing)
 - [Building Community](#Building%20Community)
 
 ### Socialising
@@ -152,7 +153,9 @@ findProcess --> priority
 
 ### Developing
 - [[Personal Base]]
+- [[Project Review]]
 - [[nvim commands]]
+- [[Process of the Days]]
 - [[k8s]]
 - [[Formal Methods]]
 
