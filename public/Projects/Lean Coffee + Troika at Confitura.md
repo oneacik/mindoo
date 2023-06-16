@@ -69,15 +69,43 @@
 - Zagrożenie: 
     - Mitigacja: Spotkać się z ekipą organizującą wydarzenie na piwo :)
 
+## Timetable
+
+13:05 - 13:35: Seeding: wstępny brainstorm i przypisywanie się do tematów dyskusji/konsultacji
+
+13:35 - 14:05: Sesja I
+14:05 - 14:35: Sesja II
+
+14:40 - 15:10: Sesja III
+15:10 - 15:40: Sesja IV
+
+15:45 - 16:15: Sesja V
+16:15 - 16:45: Sesja VI
+
+16:50 - 17:20: Sesja VII (Opcjonalna)
+17:20 - 17:50: Sesja VIII (Opcjonalna)
+
 ## Bio
 
-Moją przygodę zacząłem od systemów enterprise i nie wydaje mi się, że chcę robić cokolwiek innego.
+Moją prawdziwa przygoda z software developmentem się rozpoczęła, kiedy spotkałem się z systemami enterprise.
 Były one punktem zapalnym, które spowodowały, że zacząłem interesować się DDD, systemami rozproszonymi i czystą architekturą.
 Jednak pomimo wszystkich technicznych umiejętności zawsze problematyczne stawało się podejmowanie decyzji, czy prowadzenie spotkań.
 Niezliczone godziny niekonkluzywnych spotkań i prezentacji niespełniających oczekiwań skierowały mnie w kierunku nauki facylitacji i project managementu.
 Nawet teraz pracując jako Software Architect w Kinguinie czuję, że moja "miękka" droga nie jest nawet bliska końca.
-By rozwijać swoje umiejętności prowadzę meetup DDD-GDA w Gdańsku, gdzie eksplorujemy tajniki Domain Driven Design.
+By rozwijać swoje umiejętności prowadzę meetup DDD-GDA w Gdańsku, gdzie razem odkrywamy tajniki Domain Driven Design.
 Chcąc zrobić coś dla ludzi stworzyłem meetup, który jest bardzo interaktywny - skupia się na warsztatach i pracy w grupie.
-Nareszcie po roku od rozpoczęcia inicjatywy czuję się gotowy, by nasze techniki ujrzały światło dzienne
+Nareszcie, po roku od rozpoczęcia inicjatywy czuję się gotowy, by techniki doskonalone na meetupie ujrzały światło dzienne
 i poprowadzić dla was serie interaktywnych dyskusji, które mogą odmienić charakter konferencji.
 
+## Notka sprasowana
+
+Przychodzisz na konferencje na jedną, dwie prelekcje, a na widok programu myślisz - znam je na pamięć?
+Szukasz formuły bardziej interaktywnej, gdzie mógłbyś pogadać na ciekawe tematy i poznać ludzi przed afterparty?
+Chciałbyś jednak wynieść coś dla siebie z takiej dyskusji, czy przetestować jakiś temat, który chciałbyś zgłosić na prezentacje?
+Dla Ciebie własnie przygotowałem track dyskusyjny na Confiturze, gdzie w każdej chwili możesz zaproponować temat, a my zadbamy byś miał z kim o nim porozmawiać.
+Nie wiesz czy temat się "przykleji" do publiki? Przyjdź na runde Seedowania (13:00), na której razem będziemy głosować na tematy i wstępnie dobierać osoby do stolików.
+Mamy dostępne 2 warianty dyskusji:
+- Wariant Troika Consulting, na którym możesz przynieść swój własny problem i w grupie 4 osobowej wypracować rozwiązanie
+- Wariant Lean Coffee, na którym możesz zaproponować jakikolwiek temat i w grupie 8 osobowej podzielić się wiedzą i doświadczeniem
+
+Wpadaj! Każda dyskusja się liczy. A może za rok na konfiturze Twój temat zobaczysz/poprowadzisz w formie prezentacji :).
