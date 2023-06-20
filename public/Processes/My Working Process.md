@@ -20,6 +20,8 @@
 
 ## Practices
 
+- Agile process
+    - Whirlpool agile process
 - Time Management
     - [[task warrior]]
         - For tasks just taskwarrior
@@ -28,13 +30,6 @@
     - Retrospectives with impact/effort/mood matrix
     - [[Feature Dependency Breakdown Process]]
 
-
-
-
-## Problems to solve
-
-- Knowlegde not persisted = we often learn something which we don't incorporate into process. Example:
-    - We learn how to create a good alert but we don't have templates for it
 
 ## Workarounds for my personality
 

@@ -1,3 +1,11 @@
+# Topics to talk about
+
+## Principles
+
+- Remember to define the intention in the discourse
+
+## The process
+
 "Zainteresowałaś mnie, chcesz porozmawiać?"
 
 |
@@ -46,6 +54,7 @@
 "Opowiedz mi co cenisz w swoich znajomych indywidualnie?"
 "Chciałabyś wprowadzić mnie do swoich społeczności?"
 
+## Other topics
 
 - Which topics you love to talk about
 - Your ideals and values

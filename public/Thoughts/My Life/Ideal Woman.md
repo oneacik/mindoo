@@ -8,10 +8,13 @@ I cannot risk it any more, because I don't have enough time.
 ## Traits
 
 - internal
-    - Intelligent and wise person
-    -
-    - Able to crash my badboyish character 
-    - Not glorifying traumatic experiences
+    - Intelligent and wise person (Sonia, Karo) [Important]
+        - I can have a thread of understanding
+    - Able to crash my badboyish character - critical (Sonia, Ewa, Karo) 
+    - Not glorifying traumatic experiences (Sonia) [Important]
+    - Curious of curios (Jo23)
+    - Having strong right-wing beliefs (Sonia) [Important]
+    - I fucking love to dance
 - external
     - High
     - a lil' thicc
@@ -19,4 +22,5 @@ I cannot risk it any more, because I don't have enough time.
 
 ## Links
 
-[[People I am looking for]]
+- [[People I am looking for]]
+- [[Personal Base]]

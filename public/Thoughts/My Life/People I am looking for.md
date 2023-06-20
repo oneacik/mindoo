@@ -9,3 +9,4 @@ My need of beelonging is not fulfilled.
 - People who can influence surroundings (architects of reality)
 - They are aware of their shortcomings
 - They have strong fundamental values
+- They are curious of curious people

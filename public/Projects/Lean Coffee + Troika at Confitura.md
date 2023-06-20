@@ -20,7 +20,7 @@
 - [ ] Karteczki na proces: (2 równoległe dyskusje x ( 1 temat + 8 osób) + 4 równoległe konsultacje x (1 temat + 2 osoby)) x 5 slotów czasowych x 200% zapasu = **300 karteczek** (załatwię, bo chce odpowiednie kolory)
 - [ ] Karteczki na notatki rozmowowe
 - [ ] Jedno z dwóch
-    - [ ] Tablica o wymiarach: 12 karteczek x 25 karteczek
+    - [ ] Tablica o wymiarach: 25 karteczek x 12 karteczek 
     - [ ] Papier ploterowy: Szerokość 12 karteczek (lub dwie warstwy) + **Taśma do przyklejenia do ściany** (mogę załatwić)
 - [ ] Miejsce: Najlepiej z możliwością przyklejenia papieru ploterowego, jeżeli lecimy w tym kierunku
 - [ ] Markery: ok. 50  - 32 w użyciu podczas dyskusji do pisania na karteczkach + 18 zapasowych i na czas wybierania tematów (mogę załatwić)
@@ -80,10 +80,7 @@
 15:10 - 15:40: Sesja IV
 
 15:45 - 16:15: Sesja V
-16:15 - 16:45: Sesja VI
-
-16:50 - 17:20: Sesja VII (Opcjonalna)
-17:20 - 17:50: Sesja VIII (Opcjonalna)
+16:15 - 16:45: Retrospektywa
 
 ## Bio
 
@@ -102,8 +99,8 @@ i poprowadzić dla was serie interaktywnych dyskusji, które mogą odmienić cha
 Przychodzisz na konferencje na jedną, dwie prelekcje, a na widok programu myślisz - znam je na pamięć?
 Szukasz formuły bardziej interaktywnej, gdzie mógłbyś pogadać na ciekawe tematy i poznać ludzi przed afterparty?
 Chciałbyś jednak wynieść coś dla siebie z takiej dyskusji, czy przetestować jakiś temat, który chciałbyś zgłosić na prezentacje?
-Dla Ciebie własnie przygotowałem track dyskusyjny na Confiturze, gdzie w każdej chwili możesz zaproponować temat, a my zadbamy byś miał z kim o nim porozmawiać.
-Nie wiesz czy temat się "przykleji" do publiki? Przyjdź na runde Seedowania (13:00), na której razem będziemy głosować na tematy i wstępnie dobierać osoby do stolików.
+Dla Ciebie właśnie przygotowałem track dyskusyjny na Confiturze, gdzie w każdej chwili możesz zaproponować temat, a my zadbamy byś miał z kim o nim porozmawiać.
+Nie wiesz czy temat się "przyklei" do publiki? Przyjdź na rundę Seedowania (13:00), na której razem będziemy głosować na tematy i wstępnie dobierać osoby do stolików.
 Mamy dostępne 2 warianty dyskusji:
 - Wariant Troika Consulting, na którym możesz przynieść swój własny problem i w grupie 4 osobowej wypracować rozwiązanie
 - Wariant Lean Coffee, na którym możesz zaproponować jakikolwiek temat i w grupie 8 osobowej podzielić się wiedzą i doświadczeniem

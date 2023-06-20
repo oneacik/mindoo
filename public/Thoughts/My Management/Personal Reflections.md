@@ -8,6 +8,8 @@
 - To czego nie chcemy sprawia nam ból i to co chcemy sprawia nam ból
 - Zawsze pokoywałem strach, by przeżyć coś na 100% razem z konsekwencjami
 - By się nie bać, zawsze trzeba myśleć o **najlepszym scenariuszu**
+- Kurwa mać, nigdy więcej Pyrkonu
+- Przez doświadczenie braku czegoś zaczynamy doświadczać bardziej czegoś obecność
 
 ## Links
 - [[Current Objectives]]
