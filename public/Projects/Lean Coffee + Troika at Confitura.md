@@ -106,3 +106,50 @@ Mamy dostępne 2 warianty dyskusji:
 - Wariant Lean Coffee, na którym możesz zaproponować jakikolwiek temat i w grupie 8 osobowej podzielić się wiedzą i doświadczeniem
 
 Wpadaj! Każda dyskusja się liczy. A może za rok na konfiturze Twój temat zobaczysz/poprowadzisz w formie prezentacji :).
+
+# Opis wydarzenia
+
+## Rozkład Jazdy
+
+13:05 - 13:35: Seeding: wstępny brainstorm i przypisywanie się do tematów dyskusji/konsultacji
+13:35 - 14:05: Sesja I
+14:05 - 14:35: Sesja II
+14:40 - 15:10: Sesja III
+15:10 - 15:40: Sesja IV
+15:45 - 16:15: Sesja V
+16:15 - 16:45: Retrospektywa
+
+## Opis
+
+Na tracku lean coffee możecie wziąć udział w dyskusjach z innymi uczestnikami konferencji i prelegentami.
+Wystarczy, że przyjdziecie na salkę i zaproponujecie temat, lub dopiszecie się do istniejącego.
+
+Przygotowaliśmy dla was 2 formuły dyskusji:
+- Lean Coffee (8 osób) - jeżeli chcecie luźno pogadać na jakiś temat, wspólnie dzielić się wiedzą i doświadczeniem.
+- Troika Consulting (3/4 osoby) - jeżeli macie specyficzny problem i chcielibyście przegadać go z doświadczonymi uczestnikami konferencji, lub pomóc w rozwiązaniu takowego.
+
+My będziemy dbali o to, by do każdego tematu była wystarczająca liczba osób,
+a na stołach znajdziecie multum przyborów papierniczych do notowania i obrazowania.
+
+Podczas tracka będą się odbywały następujące motywy:
+
+### Seeding
+
+Na samym początku, by zaplanować tematy i zagwarantować obecność wystarczającej liczby osób, zorganizujemy tak zwany seeding.
+Odbędzie się w drugiej części przerwy obiadowej, by mogło na niego przyjść jak najwięcej osób bez poświęcenia obecności na prezentacji.
+Będzie to sesja, na której wymyślamy tematy, głosujemy na nie, przypisujemy do slotów czasowych, a później dopisujemy się jako uczestnicy.
+Możecie sobie to wyobrazić jako rozszerzoną sesje retrospektywy.
+Podczas seedingu również zagwarantujemy, że najbardziej chodne tematy będą miały priorytet w wyborze slotu czasowego.
+
+### Sesja
+
+Przygotowaliśmy 5 sesji po 30 minut. Mamy 4 stoliki dla troika consulting i 2 stoliki dla lean coffee.
+W trakcie trwania sesji możecie wpisywać nowe tematy, czy dopisywać się do istniejących.
+Pamiętajcie, że na sesje obowiązują zapisy, które służą ustaleniu, czy sesja się odbędzie.
+Jeżeli nie udało wam się zapisać na czas, to możecie dołączyć do sesji, ale tylko jeżeli jest wolne miejsce.
+
+### Retrospektywa
+
+W miejsce ostatniej sesji odbędzie się retrospektywa.
+Chcemy dostać od was jak najwięcej feedbacku, by ulepszyć nasz proces.
+Uwagi zaaplikujemy na kolejnych konferencjach, myślę że nawet w tym roku :).
