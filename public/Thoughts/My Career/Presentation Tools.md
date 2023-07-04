@@ -1,0 +1,3 @@
+- Ankiety
+    - Fajna self coded apka do zbierania opinii w elmie: https://github.com/supermario/pres.live
+    - menti.com - apka do ankied na żywo, ale płatna w lepszym tierze

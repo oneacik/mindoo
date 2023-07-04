@@ -10,6 +10,7 @@
 - By się nie bać, zawsze trzeba myśleć o **najlepszym scenariuszu**
 - Kurwa mać, nigdy więcej Pyrkonu
 - Przez doświadczenie braku czegoś zaczynamy doświadczać bardziej czegoś obecność
+- Bardzo ważne jest dla mnie budowanie zaufanie, poprzez komunikacje i dowożenie obietnic
 
 ## Links
 - [[Current Objectives]]

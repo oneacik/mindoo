@@ -69,15 +69,19 @@ findProcess --> priority
 - [Hackerspace](#Hackerspace)
 - [Meetup](#Meetup)
     - [Meetup Organizer](#MeetupOrganizer)
+- [Train](#Train)
 
 
 ### Cafe
 - [[Personal Base]]
 - [[Topics To Talk About]]
+- [[Dating Process]]
 
 ### Conference
 - [[Personal Base]]
 - [[Topics To Talk About]]
+- [[Interesting Topics For Conference]]
+- [[Presentation Tools]]
 
 ### Dancing
 - [[Personal Base]]
@@ -88,6 +92,7 @@ findProcess --> priority
 
 ### Work
 - [[Personal Base]]
+- [[Building Trust]]
 - [[My Working Process]]
 - [[Process of the Days]]
 - [[Project Review]]
@@ -115,6 +120,7 @@ findProcess --> priority
 
 ### Meetup Organizer
 - [[Personal Base]]
+- [[Building Trust]]
 - [[People I can invite to Programmer Events]]
 - DDD-GDA
     - [[DDD-GDA index]]
@@ -129,6 +135,9 @@ findProcess --> priority
     - [[Liberating Structures]]
     - [[Unconference]]
 
+### Train
+- [[Dating Process]]
+
 ## findProcessActivity
 - [Socialising](#Socialising)
 - [Reflecting](#Reflecting)
@@ -141,6 +150,7 @@ findProcess --> priority
 - [[Topics To Talk About]]
 - [[Master Mind On Demand]]
 - [[Places to Visit]]
+- [[Dating Process]]
 
 ### Reflecting
 - [[Personal Base]]

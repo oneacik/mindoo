@@ -12,8 +12,10 @@ Let's base it on my values and [maslov's pyramid of needs](https://en.wikipedia.
 - Mówię to co myślę, by osiągnąć to co chcę
 - Nie boję się porażki
 - Zawsze żałuję rzeczy, których nie zrobiłem
+- Dobieram znajomych i wyrzenia, które do mnie pasują
+- Nic kurwa na siłę, bo ja pierdole
 - Wolę robić to czego jestem pewien - pewność osiągam przez mierzalne warunki
-- Pierdolę grupy znajomych i wydarzenia, które mi są na chuj
+- Być osobą godną zaufania, która odpowiednio komunikuje co zrobi i co nie
 
 ## My values:
 
@@ -22,6 +24,11 @@ Let's base it on my values and [maslov's pyramid of needs](https://en.wikipedia.
 - Creative Shit
 - Dreams
 - Plans
+
+## Practices
+- Trzeba trząść układanką - odwiedzać różne miejsca i organizować ciekawe spotkania
+- Oceniam ludzi, ale balansuje ocenę negatywną z pozytywną, by nie zamykać się na nich
+- Mówię o tym co czuję, a nie kryje wszystkiego w sobie
 
 ## Other
 - [[Personal Reflections]]

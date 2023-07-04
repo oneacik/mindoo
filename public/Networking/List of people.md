@@ -28,6 +28,7 @@
 | Mateusz Wojczal      | Escola                 | CTO                         | Fajny ziomo, pójdziemy sobie na boks i będzie git                        |                                        |
 | Tomasz Manugiewicz   | ???                    | CTO                         | Jakiś spoko otwarty CTO. Muszę się z nim spiknąć.                        |                                        |
 | Łukasz Mrowiński     | ETNO                   | Enterpreneur                | Ziomo z Wolves Summit. Trzeba się spotkać i pogadać o biznesach w Wawie. |                                        |
+| Dariusz Gafka | ??? | Architekt | Ziomo co robił warsztat z Ecotone - fajnie się z nim spotkać i pogadać o messagingu | |
 
 Links:
 - [[Exploring People]]

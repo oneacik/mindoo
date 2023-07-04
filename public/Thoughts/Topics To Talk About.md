@@ -3,6 +3,7 @@
 ## Principles
 
 - Remember to define the intention in the discourse
+- Asking questions is the base of the conversation
 
 ## The process
 

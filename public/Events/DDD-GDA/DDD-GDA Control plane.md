@@ -221,6 +221,8 @@ Po wyjściu z windy na 8. piętrze jedne drzwi będą otwarte – zapraszamy do 
 | Oskar Dudycz         | ???                                  | Event Sourcing                            | Wrocław? | Expense Coverage? |
 | Mariusz Gil          | Workshops/Presentations              | DDD Consultancy/Modelling                 | Wrocław  | ???               |
 | Radek Maziarka       | ?/Workshops/Presentations            | Event Storming/Modelling/Bounded Contexts | Wrocław? | Expense Coverage  |
+| Dariusz Gafka        | Workshops                            | Messaging/Ecotone                         | Gdynia   | None?             |
+
 
 Please adjust the topics to the [[DDD-GDA Meritocratic Strategy|Current Plan]]
 

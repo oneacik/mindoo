@@ -107,17 +107,17 @@ Mamy dostępne 2 warianty dyskusji:
 
 Wpadaj! Każda dyskusja się liczy. A może za rok na konfiturze Twój temat zobaczysz/poprowadzisz w formie prezentacji :).
 
-# Opis wydarzenia
+# Lean Coffee
 
 ## Rozkład Jazdy
 
-13:05 - 13:35: Seeding: wstępny brainstorm i przypisywanie się do tematów dyskusji/konsultacji
-13:35 - 14:05: Sesja I
-14:05 - 14:35: Sesja II
-14:40 - 15:10: Sesja III
-15:10 - 15:40: Sesja IV
-15:45 - 16:15: Sesja V
-16:15 - 16:45: Retrospektywa
+13:30 - 14:00: Seeding: wstępny brainstorm i przypisywanie się do tematów dyskusji/konsultacji
+14:00 - 14:30: Sesja I
+14:30 - 15:00: Sesja II
+15:05 - 15:35: Sesja III
+15:35 - 16:05: Sesja IV
+16:10 - 16:40: Sesja V
+16:40 - 17:10: Retrospektywa
 
 ## Opis
 

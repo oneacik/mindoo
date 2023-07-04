@@ -8,3 +8,6 @@
     - Your strategical goals
 - Exploring new bubbles
     - What are the places you develop your skills/hobbies
+
+## Links
+- [[Topics To Talk About]]
