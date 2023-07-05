@@ -187,6 +187,58 @@ Nienawiść
 (akt zgonu - samobójstwo idei
 zawał pod ciężarem własnego Ja)
 
-## Tu jeden
+## Stoicyzm
 
-## Tu drugi
+Godzina 3:17.
+Słyszę kruszenie mojej duszy narzędziem pneumatycznym.
+Godzina 3:25.
+Zakładam szatę i ze stoickim spokojem wychodzę na arkady.
+Udaje się w kierunku dźwięków tak bliskim moim uszu, choć chciałbym, by były dalej.
+Znajduję źródło, choć nie mądrości, patrząc na robotników zdejmujących kolejne warstwy ironii tej sytuacji.
+I wtedy zadaję pytanie retoryczne:
+"Czy was kurwa pojebało?"
+
+## Gra
+
+Uczyli mnie zawsze myśleć
+Dwa ruchy w przód
+Planować swoje wycieczki
+Liczyć na najgorsze
+
+Narodowa choroba - neurotyzm
+Receptą, chęć kontroli
+w każdej porze dnia
+w każdym. kawałku. chwili.
+
+Kiedy nauczę się przewidywać wszystkie ruchy
+Z nudów, rzucę się pod śmieciarkę - wywrócę planszę
+W ułamku sekundy zrozumiem, że w moim horyzoncie zdarzeń
+nigdy nie udało mi się wyjść poza grę
+
+## Czarny pokój (2023-07-04)
+
+W czarnym pokoju już dawno spaliło się światło.
+Drzwi zamknięte - zabarykadowane pracą i życiem codziennym.
+Ostatnio jednak w salonie jest pusto, a maszyna do pisania stoi w ciszy.
+W poczuciu niesamowitej pustki staję twarzą w twarz z drzwiami i naciskam klamkę.
+
+Zaprasza. Mnie. Ciemność.
+
+Przeszywające zimno zostawia ślady na mojej skórze, a w oczach stają łzy.
+Rozsypane doświadczenia wbijają się w moje stopy kalecząc je do krwi.
+Na nowo jednak poznaję każdy kant i zaułek tego pokoju.
+Macam zdjęcia, figury, wspomnienia - w ręku doceniam ich wielką wagę.
+
+Moje oczy, przyzwczajone do ciemności, zaczynają dostrzegać obrys pokoju.
+Nie bez uszczerbku, potrafię w końcu rozplątywać kołtuny śmieci i zbierać odłamki szkła.
+Czuję na sobie jednak ciężar, którego nie mogę unieść i wychodzę po chwili z tego miejsca.
+Osuwam się bezwładnie na podłogę, a każda moja ranka miarowo krwawi na podłogę - zasypiam.
+
+Kolejne dni mierzę centymetrami kupek kurzu i zebranego szkła.
+Chyba jedyne co mnie do tego zmusza, to ta cisza mojego domu.
+Strach przed samotnością.
+
+Pewnego dnia napotykam jednak na klamkę, która otwiera kolejne drzwi.
+Drzwi na ogród wypełniony nadzieją, miejsce nieznane, a tak bliskie.
+Na słońce dziś spojrzę bez okularów.
+
