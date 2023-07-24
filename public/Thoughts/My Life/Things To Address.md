@@ -1,0 +1,3 @@
+- [ ] I want to give feedback on the spot to people with erratic behaviour
+- [ ] I want to learn to ask for things that may be slightly off my comfort zone
+- [ ] I want to base myself on perceiving not judgement
