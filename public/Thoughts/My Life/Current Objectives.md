@@ -1,7 +1,9 @@
 # Current Objectives 
 
-- [ ] Learn not to sabotage yourself from illogical neuroticism
-- [ ] Learn to have wishful thinking when meeting new people
+- [ ] Get passion back on the track
+- [x] Be brave to speak truth to people and not be ashamed of your explorations
+- [x] Learn not to sabotage yourself from illogical neuroticism
+- [x] Learn to have wishful thinking when meeting new people
 
 ## Links
 

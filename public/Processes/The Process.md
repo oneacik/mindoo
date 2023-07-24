@@ -94,6 +94,7 @@ findProcess --> priority
 - [[Personal Base]]
 - [[Building Trust]]
 - [[My Working Process]]
+    - [Excel(lence) of Quality](https://docs.google.com/spreadsheets/d/1DiVRNmXPgx7bUZW3kZdYWqabLW-qb0lyUoqQByqhVVQ/edit#gid=0)
 - [[Process of the Days]]
 - [[Project Review]]
 - Time management
@@ -156,6 +157,7 @@ findProcess --> priority
 - [[Personal Base]]
 - [[Personal Reflections]]
 - [[Current Objectives]]
+- [[Things To Address]]
 
 ### Gardening
 - [[Meta Garden]]

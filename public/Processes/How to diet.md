@@ -1,3 +1,13 @@
+## Principles
+
+- Special Laws
+    - Beer but only before eating and 1-2 only
+- Laws of being hungry and satied
+	- Eating small amount of carbs makes me crave for it
+	- **Usually we crave for nutrients - good quality vegetable food makes you full**
+
+## Examples
+
 - Things that make ma hungry
 	- **COFFEE FUCKS ME**
 	- Big Pans
@@ -23,8 +33,4 @@
 		- Hemp Wrap
 		- Ayran
 	- Chicken
-- Special Laws
-    - Beer but only before eating and 1-2 only
-- Laws of being hungry and satied
-	- Eating small amount of carbs makes me crave for it
-	- **Usually we crave for nutrients - good quality vegetable food makes you full**
+

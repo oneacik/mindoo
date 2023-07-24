@@ -10,6 +10,8 @@ I cannot risk it any more, because I don't have enough time.
 - internal
     - Intelligent and wise person (Sonia, Karo) [Important]
         - I can have a thread of understanding
+    - Is able to change
+    - Is creative
     - Able to crash my badboyish character - critical (Sonia, Ewa, Karo) 
     - Not glorifying traumatic experiences (Sonia) [Important]
     - Curious of curios (Jo23)

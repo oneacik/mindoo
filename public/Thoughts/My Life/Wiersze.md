@@ -242,3 +242,21 @@ Pewnego dnia napotykam jednak na klamkę, która otwiera kolejne drzwi.
 Drzwi na ogród wypełniony nadzieją, miejsce nieznane, a tak bliskie.
 Na słońce dziś spojrzę bez okularów.
 
+## Układ Słoneczny (2023-07-12)
+
+Na moim kosmicznym katamaranie wyrzucony po walce z próżnią i zmiennymi kolejami losu.
+Zawieszony gdzieś na orbicie pomiędzy marsem, a wenus.
+Rozgrywa się kolejna walka między słabościami obu stron.
+
+Słońce.
+Razisz mnie. Moja skóra pęka, a woda już dawno mi się skończyła.
+Żar dmie w moje żagle słoneczne, lecz nie na tyle by uciec.
+W nieskończonym powolnym przyspieszeniu próbuję się łapać innych planet, by zniknąć.
+Lecz siła ich przyciągania jest mierna, a Ja brzydzę się asysty grawitacyjnej.
+
+Więc siedzę i czuję jak żar wypala mnie od środka - Ja - rozdarty na wszystkie strony.
+Słońce - spójrz na mnie i ściągnij swoją siłą do siebie, bym nie musiał czuć już bólu.
+Czy dotknij swoją flarą, by doświadczywszy swoich wątpliwości - mógł uciec oparzony.
+
+Stąpałem na ziemi myśląc, że najbliżej słońca ciepło nie rani, a otula.
+A teraz wbrew logice - wyrzucony na bezkresne oceany, ryzykuję tezę.
