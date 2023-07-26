@@ -12,7 +12,7 @@
 - Przez doświadczenie braku czegoś zaczynamy doświadczać bardziej czegoś obecność
 - Bardzo ważne jest dla mnie budowanie zaufanie, poprzez komunikacje i dowożenie obietnic
 - Jest bardzo trudne by przedstawić jakąś informacje w formule w jakiej mamy ją w głowie (np coding process)
-- Jeżeli znowu będziesz mówić zjebanym językiem do ludzi, to 
+- Przestań używać swojego wewnętrznego języka do komunikowania się z nowymi ludźmi, ksi.
 
 ## Links
 - [[Current Objectives]]
