@@ -152,6 +152,7 @@ findProcess --> priority
 - [[Master Mind On Demand]]
 - [[Places to Visit]]
 - [[Dating Process]]
+- [My friends???](https://docs.google.com/spreadsheets/d/1A03Y5P3IK0HqDu_7435tldQHZ_uSYXzYqgucyLP06As/edit#gid=0)
 
 ### Reflecting
 - [[Personal Base]]
