@@ -260,3 +260,48 @@ Czy dotknij swoją flarą, by doświadczywszy swoich wątpliwości - mógł ucie
 
 Stąpałem na ziemi myśląc, że najbliżej słońca ciepło nie rani, a otula.
 A teraz wbrew logice - wyrzucony na bezkresne oceany, ryzykuję tezę.
+
+## Szkoła Magii (2023-08-10)
+
+Na drzwiach zawiesiłem sobie maksymę:
+"Od śmierci gorzej jest nie zacząć żyć"
+Spoglądam na fiolki i kolby:
+Złoto, czas, i dosłownie parę najrzadszych minerałów.
+
+(Znajdywane przypadkowo w czyichś spodniach)
+
+Magia jest niebezpieczna.
+Magia jest nieokiełznana.
+Tyle razy to już robiłem.
+Czemu za każdym razem się boję?
+Może dlatego, bo w ciemnym labiryncie trzymamy się tej ostatniej zapałki tak kurczowo.
+
+(Trupy zawsze zostawiały tę ostatnią zapałkę)
+
+Pierwsza zasada to nie panikować.
+Pozwolić żarowi spalić brwi i włosy.
+Może wtedy zostawią w spokoju nasze oczy.
+Może wtedy uda nam się ujrzeć nasze dzieło stworzenia.
+
+(A może nie. Różnie. Na łasce złożoności.)
+
+No cóż.
+Nie ważne.
+My poeci zawsze umieramy młodo.
+Żyje się raz.
+Umiera wiele.
+Moi petit mortes.
+
+(Raczej średniej wielkości - przypis tłumacza)
+
+Dzisiaj złoto, albo nic.
+Dzisiaj złoto, albo nic.
+(Aktor A: Może jednak cierpliwości?)
+DZISIAJ ZŁOTO, ALBO NIC.
+(Aktor JA: Czego nie rozumiesz?)
+
+Uwaga! Wykurwiam zaklęcie!
+Aishiteru! (Tłum. sobie na pohybel)
+
+
+
