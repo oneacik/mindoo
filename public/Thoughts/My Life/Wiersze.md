@@ -198,6 +198,8 @@ Znajduję źródło, choć nie mądrości, patrząc na robotników zdejmujących
 I wtedy zadaję pytanie retoryczne:
 "Czy was kurwa pojebało?"
 
+# Strugla / Zakalec
+
 ## Gra
 
 Uczyli mnie zawsze myśleć
@@ -263,7 +265,25 @@ A teraz wbrew logice - wyrzucony na bezkresne oceany, ryzykuję tezę.
 
 ## Budowniczy domów z papieru (2023-08-01)
 
+Na stelażach origami
+między ziemią a chmurami
+wznosi się wieża z papieru
+stworzona tymi palcami
 
+dzielnie znosi huragany
+dzielnie broni przed sztormami
+mimo skaz i błędów wielu
+wciąż góruje nad lasami
+
+sięgam w końcu do bram nieba
+pcham i szarpię się bezsilnie
+pęka w końcu rdzeń budowli
+dom z papieru? to naiwne
+
+wiem gdzie leży już kres nieba
+jakiej siły mi potrzeba
+zwożę więc belki żeliwne
+nie próbować? to naiwne
 
 ## Szkoła Magii (2023-08-10)
 
@@ -308,7 +328,7 @@ Uwaga! Wykurwiam zaklęcie!
 Aishiteru! (Tłum. sobie na pohybel)
 
 
-## (2023-08-20) 
+## Dysocjacja (2023-08-20) 
 
 Poczułem
 jak unosi mnie morze ludzkich rąk -
