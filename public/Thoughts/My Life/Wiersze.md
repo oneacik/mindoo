@@ -136,7 +136,7 @@ Proszę Pana - robota rwie,
 ale proszę nie mówić, 
 że to na jutro.
 
-# AKTA NIENAWIŚCI [Piotr Suwała]
+# AKTA NIENAWIŚCI
 
 (Akt I - narodzenie)
 Niedzielni wirtuozi korków na drodze w godzinach szczytu.
@@ -261,6 +261,10 @@ Czy dotknij swoją flarą, by doświadczywszy swoich wątpliwości - mógł ucie
 Stąpałem na ziemi myśląc, że najbliżej słońca ciepło nie rani, a otula.
 A teraz wbrew logice - wyrzucony na bezkresne oceany, ryzykuję tezę.
 
+## Budowniczy domów z papieru (2023-08-01)
+
+
+
 ## Szkoła Magii (2023-08-10)
 
 Na drzwiach zawiesiłem sobie maksymę:
@@ -303,5 +307,39 @@ DZISIAJ ZŁOTO, ALBO NIC.
 Uwaga! Wykurwiam zaklęcie!
 Aishiteru! (Tłum. sobie na pohybel)
 
+
+## (2023-08-20) 
+
+Poczułem
+jak unosi mnie morze ludzkich rąk -
+bezpieczeństwo wśród nieznanych mi osób.
+Wiem, że pokochają mnie za to kim jestem
+i powód tej miłości będzie też moim powodem.
+Szkoda tylko, że rozpuszczany z rąk do rąk
+straciłem świadomość.
+Kim jestem?
+
+## Spojrzenie (2023-09-02)
+
+Widziałem Cię.
+Na Lawendowej na slamie. Nie?
+Widziałem Cię.
+W Gyozilli przy stoliku. Nie?
+Widziałem Cię.
+W Drukarni przed laptopem. Nie?
+
+To może...
+Widziałem Cię w odbiciu tysięcy fragmentów zbitego zwierciadła.
+Utrwalone obrazy z życia tego i tych poprzednich.
+Widziałem Cię na ostatnich miejscach liczby Pi.
+Zwieszałaś nogi w odmęty toni kosmosu i złożoności.
+Widziałem Cię w dniu moich urodzin.
+Przykładałaś mi palec do ust, znikając w rozszczepieniu światła.
+
+Ale dzisiaj to ja jestem funkcją falową i zapadam się w sobie.
+Ślepnę na przyszłość, (Twoją) przeszłość i teraźniejszość.
+Strach zamienia się w smutek, smutek zamienia się w tusz.
+
+Zakładam kaptur, zagryzam zęby - rozpływam się we mgle.
 
 
