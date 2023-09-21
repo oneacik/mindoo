@@ -1,0 +1,52 @@
+- "DLACZEGO?"
+- "Jakie są Twoje wartości?"
+    - Honor
+    - Odwaga
+    - Konfrontowanie się
+    - Branie odpowiedzialności za swoje czyny
+    - Naginanie rzeczywistości do swoich potrzeb
+    - Dążenie do bycia szczerym
+    - Dążenie do zachowywamia się podług moich emocji
+    - Tworzenie rzeczywistości
+    - Świadomość Struktury
+    - Prawicowość
+- "Jakie są Twoje marzenia?"
+    - Zdefiniowac swoją formę
+    - Nauczyć się wyciągać z ludzi głębie
+    - Pozwolić sobie płynąć na konstelacji znajomych znajomych
+    - Stworzyć czarną dziurę na ziemi
+- "Opowiedz mi o Twoich planach"
+    - Odnajdywać warty cel swojego życia
+    - Stać się osobą, która jest godna zaufania na pierwszy rzut oka
+    - Znaleźć osoby, które ze mną vibują
+- "Co ostatnio czujesz i dlaczego?"
+    - Wiara
+    - Samotność
+    - Alienacja
+    - Strach
+- "Jakie są Twoje symbole?"
+    - Zeszycik 
+    - Czerwona Księga
+    - Lód Dukaja
+    - PMBOK
+    - Fundacja Asimova
+    - Lean Startup
+    - Czerwone Skarpetki
+    - Ogóras Kiszony
+    - Masło
+    - Pleśń
+    - haos
+    - Złączenie rzeczywistości z wyobraźnią - wirtualny papieros
+    - Wiersze w latexu
+    - Słuchawy
+    - Absynt / Rum
+    - Bezsilny MINDSET
+    - Facilitacja / Karteczki
+    - Architekt Rzeczywistości
+    - Wydarzenia
+    - Wspólne kminienie (bazar)
+- "Co zrobiłeś z czego jesteś dumny?"
+    - Stworzenie meetupu, gdzie ludzie dyskutują ze sobą i się integrują
+    - Klub Czwartkowy w liceum
+    - Zostałem Architektem IT
+    - Potrafię zagadywać do randomowych ludzi

@@ -4,6 +4,14 @@
 
 Let's base it on my values and [maslov's pyramid of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
 
+## Whoami
+
+Zdefiniowane na podstawie [[Topics To Talk About]].
+[[Answers To Topics I Like To Talk About]]
+
+
+
+
 
 ## Principles
 

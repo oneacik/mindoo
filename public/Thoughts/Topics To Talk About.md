@@ -15,11 +15,14 @@
 |/
 
 "O czym lubisz rozmawiać?"
+"Jakie są Twoje wartości?"
 "Jakie są Twoje marzenia?"
 "W co wierzysz?"
 "Co ostatnio czujesz i dlaczego?"
 "Co sprawia Ci radość?"
 "Co chciałabyś stworzyć?"
+"Jakie są Twoje symbole?"
+"Co zrobiłeś z czego jesteś dumny?"
 
 |
 | Osoba jako refleksja mnie
@@ -54,6 +57,15 @@
 
 "Opowiedz mi co cenisz w swoich znajomych indywidualnie?"
 "Chciałabyś wprowadzić mnie do swoich społeczności?"
+
+## Important Questions
+
+- "Dlaczego?"
+- "Jakie są Twoje wartości?"
+- "Jakie są Twoje marzenia?"
+- "Co ostatnio czujesz i dlaczego?"
+- "Co widzisz we mnie?"
+- "Opowiedz mi o Twoich planach"
 
 ## Other topics
 

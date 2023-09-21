@@ -136,6 +136,21 @@ Proszę Pana - robota rwie,
 ale proszę nie mówić, 
 że to na jutro.
 
+
+
+## Stoicyzm
+
+Godzina 3:17.
+Słyszę kruszenie mojej duszy narzędziem pneumatycznym.
+Godzina 3:25.
+Zakładam szatę i ze stoickim spokojem wychodzę na arkady.
+Udaje się w kierunku dźwięków tak bliskim moim uszu, choć chciałbym, by były dalej.
+Znajduję źródło, choć nie mądrości, patrząc na robotników zdejmujących kolejne warstwy ironii tej sytuacji.
+I wtedy zadaję pytanie retoryczne:
+"Czy was kurwa pojebało?"
+
+# Strugla / Zakalec
+
 # AKTA NIENAWIŚCI
 
 (Akt I - narodzenie)
@@ -186,19 +201,6 @@ Nienawiść
 
 (akt zgonu - samobójstwo idei
 zawał pod ciężarem własnego Ja)
-
-## Stoicyzm
-
-Godzina 3:17.
-Słyszę kruszenie mojej duszy narzędziem pneumatycznym.
-Godzina 3:25.
-Zakładam szatę i ze stoickim spokojem wychodzę na arkady.
-Udaje się w kierunku dźwięków tak bliskim moim uszu, choć chciałbym, by były dalej.
-Znajduję źródło, choć nie mądrości, patrząc na robotników zdejmujących kolejne warstwy ironii tej sytuacji.
-I wtedy zadaję pytanie retoryczne:
-"Czy was kurwa pojebało?"
-
-# Strugla / Zakalec
 
 ## Gra
 
