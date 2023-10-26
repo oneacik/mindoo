@@ -1,3 +1,10 @@
+**Transakcyjność: Kiedy ustawiasz się na jakiś projekt, to ustaw się od razu na określoną ilość spotkań itp**
+
+**Empatycznie nie tylko blokuje mnie uczucie czyjegoś oporu, ale również jego wewnętrzne spirale i węzły**
+
+Nie ma głupich pytań, są głupi ludzie xDDD
+Trzeba zadawać pytania i się ich nie wstydzić.
+
 Biedny Ojciec Bogaty Ojciec
 
 I have to learn how to quickly browse books to find the information I really need
@@ -25,7 +32,7 @@ Zawsze najważniejszy jest cel, który motywuje wolontariuszy
 Firma w Rodzinie i rodzina w firmie
 Oddzielenia firmy od życia rodzinnego
 
-Intuicja nieraz Ci wpierdoli jak będziesz jej nadużywać w syuacji, gdzie trzeba powiedzieć sprawdzam.
+**Intuicja nieraz Ci wpierdoli jak będziesz jej nadużywać w sytuacji, gdzie trzeba powiedzieć sprawdzam.**
 
 Management przez nauczanie
 
@@ -43,7 +50,7 @@ Należy działać na swoich przekonaniach zawsze kiedy nadarzy się okazja
 
 Funky!!!
 
-Ciemna Traida
+**Ciemna Traida**
 
 Trzeba ustalać granice
 

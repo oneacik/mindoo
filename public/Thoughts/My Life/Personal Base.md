@@ -24,6 +24,8 @@ Zdefiniowane na podstawie [[Topics To Talk About]].
 - Nic kurwa na siłę, bo ja pierdole
 - Wolę robić to czego jestem pewien - pewność osiągam przez mierzalne warunki
 - Być osobą godną zaufania, która odpowiednio komunikuje co zrobi i co nie
+- Trzeba zadawać ważne pytania
+- Transakcyjność: Zawsze deklaruję się na określoną ilość zadań
 
 ## My values:
 

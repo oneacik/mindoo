@@ -1,4 +1,4 @@
-[[The Process]]
+
 
 ## Prioritised documents for now
 
@@ -9,6 +9,7 @@
 - Knowledge
     - [[k8s]]
     - [[nvim commands]]
+- [[Hacke
 
 ## Lately Used
 

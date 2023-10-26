@@ -31,7 +31,7 @@
 
 "Co cenisz w ludziach?"
 "Co widzisz we mnie?"
-
+"W czym mogę Ci pomóc?"
 
 |
 | Osoba jako część społeczności
@@ -47,6 +47,7 @@
 | 
 |/
 
+"Co Cię tak ukształtowało?"
 "Opowiedz mi o Twoich planach"
 "Opowiedz mi o Twoich inicjatywach"
 
