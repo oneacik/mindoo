@@ -1,3 +1,13 @@
+## Current iteration Keto 2024-01
+
+Purpose: Minimize Headaches
+
+- STOP Mayo - head hurts
+    - Doesn't contain saturated fats but seems to headache
+- START Olive and Ostropest oils - liquid oild
+- CONTINUE (YET) EGGS
+- CONTINUE Coffee and Chocolate
+
 ## Principles
 
 - Special Laws

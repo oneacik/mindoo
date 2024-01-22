@@ -4,26 +4,35 @@
     - Odwaga
     - Konfrontowanie się
     - Branie odpowiedzialności za swoje czyny
-    - Naginanie rzeczywistości do swoich potrzeb
+    - Kształtowanie rzeczywistości wokół siebie podług swoich potrzeb
     - Dążenie do bycia szczerym
-    - Dążenie do zachowywamia się podług moich emocji
-    - Tworzenie rzeczywistości
-    - Świadomość Struktury
-    - Prawicowość
+    - Dążenie do zachowywania się podług moich emocji
+    - Świadomość domniemanej struktury w każdej rzeczy
+    - Transaversia
+    - **Wzrastanie ludzi**
+    - **Nie banie zadawania ważnych pytań**
 - "Jakie są Twoje marzenia?"
     - Zdefiniowac swoją formę
     - Nauczyć się wyciągać z ludzi głębie
     - Pozwolić sobie płynąć na konstelacji znajomych znajomych
     - Stworzyć czarną dziurę na ziemi
+    - Znaleźć kogoś, kogo potrafię pokochać za niesamowitość
+    - Stać się siewcą idei i patrzeć jak zmienia się rzeczywistość
 - "Opowiedz mi o Twoich planach"
     - Odnajdywać warty cel swojego życia
     - Stać się osobą, która jest godna zaufania na pierwszy rzut oka
     - Znaleźć osoby, które ze mną vibują
 - "Co ostatnio czujesz i dlaczego?"
+    - Siła
+        - Czuję siłę, że jednak potrafie wpływać na swoje życie i moje akcje mają realne konsekwencje
     - Wiara
+        - Wiarę w możliwość zmian, ale brak nadzieji, ponieważ moje życie zależy od rzeczy niezależnych ode mnie i przeze mnie niedoświadczonych.
     - Samotność
+        - Brak partnerki, która mi się naprawdę podoba wewnętrznie i zewnetrznie - spierdolenie sobie poprzedniego związku bez dogłębnego poznania osoby i bycia szczerym.
     - Alienacja
+        - Mało znam osób, które rozumieją moją droge i spotyka się z podobnymi problemami. Mało jest osób, które ma podobną ideologie.
     - Strach
+        - Strach przed odkrywaniem własnej ścieżki i konsekwencji, które mogą się z tego urodzić.
 - "Jakie są Twoje symbole?"
     - Zeszycik 
     - Czerwona Księga
@@ -45,8 +54,22 @@
     - Architekt Rzeczywistości
     - Wydarzenia
     - Wspólne kminienie (bazar)
-- "Co zrobiłeś z czego jesteś dumny?"
+- "Z czego jesteś dumny?"
+    - Konfrontowanie się z ludźmi
     - Stworzenie meetupu, gdzie ludzie dyskutują ze sobą i się integrują
     - Klub Czwartkowy w liceum
     - Zostałem Architektem IT
     - Potrafię zagadywać do randomowych ludzi
+    - Że powoli staję się liderem
+    - Że coraz prościej realizuję moje zamiary
+- "W czym możesz mi pomóc"
+    - Poznaj mnie z ludźmi, którzy ze mną zvibują
+    - Zainspiruj mnie czymś co chciałbym robić
+    - Bądź dla mnie prawdziwą wersją siebie
+    - Pszytul xD
+- "Co mnie tak ukształtowało?"
+    - Traumy
+    - Wysoka Inteligencja / Programowanie
+    - Wstyd przed rozmawianiem o mojej wyobraźni
+    - a niechęć prowadzenia smalltalku z ludźmi
+    - Bycie grubym xD

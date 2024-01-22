@@ -152,6 +152,7 @@ findProcess --> priority
 - [[Master Mind On Demand]]
 - [[Places to Visit]]
 - [[Dating Process]]
+- [[People That Should Be]]
 - [My friends???](https://docs.google.com/spreadsheets/d/1A03Y5P3IK0HqDu_7435tldQHZ_uSYXzYqgucyLP06As/edit#gid=0)
 
 ### Reflecting
@@ -177,3 +178,9 @@ findProcess --> priority
 
 - [[Building Community Process]]
 - [[Events Process]]
+- Solving Conflicts
+- Communicating
+- Creating events
+    - What? Why? How? When?
+    - Dragon Dreaming 
+    - Purpose - to - Practice

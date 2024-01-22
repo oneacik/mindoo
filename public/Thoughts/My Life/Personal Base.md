@@ -26,6 +26,7 @@ Zdefiniowane na podstawie [[Topics To Talk About]].
 - Być osobą godną zaufania, która odpowiednio komunikuje co zrobi i co nie
 - Trzeba zadawać ważne pytania
 - Transakcyjność: Zawsze deklaruję się na określoną ilość zadań
+- Trzeba zmieniać sobie miejsca gdzie się bywa i co się robi
 
 ## My values:
 

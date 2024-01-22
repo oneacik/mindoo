@@ -22,5 +22,7 @@ openssl req -new -subj "/O=system:masters/CN=admin" \
   -addext "subjectAltName = DNS:k8s.at.hsp.sh,IP:192.168.88.88,IP:31.179.161.5" \
   -newkey rsa:2048 -keyout key.pem -out req.pem
 
+# Remove password
+openssl rsa -in [original.key] -out [new.key]
 
 ```

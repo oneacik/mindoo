@@ -8,15 +8,26 @@ I cannot risk it any more, because I don't have enough time.
 ## Traits
 
 - internal
-    - Intelligent and wise person (Sonia, Karo) [Important]
+    - Intelligent and wise person
         - I can have a thread of understanding
     - Is able to change
     - Is creative
-    - Able to crash my badboyish character - critical (Sonia, Ewa, Karo) 
-    - Not glorifying traumatic experiences (Sonia) [Important]
-    - Curious of curios (Jo23)
-    - Having strong right-wing beliefs (Sonia) [Important]
+    - Able to crash my badboyish character
+    - Not glorifying traumatic experiences [Important]
+    - Curious of curios 
+    - Having strong right-wing beliefs
     - I fucking love to dance
+- external
+    - High
+    - a lil' thicc
+    - beautiful
+
+## Traits (Refined)
+
+- internal
+    - Person who embraces the complexity of the world and understands it is not white and black
+    - Is not easily influenced of ideas of external world; fear, hatred etc.
+    - Has a hard stand on her values and ideals
 - external
     - High
     - a lil' thicc
