@@ -4,6 +4,8 @@
 ## Log
 
 ```
+helm dependency update
+
 helm lint .
 helm template .
 helm install . --dry-run --debug --generate-name

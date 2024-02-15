@@ -18,7 +18,7 @@ Zgubiony kasztan we mgle -
 na wiosne
 odnajduje się na nowo
 
-## ***
+## **
 
 Anioły schodzą na ziemie -
 naprzeciw im stają
@@ -364,4 +364,39 @@ Strach zamienia się w smutek, smutek zamienia się w tusz.
 
 Zakładam kaptur, zagryzam zęby - rozpływam się we mgle.
 
+## Jebać PiS? (2024-02-06)
 
+Miliardy kół zębatych zatopionych w nieograniczonym oceanie.
+Połączone osiami, pod kątem, na opak i wspak.
+Przetwarzają, kombinują, komplikują, żyją.
+Każde w swoją stronę, większe / mniejsze.
+
+Silniki parowe, czy magiczne siły kręcą w różne strony
+Ścierają się, wykrzywiają; współpracują, albo niszczą.
+Czasem ocean ukazuje nam rąbek tajemnicy,
+ale czy to prawda? Czy tylko jak prawda ma wyglądać?
+Czy może tylko chce, byś wiedział...
+...w którą stronę masz się kręcić?
+
+Wybudzasz mnie z mojej jawy.
+Wybudzasz mnie i pytasz, po której stronie stoję.
+Wybudzasz mnie i pytasz, w którą stronę się kręcę.
+Oburzasz się na moje odpowiedzi.
+Denerwujesz się jak mogę być taki głupi.
+
+Spierdalaj.
+Spierdalaj i nie wracaj.
+Chciałbym z Tobą śnić na jawie,
+ale Ty w tym całym bezmiarze...
+...widzisz tylko złote rybki.
+
+## * * * (2024-02-07)
+
+Wszystko pękło
+Rozsypał się świat
+- to co mogło się zdarzyć           - przestało istnieć
+- to co nie może się zdarzyć        - przestaje mnie istnieć
+Ouroboros pożera swój ogon          - 
+                                    - pożera swoje istnienie
+Czemu muszę jeszcze bardziej pęknąć
+By nie przestać                     - być!
