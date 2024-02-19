@@ -1,3 +1,12 @@
+# Materiały
+
+- [Prezentacja](https://oneacik.github.io/presentations/spring-functional/)
+- [Repo z prezkami](https://github.com/oneacik/revils)
+- [[2024-01-29-bio-infoshare]]
+- [Repo z projektem](https://github.com/oneacik/functional-spring-presentation)
+- [DDD-GDA](https://www.meetup.com/pl-PL/ddd-gda/)
+- [Hackerspace Pomorze](https://hsp.sh)
+
 # Tytuł
 
 Spring Funkcyjnie już nie taki straszny - manifest przeciwko adnotacjom w tym @Transactional
@@ -39,4 +48,3 @@ Do zobaczenia.
     1. Piszemy sobie appkę, która się dobija do do bazy danych
     1. Używamy sobie jak nigdy nic annotacji @Transactional
     1. Nie działa
-1. 
