@@ -1,11 +1,16 @@
 # Materiały
 
-- [Prezentacja](https://oneacik.github.io/presentations/spring-functional/)
-- [Repo z prezkami](https://github.com/oneacik/revils)
-- [[2024-01-29-bio-infoshare]]
-- [Repo z projektem](https://github.com/oneacik/functional-spring-presentation)
-- [DDD-GDA](https://www.meetup.com/pl-PL/ddd-gda/)
-- [Hackerspace Pomorze](https://hsp.sh)
+- W scopie prezentacj
+    - [Prezentacja](https://oneacik.github.io/presentations/spring-functional/)
+    - [Repo z prezkami](https://github.com/oneacik/revils)
+    - [[2024-01-29-bio-infoshare]]
+    - [Repo z projektem](https://github.com/oneacik/functional-spring-presentation)
+- Inne rzeczy związane ze mną:
+    - [Linkedin](https://www.linkedin.com/in/piotr-suwa%C5%82a-928b1817a/)
+    - [DDD-GDA](https://www.meetup.com/pl-PL/ddd-gda/)
+    - [Hackerspace Pomorze](https://hsp.sh)
+        - [Tech Tree](https://github.com/hspsh/tech-tree)
+    - [Never Eat Alone](https://www.amazon.pl/Never-Eat-Alone-Secrets-Relationship/dp/0385512058)
 
 # Tytuł
 
