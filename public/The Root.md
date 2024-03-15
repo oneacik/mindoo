@@ -11,26 +11,42 @@
 
 ```plantuml
 skinparam defaultFontStyle bold
+top to bottom direction
 
-rectangle "Create Friendships" as B
-rectangle "Meet with 3 people from Czoska's networking" as B1
-rectangle "Review my friendships" as B2
+rectangle "LONG TERM GOALS" {
+    rectangle "Create friend group that is self sufficient" as M1
+    rectangle "Become techno consultant thet solves problem via knowledge and process automation" as M2
+    rectangle "???" as M3
 
-B1 --> B
-B2 --> B
+}
 
-rectangle "Restart Hackerspace" as A
-rectangle "Finish Tech Tree" as A1
-rectangle "Get MKN on the space board" as A2
+
+
+rectangle "NOW" {
+    rectangle "Create Friendships" as B
+    rectangle "Meet with 3 people from Czoska's networking" as B1
+    rectangle "Review my friendships" as B2
+    
+    
+    rectangle "Restart Hackerspace" as A
+    rectangle "Finish Tech Tree" as A1
+    rectangle "Get MKN on the space board" as A2
+    
+    
+    rectangle "Get familiar with Nixos" as C
+    rectangle "Build your first derivation with sops and your secrets" as C1
+}
 
 A1 --> A
 A1 --> A2
 A2 --> A
-
-rectangle "Get familiar with Nixos" as C
-rectangle "Build your first derivation with sops and your secrets" as C1
-
+B1 --> B
+B2 --> B
 C1 --> C
+
+B --> M1
+A --> M1
+C --> M2
 
 ```
 
