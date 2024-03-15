@@ -1,5 +1,9 @@
 # Meta Garden
 
+## New Simple Process
+
+Just start from the root and then refactor
+
 ## Process
 
 ### of inputting data
