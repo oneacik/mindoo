@@ -1,6 +1,25 @@
 # Always Fresh
 
-???
+## Structure of working
+
+```plantuml
+top to bottom direction
+
+rectangle "The Root - high level strategy" as root
+
+rectangle "Miro - canvas for sharable things" as miro
+rectangle "Wall - canvas for self development + habit based processes" as wall
+rectangle "NodeRed? - Process automation source of truth" as nodeRed
+rectangle "Task Warrior - urgency based planning + low level strategy" as taskWarrior
+rectangle "Calendar - time based planning" as calendar
+
+root --> miro
+root --> wall
+root --> nodeRed 
+root --> taskWarrior
+root --> calendar
+
+```
 
 
 # 2024
