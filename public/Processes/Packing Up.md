@@ -3,12 +3,16 @@
 - [ ] Small Bag
 - [ ] Kosmetyczka
     - [ ] Toothbrush
-    - [ ] Toothaste
+    - [ ] Toothpaste
     - [ ] Perfum
+    - [ ] Shampoo
+    - [ ] Conditioner
 - [ ] Power!
 - [ ] Medicine
 - [ ] Clothes
 - [ ] Books?
-- [ ] Towel?
 - [ ] Purse
     - [ ] Comb
+- Vacations?
+    - [ ] Towel
+    - [ ] Blanket

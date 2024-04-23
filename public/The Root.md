@@ -24,7 +24,34 @@ root --> calendar
 
 # 2024
 
+## 2024-04
+
+### Process of boots
+
+- My size is: eu 44.5 + uk 10
+
+### Process of laptop
+
+- extendable ram
+- bright screen
+- thunderbolt
+- (optional) discrete gpu
+
 ## 2024-03
+
+### Authenticating with Facebook
+
+- People may use with standard access stuff with people who have roles -> So you can easily test stuff.
+- to request advanced access to content publish
+    - Permissions https://developers.facebook.com/apps/1504002283687657/app-review/permissions/?business_id=1295111897804814
+    - Testing for unlocking advanced access https://developers.facebook.com/docs/graph-api/get-started/
+- TODO: Try to authorize somebody and get public profile
+    - https://developers.facebook.com/docs/facebook-login/guides/access-tokens/get-long-lived getting tokens
+    - https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/
+- TODO:
+    - https://developers.facebook.com/docs/graph-api/reference/page/instagram_accounts/ - instagram accounts
+    - list pages?
+    - https://developers.facebook.com/docs/graph-api/reference/page/photos/#Creating
 
 ### Roadmap
 
