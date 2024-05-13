@@ -1,12 +1,16 @@
 # Process for packing up for a journey
 
 - [ ] Small Bag
-- [ ] Kosmetyczka
+- [ ] Cosmetic Bag
     - [ ] Toothbrush
     - [ ] Toothpaste
     - [ ] Perfum
     - [ ] Shampoo
     - [ ] Conditioner
+    - [ ] Shaving Cream
+    - [ ] Shaver
+    - [ ] Razar Blade
+    - [ ] Cologne Water
 - [ ] Power!
 - [ ] Medicine
 - [ ] Clothes
@@ -16,3 +20,5 @@
 - Vacations?
     - [ ] Towel
     - [ ] Blanket
+    - [ ] Sunglasses
+    - [ ] Sunscreen
