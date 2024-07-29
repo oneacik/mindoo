@@ -26,6 +26,10 @@ root --> calendar
 
 ## 2024-07
 
+### nolensum
+
+![nolensum w skórze](images/nolensum-horizontal.jpg)
+
 ### Konstelacje i Słowo
 
 - Moja ulubiona zabawa, to jest zabawa słowem - rozmowa, której nikt nie przeprowadził
@@ -37,6 +41,10 @@ root --> calendar
 ### Book Club
 
 [[Book Club]]
+
+## 2024-06
+
+[[Dlaczego przestałem chodzić na wydarzenia]]
 
 ## 2024-04
 
