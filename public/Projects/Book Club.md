@@ -71,6 +71,7 @@ Dodatkowe warianty:
 
 ### Post/Wydarzenie
 
+Skrót:
 ⭐ Koncepcyjny Klub Książkowy (🥥 KoKos) 
 📚 Linia Oporu
 🏠 Sopoteka 
@@ -79,7 +80,7 @@ Dodatkowe warianty:
 
 Koncepcyjny Klub Książkowy (🥥 KoKos) - na warsztacie Linia Oporu
 
-Soundtrack: ???
+Soundtrack: MIMIDEATH - If God Didn't Want Us to Snort Worms He Wouldn't Have Made Them Cylindrical!
 Zapraszam was na szlaję wyrzuconą prosto z gejzeru kreatywów.
 Na poziomie państwa 02 zbudowanego na bazie królestwa Sopoteki -
 podejmiemy książkę Linia Oporu Jacka Dukaja i odniesiemy ją do swoich doświadczeń.
@@ -91,10 +92,17 @@ Przy paru 6-osobowych stolikach, każdy będzie mieć szanse wypowiedzieć się:
 🔺 jakie koncepty z książki do niego najbardziej przemawiają,
 🔺 co na codzień pozwala wam przezwyciężyć nolensum oraz jakich szlaji nam brakuje
 🔺 oraz mieć możliwość zadania swojego autorskiego pytania© do innych uczestników.
-🔻 Na koniec szybkie retro w duszy publicznej, by zmorfować spotkanie do potrzeb uczestników,
+🔻 Na koniec szybka retrospektywa w duszy publicznej, by przygotować kolejne spotkanie do potrzeb uczestników,
 🔻 a potem rozbijamy strukturę i każdy może rozmawiać tak jak mu się podoba.
 
-Przeczytanie książki (przynajmniej do 1/2) jest warunkiem uczestnictwa.
+Przeczytanie książki (przynajmniej do 1/2) jest warunkiem uczestnictwa (i pełnego zrozumienia opisu).
+
+Zachęta:
+Linia Oporu opowiada o świecie, w którym wszystkie podstawowe potrzeby są zapewnione,
+praca jest opcjonalna, sensy istnienia się produkuje, a każdy może być czymkolwiek chce.
+Skupia się na tragedii głównego bohatera, który tonie w nolensum (gęstą niechęcią pomiędzy chęcią, a czynem),
+tym rozprawia na temat jaki jest sens istnienia, dla osoby, która te sensy istnienia tworzy.
+Oczywiście autor jak zwykle wtacza ok. 7 innych traktatów filozoficznych osadzonych w tym uniwersum.
 
 Kolejne planowane książki: Fundacja Asimova, Lód.
 
