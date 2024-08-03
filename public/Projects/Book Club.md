@@ -54,17 +54,46 @@ Dodatkowe warianty:
 
 3 spotkania
 
-- Linia Oporu
-    - Z jakimi sytuacjami utażsamiacie się z głównym bohaterem
-    - Co daje wam radość i spełnienie w XXI wieku?
+- Linia Oporu (DONE)
+    - Gejdże, Biolo i Szlaje... - Jakie koncepty z książki najbardziej do was przemawiają i dlaczego?
+    - Co na codzień pozwala wam przezwyciężyć nolensum? Czego brakuje?
     - Wasze pytanie do innych (lub innej osoby)
-- Fundacja Asimova
+- Fundacja Asimova (TODO tematy)
     - Mechanizmy (futuro)socjologii, czy i gdzie zauważacie go na codzień
     - Czy warto i jak być czynnikiem nieoczekiwanym w świecie
     - Wasze pytanie do innych (lub innej osoby)
-- Lód
+- Lód (TODO tematy)
     - 10 lat życia w koncentracie - które doświadczenie głównego bohatera zostawiło na was piętno
     - Roasting autora - jakie fantazje i problemy autor (według was) zrzutował na swoją książkę (i inne)
     - Wasze pytanie do innych (lub innej osoby)
 
+**Post/Wydarzenie**
 
+⭐ Koncepcyjny Klub Książkowy (🥥 KoKos) 
+📚 Linia Oporu
+🏠 Sopoteka 
+⏲️  1 września 18:00
+⌛ 1h30 + 30m
+
+Koncepcyjny Klub Książkowy (🥥 KoKos) - na warsztacie Linia Oporu
+
+Soundtrack: ???
+Zapraszam was na szlaję wyrzuconą prosto z gejzeru kreatywów.
+Na poziomie państwa 02 zbudowanego na bazie królestwa Sopoteki -
+podejmiemy książkę Linia Oporu Jacka Dukaja i odniesiemy ją do swoich doświadczeń.
+
+Przygotowałem dla was strukturę, która pozwoli się każdemu wypowiedzieć 
+i parę prostych pytań, które wywabią z nas idee (taki gejdż).
+
+Przy paru 6-osobowych stolikach, każdy będzie mieć szanse wypowiedzieć się:
+🔺 jakie koncepty z książki do niego najbardziej przemawiają,
+🔺 co na codzień pozwala wam przezwyciężyć nolensum oraz jakich szlaji nam brakuje
+🔺 oraz mieć możliwość zadania swojego autorskiego pytania© do innych uczestników.
+🔻 Na koniec szybkie retro w duszy publicznej, by zmorfować spotkanie do potrzeb uczestników,
+🔻 a potem rozbijamy strukturę i każdy może rozmawiać tak jak mu się podoba.
+
+Przeczytanie książki (przynajmniej do 1/2) jest warunkiem uczestnictwa.
+
+Kolejne planowane książki: Fundacja Asimova, Lód.
+
+Link do notatek: ...
