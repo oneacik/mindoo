@@ -1,5 +1,7 @@
 
-### Book Club
+## Book Club
+
+### P2P
 
 https://www.liberatingstructures.com/33-purpose-to-practice-p2p/
 
@@ -50,7 +52,7 @@ Dodatkowe warianty:
 - Impromptu Networking
 - ???
 
-**Plan**
+### Plan
 
 3 spotkania
 
@@ -67,7 +69,7 @@ Dodatkowe warianty:
     - Roasting autora - jakie fantazje i problemy autor (według was) zrzutował na swoją książkę (i inne)
     - Wasze pytanie do innych (lub innej osoby)
 
-**Post/Wydarzenie**
+### Post/Wydarzenie
 
 ⭐ Koncepcyjny Klub Książkowy (🥥 KoKos) 
 📚 Linia Oporu
