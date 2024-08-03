@@ -15,7 +15,7 @@ z niebanalną fantastyką chcemy razem doświadczać siebie, w miejscu gdzie ka�
 
 **2. Principles**
 
-- **Myślmy o tym jak to co mówimy może zmienić życie innych**
+- **Myślmy o tym jak to co mówimy może wpłynąć na innych**
 - Dzielimy się głównie swoimi doświadczeniami
 - Każdy ma mieć czas na wypowiedź
 - Dialogi zostawiamy na potem - wiem, że nie możecie się doczekać - w tym cały sens
@@ -34,7 +34,7 @@ Dodatkowo ważne jest to, by osoby najlepiej:
 
 
 **4. Structures**
-- Jestem Ja jako organizator i bardzo chcę, by w przyszłości kto inny prowadził to spotkanie xD
+- Jestem ja jako organizator i bardzo chcę, by w przyszłości kto inny prowadził to spotkanie xD
 
 **5. Practices**
 
@@ -76,11 +76,11 @@ Skrót:
 📚 Linia Oporu
 🏠 Sopoteka 
 ⏲️  1 września 18:00
-⌛ 1h30 + 30m
+⌛ 1h30 (Stoliki) + 30m (Bufor + Integracja)
 
 Koncepcyjny Klub Książkowy (🥥 KoKos) - na warsztacie Linia Oporu
 
-Soundtrack: MIMIDEATH - If God Didn't Want Us to Snort Worms He Wouldn't Have Made Them Cylindrical!
+Soundtrack: [MIMIDEATH - If God Didn't Want Us to Snort Worms He Wouldn't Have Made Them Cylindrical!](https://www.youtube.com/watch?v=46i3LbIbbhI)
 Zapraszam was na szlaję wyrzuconą prosto z gejzeru kreatywów.
 Na poziomie państwa 02 zbudowanego na bazie królestwa Sopoteki -
 podejmiemy książkę Linia Oporu Jacka Dukaja i odniesiemy ją do swoich doświadczeń.
@@ -103,7 +103,8 @@ praca jest opcjonalna, sensy istnienia się produkuje, a każdy może być czymk
 Skupia się na tragedii głównego bohatera, który tonie w nolensum (gęstą niechęcią pomiędzy chęcią, a czynem),
 tym rozprawia na temat jaki jest sens istnienia, dla osoby, która te sensy istnienia tworzy.
 Oczywiście autor jak zwykle wtacza ok. 7 innych traktatów filozoficznych osadzonych w tym uniwersum.
+Niesamowite dla mnie w tej książce jest to, że świat przedstawiony wydaje się prawdziwszy od rzeczywistego.
 
 Kolejne planowane książki: Fundacja Asimova, Lód.
 
-Link do notatek: ...
+Link do notatek: https://www.ksidelta.com/book-club
