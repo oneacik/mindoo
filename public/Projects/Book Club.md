@@ -13,6 +13,11 @@ w strukturze, która pozwala każdemu byc usłyszanym.
 
 z niebanalną fantastyką chcemy razem doświadczać siebie, w miejscu gdzie każdy może być usłyszany
 
+```
+Poprzez koncepty - chcemy wzajemnie doświadczać swoich złożoności
+Poprzez koncepty - żyć życiem, którego jeszcze nie poznaliśmy
+```
+
 **2. Principles**
 
 - **Myślmy o tym jak to co mówimy może wpłynąć na innych**
@@ -68,43 +73,81 @@ Dodatkowe warianty:
     - 10 lat życia w koncentracie - które doświadczenie głównego bohatera zostawiło na was piętno
     - Roasting autora - jakie fantazje i problemy autor (według was) zrzutował na swoją książkę (i inne)
     - Wasze pytanie do innych (lub innej osoby)
+### Marketing
+
+Grupy:
+https://www.facebook.com/groups/301942563335731/
+https://www.facebook.com/groups/299483390225763/
+https://www.facebook.com/groups/3575361955822812/
+
+Biblioteki / Księgarnia:
+Sopoteka
+Smak Słowa
+Vademecum
+Ta mała w sopocie
+
+Puby:
+Graciarnia
+Prorock
+Igranie w lochu
+Absynt?
+
+Growth Hacking:
+Powkładać do książek
+
 
 ### Post/Wydarzenie
 
 Skrót:
-⭐ Koncepcyjny Klub Książkowy (🥥 KoKos) 
-📚 Linia Oporu
+🥥 Koncepcyjny Klub Książkowy 
+📚 Linia Oporu J. Dukaj
 🏠 Sopoteka 
-⏲️  1 września 18:00
+⏲️K 7 października 1:30 
 ⌛ 1h30 (Stoliki) + 30m (Bufor + Integracja)
 
-Koncepcyjny Klub Książkowy (🥥 KoKos) - na warsztacie Linia Oporu
+----------
 
-Soundtrack: [MIMIDEATH - If God Didn't Want Us to Snort Worms He Wouldn't Have Made Them Cylindrical!](https://www.youtube.com/watch?v=46i3LbIbbhI)
+Koncepcyjny Klub Książkowy - na warsztacie Linia Oporu
+
+Motto:
+Poprzez koncepty - wzajemnie doświadczać swoich złożoności
+Poprzez koncepty - żyć życiem, którym jeszcze nie żyliśmy
+
+----------
+
+Soundtrack: https://www.youtube.com/watch?v=Igo852d1hUM
+.
 Zapraszam was na szlaję wyrzuconą prosto z gejzeru kreatywów.
+.
 Na poziomie państwa 02 zbudowanego na bazie królestwa Sopoteki -
-podejmiemy książkę Linia Oporu Jacka Dukaja i odniesiemy ją do swoich doświadczeń.
-
-Przygotowałem dla was strukturę, która pozwoli się każdemu wypowiedzieć 
-i parę prostych pytań, które wywabią z nas idee (taki gejdż).
-
-Przy paru 6-osobowych stolikach, każdy będzie mieć szanse wypowiedzieć się:
-🔺 jakie koncepty z książki do niego najbardziej przemawiają,
-🔺 co na codzień pozwala wam przezwyciężyć nolensum oraz jakich szlaji nam brakuje
+podejmiemy książkę Linia Oporu Jacka Dukaja i zapadniemy się w jej świecie.
+.
+.
+Przygotowałem dla was strukturę, która pozwoli wypowiedzieć się każdemu z Was
+(bez wyjątku) oraz kilka prostych pytań, które wywabią z nas idee.
+.
+Przy kilku 6-osobowych stolikach, będziecie mieć szanse wypowiedzieć się:
+🔺 jakie koncepty z książki do Was najbardziej przemawiają,
+🔺 co na co dzień pozwala Wam przezwyciężyć nolensum oraz jakich szlaji nam brakuje
 🔺 oraz mieć możliwość zadania swojego autorskiego pytania© do innych uczestników.
 🔻 Na koniec szybka retrospektywa w duszy publicznej, by przygotować kolejne spotkanie do potrzeb uczestników,
 🔻 a potem rozbijamy strukturę i każdy może rozmawiać tak jak mu się podoba.
-
-Przeczytanie książki (przynajmniej do 1/2) jest warunkiem uczestnictwa (i pełnego zrozumienia opisu).
-
+.
+Przeczytanie książki (przynajmniej do 1/2) jest warunkiem uczestnictwa.
+.
+.
 Zachęta:
 Linia Oporu opowiada o świecie, w którym wszystkie podstawowe potrzeby są zapewnione,
 praca jest opcjonalna, sensy istnienia się produkuje, a każdy może być czymkolwiek chce.
-Skupia się na tragedii głównego bohatera, który tonie w nolensum (gęstą niechęcią pomiędzy chęcią, a czynem),
-tym rozprawia na temat jaki jest sens istnienia, dla osoby, która te sensy istnienia tworzy.
-Oczywiście autor jak zwykle wtacza ok. 7 innych traktatów filozoficznych osadzonych w tym uniwersum.
+Książka skupia się na tragedii głównego bohatera, który tonie w nolensum (gęstą ośrodkiem pomiędzy chęcią, a czynem),
+na tej lini rozprawia na temat jaki jest sens istnienia, dla osoby, która te sensy istnienia tworzy.
+Oczywiście autor jak zwykle wtacza ok. 7 innych traktatów filozoficznych osadzalnych w tym uniwersum.
 Niesamowite dla mnie w tej książce jest to, że świat przedstawiony wydaje się prawdziwszy od rzeczywistego.
-
+Poza tym wątek z Krysią mnie zdominował mentalnie.
+.
+.
 Kolejne planowane książki: Fundacja Asimova, Lód.
-
+.
 Link do notatek: https://www.ksidelta.com/book-club
+
+
