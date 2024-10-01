@@ -9,6 +9,7 @@ Lean Coffee, to nic innego jak retrospektywa, tylko zamiast rozmawiać o problem
 to rozmawiamy na jakikolwiek temat, który przyniosą uczestnicy.
 Tematy będą wybierane wspólnie przez uczestników spotkania już przy stoliku,
 lecz by zachęcić was do samej dyskusji, to już nie długo pojawi się głosowanie online na tematy na pierwsze dwa sloty.
+Jest to doskonała okazja, by nauczyć się czegoś od ekspertów, czy nawet poznać bliżej prelegentów.
 
 Do zobaczenia.
 

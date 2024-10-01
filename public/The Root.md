@@ -24,6 +24,16 @@ root --> calendar
 
 # 2024
 
+## 2024-10
+
+""
+
+## 2024-09
+
+### Lean Coffee JDD
+
+[[Lean Coffee JDD 2024]]
+
 ## 2024-07
 
 ### nolensum
