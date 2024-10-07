@@ -1,3 +1,28 @@
+## Current iteration Balance 2024-10
+
+### BASE
+
+- Eggs (For Everything except Vitamin C and Carbohytrates)
+- Rice (For Carbohytrates)
+- Rokitnik (For Vitamin C)
+- Olive with Vitamin D (Omega and Vit D)
+- BEEF (TO PUMP IT UP)
+
+### Do
+
+- Chocolate 100% (Or 70/30 from esencja smaku)
+
+### Do Not
+
+- Mayo Kills
+- Too much sugar
+- Beer is horrible
+
+### Cheat Days (weekend)
+
+- Coffee
+- Alcohol
+
 ## Current iteration Keto 2024-01
 
 Purpose: Minimize Headaches

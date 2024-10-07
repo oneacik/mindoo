@@ -1,5 +1,19 @@
 
-## Book Club
+## 2024-10-09
+
+### Feedback
+- Ściągi dla moderatorów
+- Możliwość zmieniania stolików
+- Czerwona Księga będzie wymagać instrukcji czytania
+
+### Redesign Motto
+
+Rozmawiając o ideach, 
+chcemy poznawać podobnie myślących ludzi 
+i odkrywać nowe sposoby na doświadczanie życia
+
+## Book Club Core
+
 
 ### P2P
 
