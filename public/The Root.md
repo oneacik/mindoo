@@ -26,7 +26,33 @@ root --> calendar
 
 ## 2024-10
 
-""
+### Cele Marketingowe dla MKN dla Koncepcyjnego Klubu Książkowego
+
+[[Book Club]]
+
+Cel: Chcemy by na wydarzenie przyszło więcej **wartościowych ludzi**, którzy są **zgodni z motto klubu**.
+Antycel: Nie chcemy, by na wydarzenie przychodziły osoby, które po prostu mają za dużo czasu i mogliby przyjść na jakikolwiek inny klub książki.
+
+Cele Wynikające: 
+- **Zdefiniowanie strategii marketingowej**
+- **Definiowanie różnych kanałów dotarcia do grupy docelowej**
+    - Odszukiwywanie grup na socjalkach, które są zgrane z celem / bieżącym spotkaniem
+    - Szukanie innowacyjnych kanałów
+- Pomoc w zamieszczaniu treści na socjalkach
+- Określenie wpływu każdego z kanału dotarcia
+    - Przede wszystkim określenie impaktu plakatów w różnych lokalizacjach
+- Zdefiniowanie oprogramowania, które pomoże nam osiągnąć te cele
+- Growth Hacking - Wymyślanie nowych sposobów na docieranie do grup docelowych
+    - np. pomysł z umieszczaniem zakładek w książkach, które będą omawiane na klubie książkowym
+
+### Bio na JDD
+
+Piotr jest założycielem meetupu DDD-GDA i Koncepcyjnego Klubu Książkowego.
+Odnajduje się w roli Architekta w Kinguinie, w której jak scyzoryk szwajcarski,
+rozwiązuje problemy z pogranicza architektury, facylitacji i zarządzania.
+Możesz z nim pogadać o literaturze (Dukaj, Jung, Fantastyka), larpach / improwizacji teatralnej,
+turkusowym zarządzaniu, networkingu / konstelacjach oraz wszystkim, co jest złożone i magiczne.
+
 
 ## 2024-09
 
