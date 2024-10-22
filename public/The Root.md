@@ -26,6 +26,15 @@ root --> calendar
 
 ## 2024-10
 
+### Konferencje nowe
+
+[[Conferences]]
+
+Management:
+- Trójmiasto
+    - IT Manager of Tomorrow 
+    - Follow The Leaders
+
 ### Cele Marketingowe dla MKN dla Koncepcyjnego Klubu Książkowego
 
 [[Book Club]]
@@ -56,7 +65,6 @@ turkusowym zarządzaniu, networkingu / konstelacjach oraz wszystkim, co jest zł
 
 ## 2024-09
 
-### Lean Coffee JDD
 
 [[Lean Coffee JDD 2024]]
 
@@ -97,19 +105,7 @@ turkusowym zarządzaniu, networkingu / konstelacjach oraz wszystkim, co jest zł
 
 ## 2024-03
 
-### Authenticating with Facebook
-
-- People may use with standard access stuff with people who have roles -> So you can easily test stuff.
-- to request advanced access to content publish
-    - Permissions https://developers.facebook.com/apps/1504002283687657/app-review/permissions/?business_id=1295111897804814
-    - Testing for unlocking advanced access https://developers.facebook.com/docs/graph-api/get-started/
-- TODO: Try to authorize somebody and get public profile
-    - https://developers.facebook.com/docs/facebook-login/guides/access-tokens/get-long-lived getting tokens
-    - https://developers.facebook.com/docs/facebook-login/guides/advanced/manual-flow/
-- TODO:
-    - https://developers.facebook.com/docs/graph-api/reference/page/instagram_accounts/ - instagram accounts
-    - list pages?
-    - https://developers.facebook.com/docs/graph-api/reference/page/photos/#Creating
+[[Facebook Authentication]]
 
 ### Roadmap
 
@@ -166,7 +162,6 @@ C --> M2
 - Knowledge
     - [[k8s]]
     - [[nvim commands]]
-- [[Hacke
 
 ## Lately Used
 
@@ -183,5 +178,3 @@ C --> M2
 - [[Table of Knowledge]]
 - [[DDD-GDA index]]
 - [[Conferences]]
--
-- ###
