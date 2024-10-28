@@ -2,11 +2,11 @@
 
 ## Symbols
 
-1. Fantasiness (Fantazyjny)
-2. Darkness (Mrok)
-3. Joy (Radość)
-4. Wisdom
-5. Integrity
+1. Fantasiness (Fantazyjny) - Jakże piękna jest umiejętność fantazjowania i ciągłego rozpuszczania granic znaczeń i naszego zrozumienia.
+2. Darkness (Mrok) - Kocham mrok, kocham kogoś, kto chciałby przekazać mi cząstke swojego cierpienia; to jest takie prawdziwe.
+3. Joy (Radość) - Radość to czysta energia, wykroczenie poza swoje granice - element, który nas wzrasta.
+4. Wisdom - O jakże piękna jest mądrość osoby, która widzi drzazge w moim oku i belke w swoim.
+5. Integrity - Kto mógłby przysiąc, że te cechy są jego i zgodzić się, że bardzo w nie wierzy i bardzo je kocha, by być im lojalny.
 
 # Ideal Woman
 

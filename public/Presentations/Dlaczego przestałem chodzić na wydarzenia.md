@@ -1,3 +1,35 @@
+## Konspekt
+
+"Ważne by operować na przykładzie"
+
+
+- Wprowadzenie
+    - Jaki jest wasz cel na tym tedX?
+- Klub Książkowy
+    - Pomysł: Stworzyć Klub Książkowy
+- Kawalerski
+    - Oliwier: Wielki Strategos, który konsultuje polskie firmy na temat 
+- Art Of Gathering
+    - Pierwszy rozdział o celu
+    - Networking to nie cel, to kategoria
+- Przykłady
+    - Konferencja Pierwsza
+    - Konferencja Druga
+- Liberating Structures: Purpose To Practices
+    - Meetup TrojQA
+    - 
+- Spojrzenie od Dwóch stron
+    - Organizator
+        - Zakomunikować Cel
+        - Dla Jak: Przeczytać książki Art of Gathering i Liberating Structures
+    - Odbiorca
+        - 
+        - Informacja zwrotna
+        - By wydarzenie stało się takie jakie komunikuje
+
+
+## ???
+
 Title: Czy nie warto chodzić na wydarzenia?
 
 Whoami:
@@ -18,3 +50,5 @@ Przemkniemy szybko przez potrzeby uczestników i struktury, które pozwolą wam 
 
 Mam nadzieje, że po tej prezentacji będziecie w stanie zoorganizować spotkania, które spełnią wasze życzenia, a uczestnicy będą wam za nie wdzięczni.
 Do zobaczenia.
+
+
