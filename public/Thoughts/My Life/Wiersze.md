@@ -392,6 +392,7 @@ ale Ty w tym całym bezmiarze...
 
 ## * * * (2024-02-07)
 
+```
 Wszystko pękło
 Rozsypał się świat
 - to co mogło się zdarzyć           - przestało istnieć
@@ -400,3 +401,54 @@ Ouroboros pożera swój ogon          -
                                     - pożera swoje istnienie
 Czemu muszę jeszcze bardziej pęknąć
 By nie przestać                     - być!
+```
+
+## * * * (2024-10-28)
+
+Podziel się ze mną swoim smutkiem
+Tym dlaczego płaczesz w nocy
+Tym o czym myślisz, kiedy nagle milkniesz
+Tym co notujesz w swoim zeszyciku
+
+Bo co jeśli...
+Kiedyś nam się uda
+Będziemy mieć swoje rodziny
+i spędzać czas z nimi
+szczęśliwi.
+
+Ile można rozmawiać o prostym szczęściu
+O zasranych pieluchach i wspólnym jedzeniu przy stole
+O wakacjaw w Tunezji i kolejnych sukcesach naszych dzieci
+
+Opowiedz mi o Twoim smutku
+bo w tych szczęśliwych chwilach
+tylko go będziemy razem wspominać
+jako coś prawdziwego
+
+## Nie rozmawiaj z nieznajomymi, bo jeszcze siebie poznasz (2024-10-28)
+
+Moje oczy od zawsze były zamknięte.
+A przede mną słyszę rwący potok.
+
+Mijają miesiące, a ja boję się, że mnie porwie.
+A tak bardzo chcę iść dalej.
+Lecz ciągły szum potoku przeraża mnie.
+
+Medytuje.
+Myślę.
+Zakładam.
+Lecz nie wiem co dalej.
+
+Przypadkowo jednak raz podpełza do mnie ślimak
+Jak ja chciałby przejść przez potok
+
+Pytam się - jak go przejść
+On odpowiada
+Nie wiem
+Z końca jednego ledwo widzę drugi
+A jego głębiny - skrywają ogromne potwory
+
+Wtedy biorę go na ręce
+i przekładam nogę nad potokiem
+
+A oczy - otwierają się same...
