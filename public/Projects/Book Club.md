@@ -1,3 +1,6 @@
+## 2024-11-01
+
+Instrukcja dla facylitatora: [[Book Club - Facilitator]]
 
 ## 2024-10-09
 
