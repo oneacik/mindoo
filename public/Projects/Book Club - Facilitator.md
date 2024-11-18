@@ -6,13 +6,13 @@ mainfont: Lato
 
 # Instrukcja Moderatora
 
-Hej, jeżeli to czytasz, to znaczy, że zostałeś wybrany na moderatora stolika.  
-Mam nadzieje, że ta prosta instrukcja pomoże Ci się wczuć w rolę.  
+Hej, jeżeli to czytasz, to znaczy, że zostałeś wybrany na moderatora stolika.
+Mam nadzieje, że ta prosta instrukcja pomoże Ci się wczuć w rolę.
 
-- Na tym spotkaniu mamy następujące tematy:
-    - Która z fantazji wpłynęła na Ciebie najbardziej? Dlaczego?
-    - Czy treść książki zachęciła Cię, by zmienić coś w swoim zachowaniu, czy spojrzeć na coś inaczej?
-    - Twoje własne unikatowe pytanie do stolika.
+- **Na tym spotkaniu mamy następujące tematy:**
+    - **Która z fantazji wpłynęła na Ciebie najbardziej? Dlaczego?**
+    - **Czy treść książki zachęciła Cię, by zmienić coś w swoim zachowaniu, czy spojrzeć na coś inaczej?**
+    - **Twoje własne unikatowe pytanie do stolika.**
 - Twoim zadaniem jest
     - Przejść przez tematy spotkania.
     - Pozwolić każdej osobie się wypowiedzieć.
@@ -30,6 +30,8 @@ Mam nadzieje, że ta prosta instrukcja pomoże Ci się wczuć w rolę.
     - By każdy mógł się poczuć wysłuchany.
     - By dowiedzieć się czegoś co zmieni sposób w jaki działamy, wierzymy, myślimy.
     - Spędzić ten czas miło i konstruktywnie.
+- Modyfikacje
+    - **1 osobę, która przeczytała książke możesz zamienić na 3, które będą tylko na 3. etapie zadawać pytania**
 - Moje osobiste rady
     - Twój pierwszy raz będzie trudny, ale ludzie wokół Ci pomogą.
     - Nie przedłużaj wypowiedzi innych (bez wyraźnego powodu), by móc kontynuować je na afterze.
