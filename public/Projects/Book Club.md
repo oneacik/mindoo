@@ -1,3 +1,41 @@
+## 2024-11-20
+
+Redesign P2P
+
+- Purpose
+    1. Poznawać niesamowitych ludzi
+    1. Czytać książki, które zmieniają nasze podejście do życia
+- Principles
+    - Każda osoba powinna móc się wypowiedzieć
+    - Chcemy, by ludzie się czuli częścią społeczności
+    - Książki powinny być niebanalne
+    - Książki powinny być interesujące dla obu płci jak i również przekrojowo społecznie
+    - Kategorie Książek (W Kolejności?)
+        1. Fantastyka, która ciekawie przedstawia wątki socjoekonomiczne
+        1. Eseje fantastyków
+        1. Książki filozoficzne
+        1. Książki popularno-psychologiczne
+        1. Książki rozwojowe
+    - W wybieraniu książki bierzemy w kolejności:
+        1. Jak ta książka zmieniła sposób w jaki myślimy (Ad 2.)
+        1. Jak ta książka zmieniła sposób w jaki wierzymy (Ad 2.)
+        1. Jak ta książka zmieniła sposób w jaki robimy rzeczy (Ad 2.)
+- Participants
+    - Zróżnicowana grupa ludzi, która może nas zaskoczyć
+    - Ludzie dojrzali, którzy chcą eksperymentować z życiem
+    - Studenci, którzy chcą pomóc w organizacji
+- Structures
+    - Benelovent dictator for life
+    - Grupa leadership, która definiuje strategie
+        - Czy tutaj powinna być osoba z każdej pogrupy?
+    - Reszta osób
+- Practices
+    - Impromptu Networking 
+    - 1-2-4-All
+    - Stoliki 6-osobowe z moderatorem
+    - Retrospektywa
+
+
 ## 2024-11-01
 
 Instrukcja dla facylitatora: [[Book Club - Facilitator]]
