@@ -26,9 +26,27 @@ root --> calendar
 
 ## 2024-11
 
-### Spis Książek i Konceptów
+### Mój Modus Operandi
 
-<b>test</b>
+- Kocham
+    - Tworzyć
+    - Improwizować
+    - Bawić się
+- Lubię
+    - Tworzyć wizje i pomysły
+    - Tworzyć procesy i struktury
+    - Testować i eksperymentować z nowymi rozwiązaniami
+    - Uprawiać Growth Hacking
+    - Networkować się z ludźmi i organizacjami
+    - Delegować
+- Nie lubię
+    - Uprawiać rutynowych zadań
+
+### A new project?
+
+[[Masterminds with a book]]
+
+### Spis Książek i Konceptów
 
 - Solaris
 - Król Bólu
