@@ -16,20 +16,18 @@ Redesign P2P
         1. Eseje fantastyków
         1. Książki filozoficzne
         1. Książki popularno-psychologiczne
-        1. Książki rozwojowe
+        1. Książki samorozwojowe
     - W wybieraniu książki bierzemy w kolejności:
-        1. Jak ta książka zmieniła sposób w jaki myślimy (Ad 2.)
-        1. Jak ta książka zmieniła sposób w jaki wierzymy (Ad 2.)
+        1. Jak ta książka zmieniła sposób w jaki myślimy i wierzymy (Ad 2.)
         1. Jak ta książka zmieniła sposób w jaki robimy rzeczy (Ad 2.)
 - Participants
     - Na oko 24+ lat
-    - Zróżnicowana grupa ludzi, która może nas zainspirować
+    - Zróżnicowana grupa ludzi, która może nas i się zainspirować
     - Ludzie dojrzali, którzy chcą eksperymentować z życiem
-    - Osoby które chcą pomóc w organizacji (Dojrzali Studenci xD🫠)
-- Structures
-    - Benelovent dictator for life - jako taki doglądający lider
-    - Grupa leadership, która definiuje strategie
-        - Czy tutaj powinna być osoba z każdej pogrupy?
+    - Osoby które chcą pomóc w organizacji (Może Studenci 🫠)
+- Structures (Fajnie by tak było)
+    - Ja jako osoba tworząca wizje i podrzucająca pomysły
+    - Grupa leadership, która definiuje strategie i implementuje
     - Reszta osób
 - Practices
     - Impromptu Networking 
@@ -41,6 +39,7 @@ Redesign P2P
     - Zakładki
     - Plataky
     - Pantofle
+    - Czy ktoś chce się zająć stronką KoKosa?
 
 
 ## 2024-11-01
