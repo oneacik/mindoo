@@ -7,6 +7,7 @@ Redesign P2P
 - Purpose
     1. Poznawać niesamowitych ludzi
     1. Czytać książki, które zmieniają nasze podejście do życia
+    1. Zbudować podwaliny (praktyki / ludzi) pod inne inicjatywy
 - Principles
     - Każda osoba powinna móc się wypowiedzieć
     - Chcemy, by ludzie się czuli częścią społeczności
@@ -14,9 +15,9 @@ Redesign P2P
     - Kategorie Książek (W Kolejności?)
         1. Fantastyka, która ciekawie przedstawia wątki socjoekonomiczne
         1. Eseje fantastyków
-        1. Książki filozoficzne
         1. Książki popularno-psychologiczne
         1. Książki samorozwojowe
+        1. Książki filozoficzne
     - W wybieraniu książki bierzemy w kolejności:
         1. Jak ta książka zmieniła sposób w jaki myślimy i wierzymy (Ad 2.)
         1. Jak ta książka zmieniła sposób w jaki robimy rzeczy (Ad 2.)
