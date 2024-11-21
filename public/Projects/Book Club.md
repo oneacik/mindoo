@@ -2,6 +2,8 @@
 
 Redesign P2P
 
+![P2P](https://www.liberatingstructures.com/storage/Slide30.jpg)
+
 - Purpose
     1. Poznawać niesamowitych ludzi
     1. Czytać książki, które zmieniają nasze podejście do życia
@@ -9,7 +11,6 @@ Redesign P2P
     - Każda osoba powinna móc się wypowiedzieć
     - Chcemy, by ludzie się czuli częścią społeczności
     - Książki powinny być niebanalne
-    - Książki powinny być interesujące dla obu płci jak i również przekrojowo społecznie
     - Kategorie Książek (W Kolejności?)
         1. Fantastyka, która ciekawie przedstawia wątki socjoekonomiczne
         1. Eseje fantastyków
@@ -21,11 +22,12 @@ Redesign P2P
         1. Jak ta książka zmieniła sposób w jaki wierzymy (Ad 2.)
         1. Jak ta książka zmieniła sposób w jaki robimy rzeczy (Ad 2.)
 - Participants
-    - Zróżnicowana grupa ludzi, która może nas zaskoczyć
+    - Na oko 24+ lat
+    - Zróżnicowana grupa ludzi, która może nas zainspirować
     - Ludzie dojrzali, którzy chcą eksperymentować z życiem
-    - Studenci, którzy chcą pomóc w organizacji
+    - Osoby które chcą pomóc w organizacji (Dojrzali Studenci xD🫠)
 - Structures
-    - Benelovent dictator for life
+    - Benelovent dictator for life - jako taki doglądający lider
     - Grupa leadership, która definiuje strategie
         - Czy tutaj powinna być osoba z każdej pogrupy?
     - Reszta osób
@@ -34,6 +36,11 @@ Redesign P2P
     - 1-2-4-All
     - Stoliki 6-osobowe z moderatorem
     - Retrospektywa
+    - Zdjęcia na koniec
+- Marketing
+    - Zakładki
+    - Plataky
+    - Pantofle
 
 
 ## 2024-11-01
