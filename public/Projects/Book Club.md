@@ -1,8 +1,14 @@
+## 2024-12-01
+
+- Potrzeby i co byście chcieli osiągnąć w kontekście klubu książkowego
+
 ## 2024-11-20
 
 Redesign P2P
 
-![P2P](https://www.liberatingstructures.com/storage/Slide30.jpg)
+[P2P](https://www.liberatingstructures.com/storage/Slide30.jpg)
+
+Na pogrubiono wyznaczono rzeczy, które mogą się dość mocno gryźć i warto je przegadać.
 
 - Purpose
     1. Poznawać niesamowitych ludzi
@@ -11,23 +17,26 @@ Redesign P2P
 - Principles
     - Każda osoba powinna móc się wypowiedzieć
     - Chcemy, by ludzie się czuli częścią społeczności
-    - Książki powinny być niebanalne
+    - Książki powinny być
+        - niebanalne
+        - posiadające koncepty, których można użyć jako zwierciadło naszych doświadczeń
     - Kategorie Książek (W Kolejności?)
-        1. Fantastyka, która ciekawie przedstawia wątki socjoekonomiczne
-        1. Eseje fantastyków
+        1. **Fantastyka, która ciekawie przedstawia wątki socjoekonomiczne**
+        1. **Eseje fantastyków**
         1. Książki popularno-psychologiczne
         1. Książki samorozwojowe
         1. Książki filozoficzne
-    - W wybieraniu książki bierzemy w kolejności:
-        1. Jak ta książka zmieniła sposób w jaki myślimy i wierzymy (Ad 2.)
-        1. Jak ta książka zmieniła sposób w jaki robimy rzeczy (Ad 2.)
+    - W wyborze książki najbardziej interesuje nas jej impakt - tj:
+        1. **Jak ta książka zmieniła sposób w jaki wierzymy (Ad 2.)**
+        1. **Jak ta książka zmieniła sposób w jaki myślimy (Ad 2.)**
+        1. **Jak ta książka zmieniła sposób w jaki robimy rzeczy (Ad 2.)**
 - Participants
     - Na oko 24+ lat
-    - Zróżnicowana grupa ludzi, która może nas i się zainspirować
+    - **Zróżnicowana grupa ludzi, która może nas i się zainspirować - różne płcie, różne branże, różny etap wzrostu**
     - Ludzie dojrzali, którzy chcą eksperymentować z życiem
     - Osoby które chcą pomóc w organizacji (Może Studenci 🫠)
 - Structures (Fajnie by tak było)
-    - Ja jako osoba tworząca wizje i podrzucająca pomysły
+    - Ja jako osoba tworząca wizje i podrzucająca pomysły, ale związana tą wizją
     - Grupa leadership, która definiuje strategie i implementuje
     - Reszta osób
 - Practices
@@ -36,6 +45,7 @@ Redesign P2P
     - Stoliki 6-osobowe z moderatorem
     - Retrospektywa
     - Zdjęcia na koniec
+    - Może przekładanie kategorii książek?
 - Marketing
     - Zakładki
     - Plataky
