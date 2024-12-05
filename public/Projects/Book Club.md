@@ -1,6 +1,104 @@
-## 2024-12-01
 
-- Potrzeby i co byście chcieli osiągnąć w kontekście klubu książkowego
+## 2024-12-03 - Spotkanie Strategiczne
+
+Spotkaliśmy się w Tapas De Rucola.
+Porozmawialiśmy o potrzebach i wizji na klub.
+Oto nasze wykminy.
+
+### Wynikowe P2P
+
+- Purpose
+    1. Poznawać niesamowitych ludzi
+    1. Czytać książki, które zmieniają nasze podejście do życia
+    1. Zbudować podwaliny (praktyki / ludzi) pod inne inicjatywy
+- Principles
+    - Każdy może wykorzystać grupę do podzielenia się / zoorganizowania inicjatyw(ą/y)
+    - Nie na każdym spotkaniu trzeba bywać
+    - Dynamika Spotkań
+        - Uproszczone do maksimum powinno być poznawanie się i dzielenie się sobą
+        - Każda osoba powinna mieć chwile na spotkaniu, by podzielić się swoimi przemyśleniami
+    - Książki
+        - Książki mają być zróżnicowane
+        - Książki mają zmieniać sposób w jaki robimy / myślimy / wierzymy
+    - **Czas**
+        - Przerwa na kibel
+        - Gwarancja kilku minut wypowiedzi
+        - Ludzie powinni mieć możliwość dołączyć spóźnieni
+        - Zaczynać Później - 18:00
+- Participants
+    - **Zróżnicowana grupa ludzi, która może nas i się zainspirować - różne płcie, różne branże, różny etap wzrostu**
+    - Ludzie dojrzali, którzy chcą eksperymentować z życiem (Na oko 24+ lat)
+    - Osoby które chcą pomóc w organizacji (Może Studenci 🫠)
+    - **Nie chcemy osób, które mogłyby wybrać jakiekolwiek inne wydarzenie w tym samym czasie**
+- Structures (Fajnie by tak było)
+    - Ja jako osoba tworząca wizje i podrzucająca pomysły, ale związana tą wizją
+    - Grupa leadership, która definiuje strategie i implementuje
+    - Reszta osób
+- Practices
+    - Dwa typy spotkań
+        - Spotkania Książkowe 
+            - By poznawać nowe osoby, zaskakiwać się
+            - Czytać Książki spoza naszej bańki
+        - Spotkania Integracyjne 
+            - By rozwijać znajomości zawarte
+            - Dzielić się tym, co lubimy czytać
+            - Poznawać się bliżej
+    - Narzędzia Facylitacyjno-Moderacyjne
+        - Impromptu Networking 
+        - 1-2-4-All
+        - Stoliki 6-osobowe z moderatorem
+        - Retrospektywa
+    - Wybór Książek
+        - Demokratycznie
+    - Spotkania Strategiczne - by ustalać kierunek
+- Marketing
+    - Poprzez polecenia znajdziemy osoby, których możemy byc pewni
+    - Plakaty i zakładki zostawiane przez uczestników spotkań pozwolą nam poznać ludzi, których nie mielibyśmy okazji spotkać.
+
+### Jak powinien wyglądać klub książkowy, jeżeli wszystko by było możliwe
+
+- 10 osób to dużo
+- **Na koniec wspólna dyskusja**
+- Czas
+    - **Przerwa na kibel**
+    - **Gwarancja kilku minut wypowiedzi**
+    - Godzina nie powinna grać roli
+    - **Zaczynać Później**
+- 1-2-4
+- Zdecentralizować władzę
+- Inne inicjatywy
+    - Osobne spotkania
+    - Warsztaty dzielenia się wiedzą
+    - Prezentacje na temat problemu
+    - Lean Coffee
+    - Miejsce by pogadać - na poważne tematy
+- Pozwolić inicjatywom płynąć
+- Nie za bardzo specjalistyczne książki
+- Na dziwne rzeczy głosować
+- Na integracjach
+    - **Rozmawiać o naszych ulubionych książkach**
+- Ankiety dla tych, którzy nie dotarli
+- **Realistyczny Czas Przeczytania**
+- Marketing
+    - Dawać plakaty i zakładki uczestnikom - by sprowadzać nowe ciekawe osoby
+- Na klubie nowe osoby
+- Na integracjach stare
+
+### Potrzeby
+
+- Perspektywy innych
+- Rozmowy o ciekawych tematach
+- Coś innego - ucieczka od życia doczesnego
+- Kreatywne Inspirujące Lektury
+- **Różnorodność**
+- Książki, o których nie wiemy
+- Budowania Siatek Relacji
+- Nauka Budowy Struktur Spotkań
+- Poznawanie nowych ludzi
+- Nie Zatracanie Ciekawości
+- Rozmowy na głębsze tematy
+- Książki, które coś wnoszą
+- Książki nieakademickie
 
 ## 2024-11-20
 
