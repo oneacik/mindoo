@@ -24,6 +24,18 @@ root --> calendar
 
 # 2024
 
+## 2024-12
+
+### Layoffs
+
+Kinguin has layoffs /shrug.
+Maybe if they mvp'ed their projects better it wouldn't happen ;-;.
+
+Therefore growth happens - work with me:
+[[2025 My Value]]
+
+For sure I have time till 2025-01-12.
+
 ## 2024-11
 
 ### Escaping The Anonimity Trap
