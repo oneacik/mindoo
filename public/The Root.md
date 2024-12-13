@@ -1,26 +1,13 @@
 # Always Fresh
 
-## Structure of working
+## Important Projects Right Now
 
-```plantuml
-top to bottom direction
+- I'm looking for contracts in IT/Management: [[2025 My Value]]
+- Join best club you will ever attend: [[Book Club]]
 
-rectangle "The Root - high level strategy" as root
+## About Me
 
-rectangle "Miro - canvas for sharable things" as miro
-rectangle "Wall - canvas for self development + habit based processes" as wall
-rectangle "NodeRed? - Process automation source of truth" as nodeRed
-rectangle "Task Warrior - urgency based planning + low level strategy" as taskWarrior
-rectangle "Calendar - time based planning" as calendar
-
-root --> miro
-root --> wall
-root --> nodeRed 
-root --> taskWarrior
-root --> calendar
-
-```
-
+TODO
 
 # 2024
 
