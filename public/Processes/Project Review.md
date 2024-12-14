@@ -1,7 +1,0 @@
-- Tests
-    - Are performance tests needed?
-    - Are integrational tests in place?
-- Databases
-    - Are Indexes Present?
-    - Are actions atomic which should be atomic?
-    - Are things transactional which should be transactional?
