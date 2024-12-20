@@ -13,6 +13,8 @@ TODO
 
 ## 2024-12
 
+- [[Community Of Communities]]
+
 ### Layoffs
 
 Kinguin has layoffs /shrug.
