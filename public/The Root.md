@@ -2,6 +2,7 @@
 
 ## Important Projects Right Now
 
+- See my [CV](https://gitlab.com/oneacik/lifecycle/-/blob/master/JA/Professional%20CV/CV-purposes.pdf) - there are books!!! Also I am looking for some new mothership.
 - I'm looking for contracts in IT/Management: [[2025 My Value]]
 - Join best club you will ever attend: [[Book Club]]
 
