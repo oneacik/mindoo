@@ -49,6 +49,8 @@ A tak osobiście:
         - Dzielenie się inicjatywami i społecznościami
         - Networking
 - Principles
+    - Zabierz ze sobą swojego znajomego
+    - Preferujemy elastyczne formuły
 - Participants
     - Osoby chcące się rozwijać w:
         - Organizacji Wydarzeń
