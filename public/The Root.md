@@ -14,7 +14,32 @@ TODO
 
 ## 2024-12
 
+
+### 12-26: Networking Strategy
+
+
+
+### 12-26: Party
+
 - [[Community Of Communities]]
+- [[2024-12-30-party]]
+
+### Slice Of Knowledge
+
+What have I learned from my latest journey with Kinguin / Hackerspace / KoKoS?:
+- Meetings
+    - Be goal oriented
+    - Have a structure
+        - I loved **User Story Mapping** mixed with **Service Blueprint**
+            - because those techniques allowed not only to create stories but also to design technical work
+        - **Retrospectives**
+            - worked amazingly when we used RootCauseAnalysis
+            - and when solutions were actionable
+                - some could be implemented as a task
+                - but most of them had to be implemented via automation
+                - the rest had a very little implementation rate
+
+
 
 ### Layoffs
 
