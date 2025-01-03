@@ -10,13 +10,53 @@
 
 TODO
 
+# 2025
+
+## 2025-01
+
+
+
 # 2024
 
 ## 2024-12
 
-
 ### 12-26: Networking Strategy
 
+**Preludium**
+Oh Li, I hate you so much, but here we are - on the only platform I can share my vision.
+Let's forget about writing stuff that everyone is writing.
+Let's write something that changes world.
+
+**What**
+- Tactics
+    - Share interesting experiences that is cross-domain
+        - Facilitation
+        - Management
+        - Technology
+        - Everything comes back to reducing cognitive load and engaging people - let them be stressless and happy.
+    - Build Knowledge around management
+    - Build Connections aroung management
+- Strategy
+    - Create a living web of connactions that facilitates knowledge sharing and fiding gigs
+
+**How**
+- Linkedin
+    - Ask for need for a given topic I'd like to learn in deep about
+        - In the same post ask about other people who would like to join the session
+    - Write to people who could discuss about
+- Meetings
+    - In small group do 1-2-4-8 to generate topics for the fishbowl
+    - Organize [FishBowl](https://www.liberatingstructures.com/18-users-experience-fishbowl/) meetings in which
+        - More experienced people can discuss their experiences and find solutions to their problems
+        - Other members may listen to the conversations and learn
+    - Execute Impromptu Networking later to build important connections
+- Notes / Excel - I need to note people from those meetings, so I can
+    - later invite them to meetings
+    - have 1-1s with them and chat about stuff
+    - maybe they could recommend me somewhere?
+
+**When**
+After new year!!!
 
 
 ### 12-26: Party
