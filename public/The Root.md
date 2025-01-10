@@ -14,7 +14,7 @@ TODO
 
 ## 2025-01
 
-
+- TedX Wrzeszcz: [[O Trzecich Miejscach]]
 
 # 2024
 
