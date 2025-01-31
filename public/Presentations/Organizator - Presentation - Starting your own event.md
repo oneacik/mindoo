@@ -1,14 +1,16 @@
-1. Wstęp
+# Jak zorganizować swój pierwszy event 
+
+1. Wstęp - (to powinno być w notatce kursu jako wartość)
     1. Dlaczego
         1. Ten kurs przygotuje Cię do poprowadzenia swojego pierwszego wydarzenia
         1. + Da Ci wstępne wskazówki jak budować swoją inicjatywę dalej
     1. Stuktura
         1. Część Główna
-            1. Potrzeba
-            1. Cel
-            1. Pomysł i Strategia
-            1. Osoby
-            1. Miejsce
+            1. Potrzeba - by nie tworzyć rzeczy niepotrzebnych
+            1. Cel - byśmy wiedzieli gdzie idziemy
+            1. Pomysł i Strategia - i jak tam dojść
+            1. Osoby - czyli jak znaleźć miejsce na pierwsze spotkanie
+            1. Miejsce - jak je znaleźć?
             1. Zaangażowanie
             1. Społeczność
             1. Feedback
@@ -17,6 +19,10 @@
         1. Meetup DDD-GDA
         1. Koncepcyjny Klub Książkowy
         1. Konferencje, na których prowadziłem te podejścia
+    1. Na podstawie wiedzy z
+        1. Liberating Structures
+        1. Art Of Gathering
+        1. Lean Startup
 1. Część Główna
     1. Potrzeba!
         1. Nie twórzy spotkania tylko dla spotkania
@@ -54,6 +60,12 @@
             1. Troika Consulting - pomagaj ludzią z ich problemem
             1. Celebrity Review - Zaangażuj społeczność w panel
             1. 1-2-4-All - Budulec Twoich własnych praktyk
+    1. Społeczność
+        1. Po co? By zwiększyć retencje ludzi na spotkaniu - tj by łatwiej wrócili
+        1. Jak
+            1. Meetup - Ludzie dostają powiadomienia i jest to pewniejsze niż fb
+            1. **Whatsapp, telegram i inne** - Najprostsza forma kontaktu z możliwością kontaktu bezpośredniego
+            1. Discord - Dla większych społeczności, które żyją własnym życiem - duża szansa wyciszenia i zapomnienia
     1. Feedback
         1. Po co? - Feedback pozwala Ci zmodyfikować pomysł, by lepiej odpowiadał ludziom
         1. Jak?
@@ -75,8 +87,14 @@
             1. Product Management And Marketing (Hardcore)
             1. Never Eat Alone?
         1. Napisz do mnie
-            1. Jestem w stanie odpowiedzieć na pytania
-            1. Mam przeloty na społeczne inicjatywy
-            1. Długoplanowa współpraca w formie płatnych konsultacji
+            1. Jestem w stanie odpowiedzieć na pytania ad hoc
+            1. Darmowe konsultacje społecznych inicjatyw
+            1. Płatna współpraca dla komercyjnych inicjatyw i długotrwałych (3mies+) konsultacji
         1. Skorzystaj z innych kursów
-
+            1. Szybsze i często tańsze rozwiązanie niż komercyjne konsultacje
+            1. Jasno zdefiniowana wartość, którą otrzymasz
+            1. Wspomożesz w ten sposób rozwój platformy organizator.pl
+    1. Ostatnie Słowa
+        1. Nie poddawaj się - nawet jeżeli nikt nie przyjdzie
+        1. Zdobywaj wiedzę, by zauważać to, czego nie widzisz
+        1. Powodzenia
