@@ -8,5 +8,40 @@ Chcesz poznać jak kształtowała się nasza wizja i strategia?: [[Book Club - S
 Chcesz poznać bliżej praktyki ze spotkań?: [[Book Club - Meeting Structure]]
 Szukasz Instrukcji Moderatora Stolika?: [[Book Club - Facilitator]]
 Chcesz dostać się do templatki wydarzenia?: [[Book Club - Event]]
-Chcesz sobie skorzystać z plakatu?: TODO
-Chcesz sobie skorzystać z zakładki?: TODO
+
+
+## Process
+
+### Tydzień 1
+
+**Taski**
+- [ ] Stworzyć Wydarzenie
+- [ ] Zdelegować opis
+- [ ] Zdelegować integracje
+- [ ] Podmienić Zdjęcie
+
+### Tydzień 2
+
+**Taski**
+- [ ] Zrobić artystyczną fotę (optional)
+- [ ] Zarezerwować miejsce
+
+**Co się dzieje**
+- [ ] Przeprowadzić integracje (optional)
+- [ ] Opis jest gotowy
+
+### Tydzień 3
+
+**Taski**
+- [ ] Wydrukować zakładki (Optional)
+- [ ] Przemyśleć strukturę spotkania
+
+### Tydzień 4
+
+**Taski**
+- [ ] Przeprowadzić wydarzenie
+- [ ] Zrobić Zdjęcie
+- [ ] Rozdać ludziom zakładki
+
+**Co się dzieje**
+- Spotkanko

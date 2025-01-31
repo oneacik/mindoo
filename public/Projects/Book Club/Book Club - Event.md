@@ -1,10 +1,18 @@
-🥥 Koncepcyjny Klub Książkowy - ???
+- [ ] 🥥 Koncepcyjny Klub Książkowy - ???
 
 ⏲️  ???
 🏠 ???
 📚 ???
 
 🥥🥥🥥🥥🥥🥥🥥🥥🥥
+
+Dla Kogo?:
+80% to entuzjastyczne osoby w wieku 25-40lat.
+20% wymyka się z naszych wyobrażeń.
+Ty będziesz kolejny/a.
+
+Co przeczytać?:
+???
 
 Zachęta:
 ???
@@ -22,8 +30,8 @@ Co 5 minut zmieniamy się w dwójkach.
 Rozmawiamy tak, by się poznać - jeszcze nie o książce.
 Przykładowe pytania:
 ➡️  Dlaczego zainteresowała Cię to spotkanie?
-➡️  Jakie masz oczekiwania od tego spotkania?
-➡️  Co byś chciał tutaj, by się stało, co się raczej nie zdarza?
+➡️  Jakie masz plany i marzenia?
+➡️  Kim tak naprawdę jesteś?
 
 👯👯 18:30 1-2-4
 

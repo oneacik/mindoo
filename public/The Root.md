@@ -15,6 +15,7 @@ TODO
 ## 2025-01
 
 - TedX Wrzeszcz: [[O Trzecich Miejscach]]
+- [[If I were to meet a president of a city]]
 
 # 2024
 
