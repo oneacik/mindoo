@@ -1,5 +1,10 @@
 # Jak zorganizować swój pierwszy event 
 
+1. O mnie
+    1. Programista / Architekt z 10 letnim doświadczeniem
+    1. Organizator eventów od 3 lat
+    1. Od dwóch lat w zarządzie Hackerspace Pomorze
+    1. "Wierzę, że wiedza pozwala nam zobaczyć więcej"
 1. Wstęp - (to powinno być w notatce kursu jako wartość)
     1. Dlaczego
         1. Ten kurs przygotuje Cię do poprowadzenia swojego pierwszego wydarzenia
@@ -60,6 +65,7 @@
             1. Troika Consulting - pomagaj ludzią z ich problemem
             1. Celebrity Review - Zaangażuj społeczność w panel
             1. 1-2-4-All - Budulec Twoich własnych praktyk
+            1. Conversation Cafe 
     1. Społeczność
         1. Po co? By zwiększyć retencje ludzi na spotkaniu - tj by łatwiej wrócili
         1. Jak
