@@ -1,3 +1,7 @@
+### 2025-03: Symbole Moje
+
+- 
+
 ### 2024-11: Mój Modus Operandi
 
 - Kocham

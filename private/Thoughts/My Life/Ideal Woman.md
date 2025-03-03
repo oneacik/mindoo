@@ -2,6 +2,8 @@
 
 ## Symbols
 
+Oslo: [[Symbole]]
+
 1. Fantasiness (Fantazyjny) - Jakże piękna jest umiejętność fantazjowania i ciągłego rozpuszczania granic znaczeń i naszego zrozumienia.
 2. Darkness (Mrok) - Kocham mrok, kocham kogoś, kto chciałby przekazać mi cząstke swojego cierpienia; to jest takie prawdziwe.
 3. Joy (Radość) - Radość to czysta energia, wykroczenie poza swoje granice - element, który nas wzrasta.

@@ -7,5 +7,5 @@
 4. Wisdom
 5. Integrity
 6. Calmness (Spokój)
-
+7. Warmness (Ciepło)
 

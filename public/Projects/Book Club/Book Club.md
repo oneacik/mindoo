@@ -45,3 +45,7 @@ Chcesz dostać się do templatki wydarzenia?: [[Book Club - Event]]
 
 **Co się dzieje**
 - Spotkanko
+
+## Inne
+
+[[2024-12-30-party|AntyWigilia]]
