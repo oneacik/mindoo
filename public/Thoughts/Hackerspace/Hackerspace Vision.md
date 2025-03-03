@@ -1,5 +1,9 @@
 # Wizja Spejsu
 
+**Misja**
+Tworzymy miejsce, gdzie my jako ludzie zaangażowani w technologie chcemy się rozwijać, cieszyć się z naszymi przyjaciółmi i robić fajne rzeczy.
+
+**Wizja**
 Bazując na [Hackerspace Blueprint](https://github.com/0x20/hackerspace-blueprint), ale idąc dalej.
 
 Hackerspejs to 4 rzeczy:
