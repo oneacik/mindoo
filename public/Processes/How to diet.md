@@ -1,3 +1,29 @@
+## Current iteration Hail The Liver 2025-03
+
+### Yes
+
+- Light stuff: Vegetables&Chicken
+- Cardio only
+    - Dancing
+    - Cycling
+- Drink water, carob, cocoa
+
+### Limit
+
+- Kombucha
+
+### No
+
+- Sugar
+- coffee at all
+- NO ALCOHOL JESUS
+
+### Sociopsychics
+
+- Coworking with people
+- Lot of hugs needed
+- Limit the cafes to minimum
+
 ## Current iteration Balance 2024-10
 
 ### BASE

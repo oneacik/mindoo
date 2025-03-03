@@ -12,13 +12,23 @@ TODO
 
 # 2025
 
-## 2025-01
+- **2025-01** [[Organizator - Presentation - Starting your own event]]
+- **2025-01** TedX Wrzeszcz: [[O Trzecich Miejscach]]
+- **2025-01** [[If I were to meet a president of a city]]
+- **2025-03** [[Hackerspace Vision]]
 
-- [[Organizator - Presentation - Starting your own event]]
-- TedX Wrzeszcz: [[O Trzecich Miejscach]]
-- [[If I were to meet a president of a city]]
+## 2024-03
 
 # 2024
+
+- **2024-12** [[Community Of Communities]]
+- **2024-12** [[2024-12-30-party]]
+- **2024-10** [[Symbole]]
+- **2024-10** [[Book Club]]
+- **2024-09** [[Lean Coffee JDD 2024]]
+- **2024-07** [[Book Club]]
+- **2024-06** [[Dlaczego przestałem chodzić na wydarzenia]]
+
 
 ## 2024-12
 
@@ -59,12 +69,6 @@ Let's write something that changes world.
 
 **When**
 After new year!!!
-
-
-### 12-26: Party
-
-- [[Community Of Communities]]
-- [[2024-12-30-party]]
 
 ### Slice Of Knowledge
 
@@ -167,7 +171,7 @@ Books:
 
 ### A new project?
 
-[[Masterminds with a book]]
+- New Project? [[Masterminds with a book]]
 
 ### Spis Książek i Konceptów
 
@@ -192,15 +196,6 @@ Books:
  | Czerwona Księga Junga       | O naszej duszy, głębi i symbolach                                |
 
 
-## 2024-10
-
-### Symbole
-
-1. Fantasiness (Fantazyjny)
-2. Darkness (Mrok)
-3. Joy (Radość)
-4. Wisdom
-5. Integrity
 
 ### Konferencje nowe
 
@@ -213,22 +208,8 @@ Management:
 
 ### Cele Marketingowe dla MKN dla Koncepcyjnego Klubu Książkowego
 
-[[Book Club]]
 
-Cel: Chcemy by na wydarzenie przyszło więcej **wartościowych ludzi**, którzy są **zgodni z motto klubu**.
-Antycel: Nie chcemy, by na wydarzenie przychodziły osoby, które po prostu mają za dużo czasu i mogliby przyjść na jakikolwiek inny klub książki.
 
-Cele Wynikające: 
-- **Zdefiniowanie strategii marketingowej**
-- **Definiowanie różnych kanałów dotarcia do grupy docelowej**
-    - Odszukiwywanie grup na socjalkach, które są zgrane z celem / bieżącym spotkaniem
-    - Szukanie innowacyjnych kanałów
-- Pomoc w zamieszczaniu treści na socjalkach
-- Określenie wpływu każdego z kanału dotarcia
-    - Przede wszystkim określenie impaktu plakatów w różnych lokalizacjach
-- Zdefiniowanie oprogramowania, które pomoże nam osiągnąć te cele
-- Growth Hacking - Wymyślanie nowych sposobów na docieranie do grup docelowych
-    - np. pomysł z umieszczaniem zakładek w książkach, które będą omawiane na klubie książkowym
 
 ### Bio na JDD
 
@@ -239,10 +220,6 @@ Możesz z nim pogadać o literaturze (Dukaj, Jung, Fantastyka), larpach / improw
 turkusowym zarządzaniu, networkingu / konstelacjach oraz wszystkim, co jest złożone i magiczne.
 
 
-## 2024-09
-
-
-[[Lean Coffee JDD 2024]]
 
 ## 2024-07
 
@@ -260,11 +237,6 @@ turkusowym zarządzaniu, networkingu / konstelacjach oraz wszystkim, co jest zł
 
 ### Book Club
 
-[[Book Club]]
-
-## 2024-06
-
-[[Dlaczego przestałem chodzić na wydarzenia]]
 
 ## 2024-04
 
@@ -279,9 +251,7 @@ turkusowym zarządzaniu, networkingu / konstelacjach oraz wszystkim, co jest zł
 - thunderbolt
 - (optional) discrete gpu
 
-## 2024-03
-
-[[Facebook Authentication]]
+- **2024-03** [[Facebook Authentication]]
 
 ### Roadmap
 
