@@ -1,17 +1,17 @@
 # Always Fresh
 
 ## Important Projects Right Now
-
-- See my [CV](https://gitlab.com/oneacik/lifecycle/-/blob/master/JA/Professional%20CV/CV.pdf) - there are books!!! Also I am looking for some new job.
-- I'm looking for contracts in IT/Management: [[2025 My Value]]
 - Join best club you will ever attend: [[Book Club]]
+- Hackerspace is still working: https://hsp.sh
 
 # 2025
 
+- **2025-xx** [[2025]] - plan na 2025
+- **2025-03** [[Whoami]] - Aktualizacja
+- **2025-03** [[Hackerspace Vision]]
 - **2025-01** [[Organizator - Presentation - Starting your own event]]
 - **2025-01** TedX Wrzeszcz: [[O Trzecich Miejscach]]
 - **2025-01** [[If I were to meet a president of a city]]
-- **2025-03** [[Hackerspace Vision]]
 
 ## 2024-03
 

@@ -20,6 +20,8 @@ Wtedy, kiedy po prostu mamy ogromną chęć, a nie być w ciągłej manii?
 
 [[Personal Base]]
 
+- **Nie myśl o tym, co może się zdarzyć, bo to tylko obniża Twój nastrój**
+- **Muszę zawsze mieć chwile na kreatywność, a działalność operacyjna jest zaplanowanym faktem działalności kreatywnej**
 - Eskalująca ciekawość do osób zamiast gorących relacji z kimkolwiek
 - Prostota zamiast złożoności
 - Fantazyjność zamiast utartych formuł
