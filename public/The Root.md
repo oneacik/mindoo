@@ -15,6 +15,18 @@
 
 ## 2024-03
 
+### Cyclical Stuff
+
+ | Frequency  | What                |
+ |------------|---------------------|
+ | 20xx-04-01 | 📈 PIT Inwestycyjny |
+ | 20xx-04-01 | 🤑 PIT Zwykły       |
+ | 20xx-xx-01 | 🥒 Kiszonki         |
+ | 20xx-xx-01 | 🐄 Mleko            |
+ | 20xx-xx-10 | 📚 Księgowość       |
+ | 20xx-xx-10 | 🏠 Wynajem          |
+ | 20xx-xx-10 | ☎️  Telefoniada      |
+
 # 2024
 
 - **2024-12** [[Community Of Communities]]

@@ -12,13 +12,14 @@ Oto nasze wykminy.
     1. Czytać książki, które zmieniają nasze podejście do życia
     1. Zbudować podwaliny (praktyki / ludzi) pod inne inicjatywy
 - Principles
+    - Miejsca powinny być darmowe, gdzie odbywa się spotkanie
     - Każdy może wykorzystać grupę do podzielenia się / zoorganizowania inicjatyw(ą/y)
     - Nie na każdym spotkaniu trzeba bywać
     - Dynamika Spotkań
         - Uproszczone do maksimum powinno być poznawanie się i dzielenie się sobą
         - Każda osoba powinna mieć chwile na spotkaniu, by podzielić się swoimi przemyśleniami
     - Książki
-        - Książki mają być zróżnicowane
+        - Książki mają być zróżnicowane - np beletrystyka i literatura faktu
         - Książki mają zmieniać sposób w jaki robimy / myślimy / wierzymy
     - **Czas**
         - Przerwa na kibel

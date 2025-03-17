@@ -7,9 +7,9 @@
 🥥🥥🥥🥥🥥🥥🥥🥥🥥
 
 Dla Kogo?:
-80% to entuzjastyczne osoby w wieku 25-40lat.
-20% wymyka się z naszych wyobrażeń.
-Ty będziesz kolejny/a.
+Każda osoba ma swoje doświadczenia, a my pragniemy usłyszeć o nich jak najwięcej :>.
+Odnajdziesz się, jeżeli jesteś otwartą, ciekawską i słuchającą osobą.
+Na pewno poczujesz się zaopiekowany.
 
 Proponowane Książki Do Tematu?:
 - ??? - Opis
@@ -33,12 +33,13 @@ Pytania Do Książki:
 Co 5 minut zmieniamy się w dwójkach.
 Rozmawiamy tak, by się poznać - jeszcze nie o książce.
 Przykładowe pytania:
-➡️  Dlaczego zainteresowała Cię to spotkanie?
-➡️  Jakie masz plany i marzenia?
-➡️  Kim tak naprawdę jesteś?
+➡ Dlaczego zainteresowało Cię to spotkanie?
+➡ Co ostatnio się u Ciebie stało, czym chciałbyś się pochwalić?
+➡ Co najbardziej lubisz robić ze swoimi przyjaciółmi?
 
-🏓🏓 18:30 Rozmowy Przy Stolikach 
-Każda osoba jest 5-minutowym moderatorem i może zrobić z tym czasem co zechce.
+🏓🏓 18:30 Rozmowy Przy Stolikach
+Na początek zaczynamy od 2-minutowego wstępu każdej osoby bez przerywania.
+Potem każda osoba jest 5-minutowym moderatorem i może zrobić z tym czasem co zechce.
 Proponowane: Wypowiedzieć się, a później pozwolić dyskusji płynąć.
 Moderatora wyznacza token.
 
@@ -60,8 +61,3 @@ Pewnie też przerwa
 
 Nareszcie wspólne rozmowy poza strukturą,
 by móc wyrzucić z siebie wszystko, czego nie dało się wcześniej.
-
-🥥🥥🥥🥥🥥🥥🥥🥥🥥
-
-Co Było?:
-???

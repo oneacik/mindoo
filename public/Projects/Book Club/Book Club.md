@@ -7,7 +7,9 @@ Szukasz wydarzeń?: [Strona Klubu Książkowego](https://www.facebook.com/profil
 Chcesz poznać jak kształtowała się nasza wizja i strategia?: [[Book Club - Strategy]]
 Chcesz poznać bliżej praktyki ze spotkań?: [[Book Club - Meeting Structure]]
 Szukasz Instrukcji Moderatora Stolika?: [[Book Club - Facilitator]]
-Chcesz dostać się do templatki wydarzenia?: [[Book Club - Event]] [[[Book Club - Event - Topic]]
+Chcesz dostać się do templatki wydarzenia?: 
+- [[Book Club - Event]] 
+- [[Book Club - Event - Topic]]
 
 
 ## Process
