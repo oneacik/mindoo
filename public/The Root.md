@@ -6,6 +6,8 @@
 
 # 2025
 
+- **2025-04** [[Health|What to do to be healthy?]]
+- **2025-04** [[How to diet]]
 - **2025-xx** [[2025]] - plan na 2025
 - **2025-03** [[Whoami]] - Aktualizacja
 - **2025-03** [[Hackerspace Vision]]
