@@ -15,7 +15,14 @@
 - **2025-01** TedX Wrzeszcz: [[O Trzecich Miejscach]]
 - **2025-01** [[If I were to meet a president of a city]]
 
-## 2024-03
+## 2025-04
+
+Sport: po takim spacerku, to aż się chce robić rzeczy w domu
+Jedzonko: Kapusta i ziemniaczki podstawą zdrowego żywienia
+Ciepło: Się lubi się - bo może psuć rzeczy
+Waga: Musi spadać - po spadku wagi zawsze lepsze spanko
+
+## 2025-03
 
 ### Cyclical Stuff
 
