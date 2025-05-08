@@ -37,14 +37,15 @@ Przykładowe pytania:
 ➡ Co ostatnio się u Ciebie stało, czym chciałbyś się pochwalić?
 ➡ Co najbardziej lubisz robić ze swoimi przyjaciółmi?
 
-🏓🏓 18:30 Rozmowy Przy Stolikach
+🏓🏓 18:30 Rozmowy Przy 6-osobowych Stolikach
+Technika tutaj użyta nazywa się: Conversation Cafe
 Na początek zaczynamy od 2-minutowego wstępu każdej osoby bez przerywania.
-Potem każda osoba jest 5-minutowym moderatorem i może zrobić z tym czasem co zechce.
-Proponowane: Wypowiedzieć się, a później pozwolić dyskusji płynąć.
-Moderatora wyznacza token.
+Potem dyskutujemy na wolno.
+Skupmy się na słuchaniu doświadczeń innych, a w drugiej kolejności na dyskusji i wygłaszaniu opini,
+by dowiedzieć się czegoś nowego o świecie i by rozmowa miała przyjemny przebieg.
 
 🎣🎣 19:40 Podsumowanie
-Jedno zdanie, które opisuje, co wyciągneliśmy z tej dyskusji.
+Jedno zdanie od każdej osoby, które opisuje, co wyciągneliśmy z tego spotkania.
 
 🦬🦬 --:20 Buforek
 Czas Buforowy, bo wszystko może się przedłużyć.
@@ -56,6 +57,7 @@ Pewnie też przerwa
 10 minut - Rozmowy w 2 osoby, by zastanowić się nad swoją książką.
 10 minut - Rozmowy w 4 osoby, by wybrać jedną książkę.
 10 minut - Przedstawienie książek wszystkim i głosowanie
+Tutaj chciałbym wykorzystać technikę fishbowl experience...
 
 🎉🎉 20:30 Afterek@???
 
