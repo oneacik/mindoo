@@ -7,11 +7,13 @@
 🥥🥥🥥🥥🥥🥥🥥🥥🥥
 
 Dla Kogo?:
-80% to entuzjastyczne osoby w wieku 25-40lat.
-20% wymyka się z naszych wyobrażeń.
-Ty będziesz kolejny/a.
+Każda osoba ma swoje doświadczenia, a my pragniemy usłyszeć o nich jak najwięcej :>.
+Odnajdziesz się, jeżeli jesteś otwartą, ciekawską i słuchającą osobą.
+Na pewno poczujesz się zaopiekowany.
 
 Co przeczytać?:
+???
+Ile minimalnie?: 
 ???
 
 Zachęta:
@@ -25,25 +27,20 @@ Pytania Do Książki:
 🏹 Struktura Spotkania 🏹
 
 🕷️🕷️ 18:00 Impromptu Networking
-
 Co 5 minut zmieniamy się w dwójkach.
 Rozmawiamy tak, by się poznać - jeszcze nie o książce.
 Przykładowe pytania:
-➡️  Dlaczego zainteresowała Cię to spotkanie?
-➡️  Jakie masz plany i marzenia?
-➡️  Kim tak naprawdę jesteś?
+➡ Dlaczego zainteresowało Cię to spotkanie?
+➡ Co ostatnio się u Ciebie stało, czym chciałbyś się pochwalić?
+➡ Co najbardziej lubisz robić ze swoimi przyjaciółmi?
 
-👯👯 18:30 1-2-4
+🏓🏓 18:30 Conversation Cafe w 6-osobowych grupach
+Początek to dwie rundki z Totemem, gdzie każdy może się wypowiedzieć.
+Później 40min luźnej dyskusji.
+Na koniec podsumowanie, kto co wyniósł z grupy.
 
-Rozmyślamy na pytania do książki (i nie tylko).
-Najpierw chwila samodzielnej refleksji.
-Potem 15 minut w dwójkach, a potem 15 minut w czwórkach.
-
-🏓🏓 19:00 Rozmowy Przy Stolikach 
-
-Każda osoba jest 5-minutowym moderatorem i może zrobić z tym czasem co zechce.
-Proponowane: Wypowiedzieć się, a później pozwolić dyskusji płynąć.
-Moderatora wyznacza token.
+🎣🎣 19:40 Podsumowanie
+Jedno zdanie od każdej osoby, które opisuje, co wyciągneliśmy z tego spotkania.
 
 🦬🦬 --:20 Buforek
 Czas Buforowy, bo wszystko może się przedłużyć.
@@ -52,10 +49,10 @@ Pewnie też przerwa
 📷📷 Wspólne Zdjęcie na tło strony i nie tylko
 
 🥊🥊 20:00 Pojedynek na Książki
-
 10 minut - Rozmowy w 2 osoby, by zastanowić się nad swoją książką.
 10 minut - Rozmowy w 4 osoby, by wybrać jedną książkę.
 10 minut - Przedstawienie książek wszystkim i głosowanie
+Tutaj chciałbym wykorzystać technikę fishbowl experience...
 
 🎉🎉 20:30 Afterek@???
 

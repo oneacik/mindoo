@@ -37,12 +37,10 @@ Przykładowe pytania:
 ➡ Co ostatnio się u Ciebie stało, czym chciałbyś się pochwalić?
 ➡ Co najbardziej lubisz robić ze swoimi przyjaciółmi?
 
-🏓🏓 18:30 Rozmowy Przy 6-osobowych Stolikach
-Technika tutaj użyta nazywa się: Conversation Cafe
-Na początek zaczynamy od 2-minutowego wstępu każdej osoby bez przerywania.
-Potem dyskutujemy na wolno.
-Skupmy się na słuchaniu doświadczeń innych, a w drugiej kolejności na dyskusji i wygłaszaniu opini,
-by dowiedzieć się czegoś nowego o świecie i by rozmowa miała przyjemny przebieg.
+🏓🏓 18:30 Conversation Cafe w 6-osobowych grupach
+Początek to dwie rundki z Totemem, gdzie każdy może się wypowiedzieć.
+Później 40min luźnej dyskusji.
+Na koniec podsumowanie, kto co wyniósł z grupy.
 
 🎣🎣 19:40 Podsumowanie
 Jedno zdanie od każdej osoby, które opisuje, co wyciągneliśmy z tego spotkania.
