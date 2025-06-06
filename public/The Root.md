@@ -6,6 +6,7 @@
 
 # 2025
 
+- **2025-06** [[Events|5 times Workshop how to organise great events]]
 - **2025-04** [[Health|What to do to be healthy?]]
 - **2025-04** [[How to diet]]
 - **2025-xx** [[2025]] - plan na 2025
