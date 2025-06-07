@@ -24,22 +24,26 @@ w żyjący organizm,
 który eksperymentuje i dąży do spełnienia potrzeb i oczekiwania uczestników.
 
 Jak:
-5-częściowy cykl warsztatów + 1 spotkanie "po miesiącach"
+6-częściowy cykl warsztatów + 1 spotkanie "po miesiącach"
 
 ## Plan
 
 ### Legenda
 
 - Wstęp: Dzielenie się w kole z totemem
+- Impromptu Networking: Krótkie rozmowy w parach
 - 1-2-4-All: 3 minuty zastanowienia nad tematem samemu, 7 minut rozmów w parze, 10 minut rozmów w 4 osoby, 10 minut podzielenia się wypracowanymi pomysłami
 - Prezentacja: Prezentacja
 - Warsztaty: Warsztaty przy stole 6-osobowym. Dogadajcie się jakie wasze wydarzenia chcecie wziąć na warsztat.
-- Dyskusja: 6-osobowe stoliki i dyskusja przy nich
+- Dyskusja: 6-osobowe stoliki i dyskusja przy nich + Wspólne podsumowanie w kole
 - Retrospektywa: Karteczki (Good/Bad) - Głosowanie - Dyskusja
 
 
 ### Konspekt
 
+0. Rozpoczęcie
+    1. Prezentacja (10m): O czym są te warsztaty?
+    2. Impromptu Networking (1h): Zapoznanie uczestników ze sobą
 1. Purpose: Jak nie tworzyć wydarzenia dla samego wydarzenia, czyli o celu w wydarzeniach i dlaczego jest taki ważny
     1. Koło (10m): Co chcemy wyjąć z dzisiejszego spotkania?
     2. Prezentacja (10min): Art Of Gathering: Kategoria to nie Cel spotkania
@@ -64,4 +68,23 @@ Jak:
     4. Warsztat (1h): Zaprojektuj swoje wydarzenie
 5. Sytuacje Nadzwyczajne
     1. Dyskusje (1h) - Sytuacje trudne i kryzysowe jakich doświadczyliście i jak poradziliście sobie z nimi?
-    1. Retrospektywa - Co poszło źle, a co mogłoby pójść lepiej na tych wydarzeniach
+    1. Retrospektywa (45m) - Co poszło źle, a co mogłoby pójść lepiej na tym warsztacie?
+    1. What, So What, Now What? (15min) - Co zamierzacie zrobić po tym warsztacie?
+6. Spotkanie po latach
+    1. Dyskusje (1h) - Jak te warsztaty wpłynęły na wasze inicjatywy?
+    1. Social Network Webbing (1h) - Niesamowite osoby, które poznaliście, i branżowo, i osobiście. 
+
+### Rozkład Wydarzenia
+
+| Godzina          | Sobota             | Niedziela                    |
+| -                | -                  | -                            |
+|12:00 - 14:00     | 0.                 | 3.                           |
+|14:00 - 14:30     | Przerwa            | Przerwa                      |
+|14:30 - 16:30     | 1.                 | 4.                           |
+|16:30 - 17:00     | Przerwa            | Przerwa                      |
+|17:00 - 19:00     | 2.                 | 5.                           |
+|19:00 - 20:00     | Czas Buforowy      | Czas Buforowy                |
+
+3 miesiące później:
+
+W jakimś pubie: (6.)
