@@ -7,6 +7,11 @@
     - bo w sobotę zaczyna się tygodniowy festiwal, ale ostatecznie mogę się zjawić w niedziele
 - Inne linki
     - [[Book Club]]
+- Zdjęcia:
+    - Strona Wydarzenia: https://www.facebook.com/profile.php?id=61566936723621
+        - Można wykorzystać logo
+        - Można wykorzystać tło
+    - Organizator: https://www.facebook.com/profile.php?id=100002526985218
 
 ## Opis
 
