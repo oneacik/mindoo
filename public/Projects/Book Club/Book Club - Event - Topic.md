@@ -34,8 +34,8 @@ Co 5 minut zmieniamy się w dwójkach.
 Rozmawiamy tak, by się poznać - jeszcze nie o książce.
 Przykładowe pytania:
 ➡ Dlaczego zainteresowało Cię to spotkanie?
-➡ Co ostatnio się u Ciebie stało, czym chciałbyś się pochwalić?
-➡ Co najbardziej lubisz robić ze swoimi przyjaciółmi?
+➡ Co Cię ostatnio zainspirowało?
+➡ O czym ostatnio marzysz? Co planujesz?
 
 🏓🏓 18:30 Conversation Cafe w 6-osobowych grupach
 Początek to dwie rundki z Totemem, gdzie każdy może się wypowiedzieć.
@@ -52,10 +52,9 @@ Pewnie też przerwa
 📷📷 Wspólne Zdjęcie na tło strony i nie tylko
 
 🥊🥊 20:00 Pojedynek na Książki
-10 minut - Rozmowy w 2 osoby, by zastanowić się nad swoją książką.
-10 minut - Rozmowy w 4 osoby, by wybrać jedną książkę.
-10 minut - Przedstawienie książek wszystkim i głosowanie
-Tutaj chciałbym wykorzystać technikę fishbowl experience...
+Wybór książek w podgrupach.
+Krótka dyskusja nad wybranymi książkami w gronie wybranych reprezentantów książki.
+Głosowanie nad książką na kolejne spotkanie.
 
 🎉🎉 20:30 Afterek@???
 
