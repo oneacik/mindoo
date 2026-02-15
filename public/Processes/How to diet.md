@@ -1,4 +1,45 @@
-## Current iteration Hail The Liver 2025-03
+## Current iteration: I should not love chocolate! 2026-01
+
+
+## Definitions
+
+Allpot - pot containing some stew that may be eaten all the time
+Lentils Allpot = Lentils, Potatoes, Tomato Sauce, Masala
+Ginger Allpot = Lentils, Ginger, Coconut Oil, spices
+
+
+
+## What to do?
+
+### Daily
+Breakfast:
+Allpot with fresh egg + fatless sauce (Sriracha) + Optional Kimchi (or other).
+
+Dinner: ???
+
+Supper: ???
+
+
+## What is great?
+- Allpot is low maintenance
+- Love tuna
+
+## What to do
+- Smallest portions
+- Try to stop eating at evening
+- It won't work when after coffee
+
+## What failed misearably - I am almost 100kg
+- 100% Chocolate, won't make u full.
+- Also 100% nut butters won't
+- Winter = No sport
+- No cooking = bad
+- Mayo is bad
+
+
+
+
+## Current iteration: Hail The Liver 2025-03
 
 ### Yes
 
