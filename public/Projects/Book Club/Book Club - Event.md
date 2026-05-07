@@ -42,7 +42,7 @@ Co 10 minut zmieniamy się w dwójkach, 3 razy.
 Znajdź osobę, która Cię zaciekawiła,
 porozmawiaj z nią tak byście chcieli rozmawiać przy stoliku, a potem na integracji.
 Przykładowe pytania:
-➡ Dlaczego zainteresowało Cię to spotkanie?
+➡ Co Cię zainteresowało w Twoim partnerze?
 ➡ Co Cię fascynuje w życiu?
 ➡ Jaki kształt ma Twoja esencja?
 
@@ -51,6 +51,7 @@ Przywitanie i standardowa opowieść, że spotykamy się na klubie, by poznawać
 rozszerzać nasze perspektywy i uczyć się wpływać na rzeczywistość.
 Podczas tego momentu komunikowane są ogłoszenia i agenda.
 Teraz można pytać się o rzeczy, a przede wszystkim ❗PROPONOWAĆ ZMIANY❗ w agendzie i zabawy.
+Zostanie też zaproponowana kategoria książki, która dostanie dodatkowe 10% głosów podczas wyborów.
 
 🏓🏓 18:30 (1h) Conversation Cafe w 6-osobowych grupach
 Zdefiniujcie razem strukturę stolika przed rozpoczęciem dyskusji, 
@@ -83,6 +84,7 @@ Najlepsze książki są te, które:
 - Pozwalają lepiej poznać drugą osobę podczas dyskusji
 - Poszerzają nasze perspektywy
 - Umożliwiają nam lepiej wpływać na rzeczywistość
+Podczas przedstawiania książki warto do tych punktów nawiązać.
 Przy braku czasu zostanie to przeniesione na whatsappa.
 
 🎉🎉 20:15 Afterek@???

@@ -1,3 +1,30 @@
+## Current iteration: Structurize and process
+
+### Principles
+- Cooking good food should be easy
+
+### Timetable
+
+- Breakfast
+    - Egg
+    - Rice
+    - Kimchi
+    - Pulp
+    - Porridge
+- Dinner
+    - Meat
+    - Potatoes
+    - Rice
+    - Kimchi
+    - Pickles
+- Supper
+    - ???
+- Support
+    - Cow milk/Yoghurt - Self Done
+    - Steamed Buns - Self Done
+    - Sauces
+    - Dried Fruits
+
 ## Current iteration: I should not love chocolate! 2026-01
 
 
