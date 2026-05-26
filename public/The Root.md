@@ -4,6 +4,10 @@
 - Join best club you will ever attend: [[Book Club]]
 - Hackerspace is still working: https://hsp.sh
 
+# 2026
+
+- **Piknik** [[2026-05-20-piknik]]
+
 # 2025
 
 - **2025-06** [[Organising Events Workshop]]
